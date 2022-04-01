@@ -1,0 +1,256 @@
+https://www.javatpoint.com/argparse-in-python::the argparse in python - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev the argparse in python in this article, we will learn the argparse module in python. we will explore its working and functionalities. it is a very important topic for the fundamental developer, engineer, and computer scientist. as we all familiar, python is popular for containing and rich library. if the developer writes the script for the command line, he/she is also required to pass the command-line argument that we can create using the argparse library. in this article, we will explore the following topics related to argparse. what is the command-line interface? what is argparse in python? how to implement python argparse library to create a command-line interface? types of arguments in command-line interface python argparse positional argument python argparse positional argument default values using a short name for optional arguments combining optional and positional arguments with argparse conclusion let's understand what is argparse is and how we can implement it. what is command line interface? the command-line interface is also known as the cli, which interacts with a command-line script. python provides many libraries that allow us to work with the cli, but python argparse is the most suitable library in the current scenario. how does the command line interface work? before getting deep down into this topic, we need to understand how the command line interface works? so open the command line terminal and type the ls command to get the entire list of files available in the system. 
+c:\users\devansh sharma>ls
+ output: face.png
+favorites
+file1.txt
+file2.txt
+flower.jpg
+forest.jpg
+gow-0.8.0.exe
+gradients.jpg
+hadoop-2.8.0
+hadoop-2.8.0.tar.gz
+hello_fullstack
+highway.mp4
+iba_ioapdata
+innocentcat
+intelgraphicsprofiles
+international-cricket-players-data.zip
+iris.csv
+iris.zip
+java_error_in_pycharm_6408.log
+java_error_in_pycharm_6684.log
+jtp_logo.png
+linear_reg
+linear_reg.zip
+links
+local settings
+main_image.jpg
+mario.png
+metastore_db
+microsoftedgebackups
+music
+my documents
+mycus
+9c409ba1dd3f}.tmcontainer00000000000000000001.regtrans-ms
+ntuser.dat{42939bbc-edb6-11ea-9c24-9c409ba1dd3f}.tmcontainer00000000000000000002.regtrans-ms
+ntuser.ini
+pyspark dataframe.ipynb
+pyspark rdd.ipynb
+pyspark sql.ipynb
+pyspark udf.ipynb
+tesseract-3.02.02-win32-lib-include-dirs
+tesseract-3.02.02-win32-lib-include-dirs.zip
+ as we can see in the above output, the ls command returns many files that are available in the current directory. now, we will run the ls command by adding option -l to the command line. 
+c:\users\devansh sharma>ls -l
+ output: total 717704
+drw-rw-rw-   2 devansh sharma 0         0 2020-04-07 13:25 __pycache__
+dr--r--r--   2 devansh sharma 0         0 2020-09-03 13:42 3d objects
+drw-rw-rw-   2 devansh sharma 0         0 2014-01-03 15:37 8235702-a50f7c449c41b6dc8eb87d8d393eeff62121b392
+drw-rw-rw-  20 devansh sharma 0     32768 2020-12-07 16:20 anaconda3
+drw-rw-rw-   5 devansh sharma 0         0 2020-09-03 13:02 appdata
+drw-rw-rw-   2 devansh sharma 0      8192 2021-02-11 21:39 application data
+-rw-rw-rw-   1 devansh sharma 0       224 2019-11-13 14:38 array.mat
+-rw-rw-rw-   1 devansh sharma 0     69548 2019-12-03 14:18 ballon.jpg
+-rw-rw-rw-   1 devansh sharma 0     69548 2019-12-03 14:20 baloon.jpg
+-rw-rw-rw-   1 devansh sharma 0      1857 2019-10-15 12:16 binary.png
+-rw-rw-rw-   1 devansh sharma 0         5 2020-04-01 16:46 binfile.bin
+-rw-rw-rw-   1 devansh sharma 0     13911 2019-10-16 11:52 blob.jpg
+-rw-rw-rw-   1 devansh sharma 0    244879 2019-10-14 14:19 book1.jpg
+-rw-rw-rw-   1 devansh sharma 0     10064 2020-04-07 16:35 calculation.py
+-rw-rw-rw-   1 devansh sharma 0     23073 2019-12-06 15:30 calibresult.jpg
+-rw-rw-rw-   1 devansh sharma 0       336 2019-11-29 15:11 cat.jpeg
+-rw-rw-rw-   1 devansh sharma 0         0 2019-12-05 12:34 cat.jpg
+-rw-rw-rw-   1 devansh sharma 0     13001 2019-10-13 17:22 cat_16x9.jpg
+-rw-rw-rw-   1 devansh sharma 0    249726 2019-10-13 15:02 cat1.jpg
+-rw-rw-rw-   1 devansh sharma 0      5633 2019-12-04 11:16 coin.jpg
+-rw-rw-rw-   1 devansh sharma 0      8652 2019-12-04 11:23 coin1.png
+-rw-rw-rw-   1 devansh sharma 0     59918 2020-03-02 11:22 comic.png
+dr--r--r--   2 devansh sharma 0         0 2020-09-03 13:42 contacts
+ what is argparse in python? python argparse is a command-line parsing module that is recommended to work with the command line argument. this module was released as a part of the standard library with python on 20th february 2011. it is similar to the getopt module, but it is slightly hard to use and requires more code lines to perform the same task. however, the argparse module is the better replacement of the python getopt and optparse module. it provides a few important features that are given below. it allows us to use to positional argument. it allows us to customize the prefix chars. it supports variable numbers of parameters for a single option. it supports subcommands. how to implement the argparse library to create a command-line interface? let's see the following simple example to understand the working of the argparse module in python. example - in the following example, we create a simple python program to perform the add operation using the argparse module. we will pass the argument through the command-line interface. 
+# importing argparse module
+import argparse
+parser = argparse.argumentparser()
+
+# creating two variables using the add_argument method
+parser.add_argument("num1", help = "first number")
+parser.add_argument("num2", help = "second number")
+parser.add_argument("operation", help = "operation")
+ we have imported the argparse module and created a simple parser that will use throughout the program. we have called the add_argument() method and pass two arguments - num1 and help. we have saved the above code in the file named code.py. to run this program, we open the command-line interface and run the above file. command 
+c:\users\devansh sharma\pycharmprojects\elasticsearch>python code.py
+ when we press enter, it will show the following output. output: usage: code.py [-h] num1 num2 operation
+code.py: error: the following arguments are required: num1, num2, operation
+ as we can see, it shows error because we didn't pass the required argument. now, we will pass the optional argument - h which is basically used for help. command 
+c:\users\devansh sharma\pycharmprojects\elasticsearch>python code.py -h
+ it will show the following output. usage: code.py [-h] num1 num2 operation
+
+positional arguments:
+  num1        first number
+  num2        second number
+  operation   operation
+
+optional arguments:
+  -h, --help  show this help message and exit
+ we get all the arguments list which we have defined in our python program. now, we will print both arguments and the operation by adding the following operation. when we execute the .parse_args(), we get a namespace object containing a simple property of each input argument received from the command line. 
+args = parser.parse_args()
+
+print(args.num1)
+print(args.num2)
+print(args.operation)
+ we print the argument to the console using the args variable. by default, it takes input as so we need to typecast into integer. 
+n1 = int(args.num1)
+n2 = int(args.num2)
+ to add these two numbers, we define the add operation in our code. 
+result = n1 + n2
+print("the result is : ",result)
+ c:\users\devansh sharma\pycharmprojects\elasticsearch>python code.py 20 30 add
+20
+30
+add
+the result is :  50
+ example - 1 simple calculator program using argparse 
+# importing argparse module
+import argparse
+parser = argparse.argumentparser()
+
+# creating two variables using the add_argument method
+parser.add_argument("num1", help = "first number")
+parser.add_argument("num2", help = "second number")
+parser.add_argument("operation", help = "operation")
+
+
+args = parser.parse_args()
+
+print(args.num1)
+print(args.num2)
+print(args.operation)
+
+n1 = int(args.num1)
+n2 = int(args.num2)
+
+
+if args.operation == "add":
+    result = n1 + n2
+    print("the result is : ",result)
+
+elif args.operation == "sub":
+    result = n1 - n2
+
+elif args.operation == "mul":
+    result = n1 * n2
+elif args.operation == "div":
+    result = n1 / n2
+else:
+    print("unmatched argument")
+
+print("result is : ",result)
+ output: types of argument in command line interface there are two arguments that we can add to the command-line interface. positional argument optional argument let's understand the both arguments. positional argument - positional arguments are the types of argument that we use in command to operate. we pass the argument to the command and perform some operations. their position defines by their function. that's why they are called a positional argument. by default, the positional arguments are treated as string, however we can typecast in other data types. in the previous example, we have used positional arguments to perform the add operation between the two numbers. let's understand the following code. example - 1 
+import argparse
+
+parser = argparse.argumentparser()
+
+# by default, it treats input number as string
+parser.add_argument('num', help="enter nmber to get square of it.")
+args = parser.parse_args()
+print(args.num**2)
+ output: we have passed 15 and it returned 1515 because argparse treated as string. we can correct this using the type attribute. example - 
+import argparse
+
+parser = argparse.argumentparser()
+
+
+parser.add_argument('num', help="enter number to get square of it.", type = int)
+args = parser.parse_args()
+print(args.num**2)
+ output: now, we get the desired result. optional argument - optional argument are not mandatory. we will not get the error if not passed to the script. these types of arguments are started with the - single dash or "--" double dash prefix. we need to call the .add_parse() to pass the optional arguments. let's understand the following example. example - 
+# importing argparse module
+import argparse
+parser = argparse.argumentparser()
+
+# creating two variables using the add_argument method
+parser.add_argument("--num1", help = "first number")
+parser.add_argument("--num2", help = "second number")
+parser.add_argument("--operation", help = "operation")
+
+
+args = parser.parse_args()
+
+print(args.num1)
+print(args.num2)
+print(args.operation)
+
+n1 = int(args.num1)
+n2 = int(args.num2)
+
+
+if args.operation == "add":
+    result = n1 + n2
+    print("the result is : ",result)
+
+elif args.operation == "sub":
+    result = n1 - n2
+
+elif args.operation == "mul":
+    result = n1 * n2
+elif args.operation == "div":
+    result = n1 / n2
+else:
+    print("unmatched argument")
+
+print("result is : ",result)
+ when we run the above code without passing any arguments, it will show the following output. output: as we can see in the above code, we ran the script without passing any optional argument and instead of returning error it returns none. the help message and data types for optional parameters are same as in positional parameters. python argparse positional argument sometimes, we need the arguments that are mandatory to be passed in the script on execution. let's see an example it not passed. example - 
+import argparse
+
+parser = argparse.argumentparser()
+parser.add_argument("example")
+args = parser.parse_args()
+
+if args.example == 'hello python':
+    print('welcome to javatpoint')
+else:
+    print("didn't make it!")
+ when we run the above code with the different parameter, it will show the following argument. output: we can show the error if the argument is not passed in the command line terminal. python argparse positional argument default values we can provide the default value to a variable or argument using the argparse module. in the previous example, positional argument value is empty when not provided. let's understand the following example. example - 
+import argparse
+
+parser = argparse.argumentparser()
+parser.add_argument("example", default = "hello how are you")
+args = parser.parse_args()
+
+if args.example == 'hello':
+    print('welcome to javatpoint')
+else:
+    print("didn't make it!")
+ output: using short name for optional argument passing the many optional can make our python script long. so we can assign the short name to the parameters as well. we can give the abbreviation name to parameters; it will help us to keep our python script short. let's understand the following example. example - 
+import argparse
+
+parser = argparse.argumentparser()
+parser.add_argument('-tut', '--tutorial', help="best tutorial ")
+parser.add_argument('-w', '--writer', help="technical content")
+args = parser.parse_args()
+
+if args.tutorial == 'javatpoint':
+    print('congratulation|| you made it!')
+
+if args.writer == 'devansh':
+    print('technical writer.')
+ output: c:\users\devansh sharma\pycharmprojects\elasticsearch>python code.py -w devansh
+technical writer.	
+ in the above code, we have assigned the short to both optional arguments. we can access it by using its short name. combining optional and positional arguments with argparse we can combine both optional and position arguments using the argparse as follows. let's understand the following example. example - 
+import argparse
+
+parser = argparse.argumentparser()
+# positionl argument
+parser.add_argument('tutorial', help="best tutorial ")
+# optional argument 
+parser.add_argument('-w', '--writer', help="technical content")
+args = parser.parse_args()
+
+if args.tutorial == 'javatpoint':
+    print('you made it!')
+
+if args.writer == 'devansh':
+    print('technical writer.')
+ output: c:\users\devansh sharma\pycharmprojects\elasticsearch>python code.py javatpoint -w devansh
+you made it!
+technical writer.
+ we have passed both types of argument to the command-line and get the above output. conclusion so far, we have discussed all-important concept of the argparse python module. we have learned how we can create them and how we can use them through the command-line interface. we have also learned what the argparse module is and why it is important to write command-line scripts in python. this module helps us create self-explanatory programs and provide users with a means of interacting with our application. next topicpython tqdm module ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

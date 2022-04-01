@@ -1,0 +1,423 @@
+https://www.javatpoint.com/menu-driven-programs-in-python::menu-driven programs in python - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev menu-driven programs in python an introduction to menu-driven program menu-driven program is a program that gets input from a user by showing the options list, known as the menu, from which the user chooses their option. systems processing the menu-driven programs are ordinary, starting from washing machines controlled by microprocessors to automated teller machines (atms). taking the atm case, the user presses single keys to indicate the type of transaction (if the user wants a receipt with the cash, or if an account statement is needed). with many, the user presses a single key to indicate the amount of cash for withdrawal. the menu-driven systems are beneficial in two ways: at first, input is taken by the single keystrokes, which reduces the chance of the system too prone to user error. secondly, menu-driven systems limits the characters range resulting in the way where the entered input becomes unambiguous. hence, these two characteristics make the whole system pretty user-friendly. in the following tutorial, we will discover some menu-driven programs written in python. these programs will let us understand different aspects of menu-driven programs along with different libraries and modules of python programming language. so, let's get started. calculate the parameter and area of different shapes using functions program: 
+# defining functions
+def p_circle(radius):
+    para = 2 * 3.14 * radius
+    print("parameter of circle:", para)
+
+def p_rectangle(height, width):
+    para = 2 * (height + width)
+    print("parameter of rectangle:", para)
+
+def p_square(side):
+    para = 4 * side
+    print("parameter of square:", para)
+
+def a_circle(radius):
+    area = 3.14 * radius * radius
+    print("area of circle:", area)
+
+def a_rectangle(height, width):
+    area = height * width
+    print("area of rectangle:", area)
+
+def a_square(side):
+    area = side * side
+    print("area of square:", area)
+
+# printing the starting line
+print("welcome to a simple mensuration program")
+
+# creating options
+while true:
+    print("\nmain menu")
+    print("1. calculate parameter")
+    print("2. calculate area")
+    print("3. exit")
+    choice1 = int(input("enter the choice:"))
+
+    if choice1 == 1:
+        print("\ncalculate parameter")
+        print("1. circle")
+        print("2. rectangle")
+        print("3. square")
+        print("4. exit")
+        choice2 = int(input("enter the choice:"))
+
+        if choice2 == 1:
+            radius = int(input("enter radius of circle:"))
+            p_circle(radius)
+            
+        elif choice2 == 2:
+            height = int(input("enter height of rectangle:"))
+            width = int(input("enter width of rectangle:"))
+            p_rectangle(height, width)
+            
+        elif choice2 == 3:
+            side = int(input("enter side of square:"))
+            p_square(side)
+
+        elif choice2 == 4:
+            break
+            
+        else:
+            print("oops! incorrect choice.")
+    
+    elif choice1 == 2:
+        print("\ncalculate area")
+        print("1. circle")
+        print("2. rectangle")
+        print("3. square")
+        print("4. exit")
+        choice3 = int(input("enter the choice:"))
+
+        if choice3 == 1:
+            radius = int(input("enter radius of circle:"))
+            a_circle(radius)
+            
+        elif choice3 == 2:
+            height = int(input("enter height of rectangle:"))
+            width = int(input("enter width of rectangle:"))
+            a_rectangle(height, width)
+            
+        elif choice3 == 3:
+            side = int(input("enter side of square:"))
+            a_square(side)
+
+        elif choice3 == 4:
+            break
+            
+        else:
+            print("oops! incorrect choice.")
+    
+    elif choice1 == 3:
+        break
+    
+    else:
+        print("oops! incorrect choice.")
+ output: welcome to a simple mensuration program
+
+main menu
+1. calculate parameter
+2. calculate area
+3. exit
+enter the choice:1
+
+calculate parameter
+1. circle
+2. rectangle
+3. square
+4. exit
+enter the choice:2
+enter height of rectangle:4
+enter width of rectangle:5
+parameter of rectangle: 18
+
+main menu
+1. calculate parameter
+2. calculate area
+3. exit
+enter the choice:2
+
+calculate area
+1. circle
+2. rectangle
+3. square
+4. exit
+enter the choice:1
+enter radius of circle:2
+area of circle: 12.56
+
+main menu
+1. calculate parameter
+2. calculate area
+3. exit
+enter the choice:5
+oops! incorrect choice.
+
+main menu
+1. calculate parameter
+2. calculate area
+3. exit
+enter the choice:3
+ explanation: in the above example, we have defined different functions printing the estimated value after calculation. these functions include the parameters and areas of circle, rectangle, and square, respectively. we have then printed the heading of the program saying: welcome to a simple mensuration program. below that, we have used the infinite while loop to print the main menu containing different options. the program then uses the if-elif-else statements to ask the user to input the integer choosing the options. the program will also raise an exception if the inserted integer is not present in the options list. we have then created two different submenus separating the parameter option and the area option. we have then added few more options within these submenus describing different shapes. these options also take different integer values indicating the radius for circle, height and width for rectangle, and side for square. as a result, the menu-driven program is successfully created and is able to calculate the parameter and areas of different shapes. menu-driven program to create a simple calculator in the following menu-driven program, we are going to build a simple calculator in python. we will use the infinite while loop and functions same as above. we will design a menu allowing the user to interact with the calculator functions such as addition, subtract, multiplication and division. let us consider the following program's syntax: program: 
+# defining addition function
+def add(a, b):
+    sum = a + b
+    print(a, "+", b, "=", sum)
+
+# defining subtraction function
+def subtract(a, b):
+    difference = a - b
+    print(a, "-", b, "=", difference)
+
+# defining multiplication function
+def multiply(a, b):
+    product = a * b
+    print(a, "x", b, "=", product)
+
+# defining division function
+def divide(a, b):
+    division = a / b
+    print(a, "/", b, "=", division)
+
+# printing the heading
+print("welcome to a simple calculator")
+
+# using the while loop to print menu list
+while true:
+    print("\nmenu")
+    print("1. sum of two numbers")
+    print("2. difference between two numbers")
+    print("3. product of two numbers")
+    print("4. division of two numbers")
+    print("5. exit")
+    choice = int(input("\nenter the choice: "))
+
+# using if-elif-else statement to pick different options
+    if choice == 1:
+        print( "\naddition\n")
+        a = int( input("first number: "))
+        b = int( input("second number: "))
+        add(a, b)
+
+    elif choice == 2:
+        print( "\nsubtraction\n")
+        a = int( input("first number: "))
+        b = int( input("second number: "))
+        subtract(a, b)
+
+    elif choice == 3:
+        print( "\nmultiplication\n")
+        a = int( input("first number: "))
+        b = int( input("second number: "))
+        multiply(a, b)
+
+    elif choice == 4:
+        print( "\ndivision\n")
+        a = int( input("first number: "))
+        b = int( input("second number: "))
+        divide(a, b)
+
+    elif choice == 5:
+        break
+    
+    else:
+        print( "please provide a valid input!")
+ output: welcome to a simple calculator
+
+menu
+1. sum of two numbers
+2. difference between two numbers
+3. product of two numbers
+4. division of two numbers
+5. exit
+
+enter the choice: 1
+
+addition
+
+first number: 3
+second number: 4
+3 + 4 = 7
+
+menu
+1. sum of two numbers
+2. difference between two numbers
+3. product of two numbers
+4. division of two numbers
+5. exit
+
+enter the choice: 2
+
+subtraction
+
+first number: 6
+second number: 3
+6 - 3 = 3
+
+menu
+1. sum of two numbers
+2. difference between two numbers
+3. product of two numbers
+4. division of two numbers
+5. exit
+
+enter the choice: 3
+
+multiplication
+
+first number: 8
+second number: 2
+8 x 2 = 16
+
+menu
+1. sum of two numbers
+2. difference between two numbers
+3. product of two numbers
+4. division of two numbers
+5. exit
+
+enter the choice: 4
+
+division
+
+first number: 10
+second number: 4
+10 / 4 = 2.5
+
+menu
+1. sum of two numbers
+2. difference between two numbers
+3. product of two numbers
+4. division of two numbers
+5. exit
+
+enter the choice: 5
+ explanation: in the above program, we have used almost similar procedure we did in the previous program. we have defined various functions such as add, subtract, multiply, and divide. we have then used the while loop to print the menu list to the users and if-elif-else statements to return the answers that the user needed. as a result, a simple calculator is successfully created and performs some basic calculations like addition, subtraction, multiplication, and division. menu-driven program to create a phone directory in the following menu-driven program, we are going to create a phonebook directory using the different functions. we will add the following features to the phonebook directory: storing the contact numbers of people searching for the contact number using the person's name let us implement this idea in the following program: program: 
+# printing the heading of the program
+print( "welcome to the phonebook directory")
+
+# creating a .txt file to store contact details
+filename = "myphonebook.txt"
+myfile = open(filename, "a+")
+myfile.close
+
+# defining main menu
+def main_menu():
+    print( "\nmain menu\n")
+    print( "1. show all existing contacts")
+    print( "2. add a new contact")
+    print( "3. search the existing contact")
+    print( "4. exit")
+    choice = input("enter your choice: ")
+    if choice == "1":
+        myfile = open(filename, "r+")
+        filecontents = myfile.read()
+        if len(filecontents) == 0:
+            print( "there is no contact in the phonebook.")
+        else:
+            print(filecontents)
+        myfile.close
+        enter = input("press enter to continue ...")
+        main_menu()
+    elif choice == "2":
+        newcontact()
+        enter = input("press enter to continue ...")
+        main_menu()
+    elif choice == "3":
+        searchcontact()
+        enter = input("press enter to continue ...")
+        main_menu()
+    elif choice == "4":
+        print("thank you for using phonebook!")
+    else:
+        print( "please provide a valid input!\n")
+        enter = input( "press enter to continue ...")
+        main_menu()
+
+# defining search function        
+def searchcontact():
+    searchname = input( "enter first name for searching contact record: ")
+    remname = searchname[1:]
+    firstchar = searchname[0]
+    searchname = firstchar.upper() + remname
+    myfile = open(filename, "r+")
+    filecontents = myfile.readlines()
+     
+    found = false
+    for line in filecontents:
+        if searchname in line:
+            print( "your required contact record is:", end = " ")
+            print( line)
+            found = true
+            break
+    if found == false:
+        print( "the searched contact is not available in the phone book", searchname)
+
+# first name
+def input_firstname():
+    first = input( "enter your first name: ")
+    remfname = first[1:]
+    firstchar = first[0]
+    return firstchar.upper() + remfname
+
+# last name
+def input_lastname():
+    last = input( "enter your last name: ")
+    remlname = last[1:]
+    firstchar = last[0]
+    return firstchar.upper() + remlname
+
+# storing the new contact details
+def newcontact():
+    firstname = input_firstname()
+    lastname = input_lastname()
+    phonenum = input( "enter your phone number: ")
+    emailid = input( "enter your e-mail address: ")
+    contactdetails = ("[" + firstname + " " + lastname + ", " + phonenum + ", " + emailid +  "]\n")
+    myfile = open(filename, "a")
+    myfile.write(contactdetails)
+    print( "the following contact details:\n " + contactdetails + "\nhas been stored successfully!")
+
+main_menu()
+ output: welcome to the phonebook directory
+
+main menu
+
+1. show all existing contacts
+2. add a new contact
+3. search the existing contact
+4. exit
+enter your choice: 1
+there is no contact in the phonebook.
+press enter to continue ...
+
+main menu
+
+1. show all existing contacts
+2. add a new contact
+3. search the existing contact
+4. exit
+enter your choice: 2
+enter your first name: mark
+enter your last name: henry
+enter your phone number: 1234567890
+enter your e-mail address: [email protected]
+the following contact details:
+ [mark henry, 1234567890, [email protected]]
+
+has been stored successfully!
+press enter to continue ...
+
+main menu
+
+1. show all existing contacts
+2. add a new contact
+3. search the existing contact
+4. exit
+enter your choice: 3
+enter first name for searching contact record: mark
+your required contact record is: [mark henry, 1234567890, [email protected]]
+
+press enter to continue ...
+
+main menu
+
+1. show all existing contacts
+2. add a new contact
+3. search the existing contact
+4. exit
+enter your choice: 1
+[mark henry, 1234567890, [email protected]]
+
+press enter to continue ...
+
+main menu
+
+1. show all existing contacts
+2. add a new contact
+3. search the existing contact
+4. exit
+enter your choice: 4
+thank you for using phonebook!
+ explanation: in the above menu-driven program, we have created a phonebook directory that can store a new contact in a text file, display the stored contacts and allow users to search an existing number too. first of all, we have created a text file to store the contact details. we have then defined various functions in order to add, show, and search different contacts. we have also created different contact detail fields such as first name, last name, mobile number, and e-mail address. as a result, the program is completed successfully, and the output of the same can be seen above. conclusion in the above tutorial, we have understood the meaning of menu-driven programming along with some examples. we have created three different programs, including the mensuration program, a simple calculator, and a phonebook directory. apart from these three, there are many other programs that one can create. next topicpython array vs. list ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

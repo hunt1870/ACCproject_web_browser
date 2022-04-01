@@ -1,0 +1,228 @@
+https://www.javatpoint.com/metaprogramming-with-metaclasses-in-python::metaprogramming with metaclasses in python - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev metaprogramming with metaclasses in python metaprogramming might sound new, but if the user has ever worked with decorators or metaclasses, they have used metaprogramming in their projects. therefore, we can say that metaprogramming is the program that is used for manipulating the program. in this tutorial, we will discuss the metaclasses and their uses and what their alternatives are. as this is an advanced topic of python, the users are advised to revise the basic concepts of "decorators in python" and "oops concepts in python" before starting this tutorial. metaclasses in python, every module or function is associated with some type. for example, if a user has a variable that has the integer value, then it is associated with an "int" type. the user can know the type of anything by using the type() method. example: 
+number = 13
+print("type of number is:", type(num))
+ 
+list = [3, 7, 8]
+print("type of list is:", type(list))
+ 
+name = "mark jackson"
+print("type of name is:", type(name))
+ output: type of number is: <class 'int'>
+type of list is: <class 'list'>
+type of name is: <class 'str'>
+ explanation - every type in python is defined by class. therefore, in the above example, they are the object of 'int,' 'list' or 'str' class type, unlike c language or java language in which int, char, and float are the primary data types. the users can create the new type by creating the class of that type. for example, we can create a new type of object by city class. example: 
+class city:
+    pass
+city_object = city()
+ 
+# now, we will print the type of object of city class
+print("type of city_object is:", type(city_object))
+ output: type of city_object is: <class '__main__.city'>
+ the class in python is also an object, and therefore, like other objects, it is an instance of metaclass. the metaclass is a special class type which is responsible for creating classes and class object. so, for example, if the user wants to find the type of the "city" class, they will find out that it is "type." example: 
+class city:
+    pass
+ 
+# now, we will print the type of the city class
+print("type of city class is:", type(city))
+ output: type of city class is: <class 'type'>
+ as the classes are also an object, we can modify them. for example, the user can add or subtract fields or functions in the class as we do with other objects. example: 
+# first, we will define the class without any using any class methods or variables.
+class city:
+    pass
+ 
+# now, we will define the method variables
+city.a = 65
+ 
+# we will now, define the class methods
+city.foo = lambda self: print('pune')
+ 
+# then, we will create the object
+userobject = city()
+ 
+print(userobject.a)
+userobject.foo()
+ output: 65
+pune
+ we can summarize the whole metaclass as: metaclass is used for creating classes, and these classes can create the objects. the metaclass is responsible for creating the classes so the user can write their customized metaclasses by inserting code or extra actions for modifying the way classes are created. usually, the user does not need the customized metaclass, but in exceptional cases, it is necessary. there are some issues that can be resolved by using metaclass or non-metaclass, but there are some cases in which the only metaclass is used for resolving them. how to create customized metaclass for creating the customized metaclass, the user customized metaclass has to inherit type metaclass and usually override, such as: __new__(): the __new__() function is classes before __int__() function. this is used for creating the object and return it. the user can override this function for controlling how the objects are created. __int__(): the __int__() function is used for initializing the created object which is passed as the parameter. the users can create the classes by using the type() method directly. the type() method can be called in the following ways: as shown in the previous example, the user can call it with one argument, and it will return the type. the user can call it in three parameters. it will create the class. the following arguments are passed in it: name of class pass the tuple which has base classes inherited by class class dictionary: this will be served as the local namespace for class, which is populated with functions and variables. example: 
+def city_method(self):
+    print("this is city class method!")
+ 
+# we will create the base class
+class base:
+    def userfunction(self):
+        print("this is a inherited method!")
+ 
+# we will create the city class dynamically by using
+# type() function.
+city = type('city', (base, ), dict(a = "mark jackson", user_method = city_method))
+ 
+# now, we will print the type of city
+print("the type of city class: ", type(city))
+ 
+# we will create the instance of city class
+city_object = city()
+print(" the type of city_object: ", type(city_object))
+ 
+# we will now call the inherited method
+city_object.userfunction()
+ 
+# we will call the city class method
+city_object.user_method()
+ 
+# at last we will print the variable
+print(city_object.a)
+ output: the type of city class:  <class 'type'>
+ the type of city_object:  <class '__main__.city'>
+this is a inherited method!
+this is city class method!
+mark jackson
+ now, let's see how to create a metaclass without using the type() function directly. for example, we will create the metaclass called multibases, which will check if the class being created has inherited from more than one base class. if so, it will raise an error. example: 
+# inside the metaclass
+class multibases(type):
+    # we will override the __new__() function
+    def __new__(city, city_name, bases, citydict):
+        # if the number of base classes are greator than 1
+        # it will raise an error
+        if len(bases)>1:
+            raise typeerror("there are inherited multiple base classes!!!")
+         
+        # else it will execute the __new__() function of super class, that is
+        # it will call the __init__() function of type class
+        return super().__new__(city, city_name, bases, citydict)
+ 
+# the metaclass can be specified by using 'metaclass' keyword argument
+# now we will use the multibase class for creating classes
+# this will be propagated to all subclasses of base
+class base(metaclass = multibases):
+    pass
+ 
+# this will raise no error
+class p(base):
+    pass
+ 
+# this will raise no error
+class q(base):
+    pass
+# this will raise no error
+class r(base):
+    pass
+# this will raise an error!
+class s(p, q, r):
+    pass
+ output: ---------------------------------------------------------------------------
+typeerror                                 traceback (most recent call last)
+<ipython-input-2-409c90c285d5> in <module>
+     29     pass
+     30 # this will raise an error!
+---> 31 class s(p, q, r):
+     32     pass
+
+<ipython-input-2-409c90c285d5> in __new__(city, city_name, bases, citydict)
+      6         # it will raise an error
+      7         if len(bases)>1:
+----> 8             raise typeerror("there are inherited multiple base classes!!!")
+      9 
+     10         # else it will execute the __new__() function of super class, that is
+
+typeerror: there are inherited multiple base classes!!!
+ how to solve the problem with metaclass there are some problems that users can solve by using metaclass and decorators. but there are some problems whose solution can be found only by using metaclass. such as, the user wants to debug the class function, what they want is that whenever the class function is executed, it will print their full qualified name before executing their body. example: 
+from functools import wraps
+ 
+def debugg(funct):
+    '''decorator for debugging passed function'''
+     
+    @wraps(funct)
+    def wrapperr(*args, **kwargs):
+        print("the full name of this function:", funct.__qualname__)
+        return funct(*args, **kwargs)
+    return wrapperr
+ 
+def debug_methods(clas):
+    '''class decorator make use of debug decorator
+       for debuging the class functions '''
+     
+    # now we will check in the class dictionary for any callable(function)
+    # if there is any, replace it with debugged version
+    for key, value in vars(clas).items():
+        if callable(value):
+            setattr(clas, key, debugg(value))
+    return clas
+ 
+# sample class
+@debugmethods
+class calculator:
+    def add(self, p, q):
+        return p+q
+    def mul(self, p, q):
+        return p*q
+    def div(self, p, q):
+        return p/q
+     
+user_cal = calculator()
+print(user_cal.add(5, 8))
+print(user_cal.mul(6, 7))
+print(user_cal.div(21, 7))
+ output: the full name of this method: calculator.add
+13
+the full name of this method: calculator.mul
+42
+the full name of this method: calculator.div
+3.0
+ explanation - the above solution is working fine, but there is one problem, which is the user wants to apply the decorator method to all the subclasses which have inherited the "calculator" class. so in that scenario, the user has to apply the decorator method separately to each subclass, just like we did in the above example for the calculator class. now, the actual problem is there can be loads of subclasses of the class, and applying the decorator method individually to each subclass is challenging and a time consuming process. so, to resolve this problem, the user must make sure that each subclass has this debug property, they should look for the metaclass based solution. example: we will create the class normally and then immediately we will wrap up by using the debug method decorator: 
+from functools import wraps
+ 
+def debugg(funct):
+    '''decorator for debugging passed function'''
+     
+    @wraps(funct)
+    def wrapperr(*args, **kwargs):
+        print("the full name of this function:", funct.__qualname__)
+        return funct(*args, **kwargs)
+    return wrapperr
+ 
+def debug_methods(clas):
+    '''class decorator will make use of the debug decorator
+       to the debug class '''
+     
+    for key, value in vars(clas).items():
+        if callable(value):
+            setattr(clas, key, debugg(value))
+    return clas
+ 
+class debug_meta(type):
+    '''meta class which feed created class object
+       to debug_method for getting debug functionality
+       enabled objects'''
+     
+    def __new__(clas, clasname, bases, clasdict):
+        object = super().__new__(clas, clasname, bases, clasdict)
+        object = debug_methods(object)
+        return object
+     
+# the base class with metaclass 'debug_meta'
+# now all the subclass of this will have the applied debugging function
+class base(metaclass = debug_meta):pass
+ 
+# now, we will inherite the base
+class calculator(base):
+    def add(self, p, q):
+        return p+q
+     
+#and then, we will inherite the calculator
+class calculator_adv(calculator):
+    def mult(self, p, q):
+        return p*q
+
+ 
+# now calculator_adv object will show
+# the behaviour og debugging
+
+user_cal = calculator_adv()
+print(user_cal.add(3, 7))
+user_cal = calculator_adv()
+print(user_cal.mult(3, 7))
+ output: the full name of this function: calculator.add
+10
+the full name of this function: calculator_adv.mult
+21
+ when the user should use metaclass users don't use metaclass most often, as metaclasses are mainly used for complicated situations. but there are few cases where the users can use the metaclass: as shown in the above example, metaclass is used for generating down the inheritance hierarchies. this will affect all the subclasses also. if the user has such situations, then they can use the metaclass. if the user wants to change the class automatically, they can use a metaclass when it is created. if the user is an application programming interface developer, they can use metaclasses for that purpose. conclusion in this tutorial, we have discussed metaclasses, how to customize the metaclass, and how users can use them to solve problems and complicated programming and their alternatives. next topicprecision handling in python ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

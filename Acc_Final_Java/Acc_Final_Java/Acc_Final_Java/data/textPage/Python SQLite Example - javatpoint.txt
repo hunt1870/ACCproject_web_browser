@@ -1,0 +1,82 @@
+https://www.javatpoint.com/python-sqlite::python sqlite example - javatpoint ? scroll to top home sqlite sql pl/sql mysql mongodb postgresql sql server oracle cassandra dbms python java aptitude interview q sqlite tutorial sqlite tutorial sql vs sqlite sqlite history sqlite features sqlite advantages sqlite installation sqlite commands sqlite syntax sqlite data types sqlite operators sqlite expressions databases sqlite create db sqlite attach db sqlite detach db table sqlite create table sqlite drop table crud operation sqlite insert query sqlite select query sqlite update query sqlite delete query clauses/conditions sqlite where sqlite and sqlite or sqlite like sqlite glob sqlite limit sqlite order by sqlite group by sqlite having sqlite distinct sqlite union sqlite union all sqlite joins sqlite joins sqlite inner join sqlite outer join sqlite cross join sqlite date & time sqlite date and time sqlite date() sqlite datetime() sqlite juliandday() sqlite now() sqlite strftime() sqlite time() aggregate functions aggregate functions sqlite min sqlite max sqlite avg sqlite count sqlite sum sqlite triggers sqlite triggers after insert after update after delete sqlite drop trigger sqlite keys primary key foreign key sqlite import/export sqlite import sqlite export connectivity java sqlite php sqlite python sqlite interview questions sqlite interview next ? ? prev connect sqlite with python first you have to install python and sqlite on your syatem. install python use the following code: 
+sudo apt-get update
+sudo apt-get upgrade python
+ press y and installation will be completed within seconds. install sqlite installation steps type in the following command: 
+sudo apt-get install sqlite3 libsqlite3-dev
+ after installation check installation, sqlite terminal will give you a prompt and version info ? 
+sqlite3
+ go to desired folder and create database: sqlite3 database.db it'll create database.db in the folder you've given the command. to check if your database is created, use the following command in sqlite3 terminal: 
+ .databases
+ note: to connect sqlite with python, you do not need to install the connection module separately because its being shipped by default along with python version 2.5.x onwards. sqlite with python create a python file "connect.py", having the following code: 
+#!/usr/bin/python
+
+import sqlite3
+
+conn = sqlite3.connect('javatpoint.db')
+
+print "opened database successfully";
+ execute the following statement on command prompt: 
+python connect.py
+ now connection is created with the javatpoint database. now you can create a table. create a table create a table "employees" within the database "javatpoint". create a python file "createtable.py", having the following code: 
+#!/usr/bin/python
+
+import sqlite3
+
+conn = sqlite3.connect('javatpoint.db')
+print "opened database successfully";
+
+conn.execute('''create table employees
+       (id int primary key     not null,
+       name           text    not null,
+       age            int     not null,
+       address        char(50),
+       salary         real);''')
+print "table created successfully";
+
+conn.close()
+ execute the following statement on command prompt: 
+python createtable.py
+ a table "employees" is created in the "javatpoint" database. insert records insert some records in "employees" table. create a python file "connection.py", having the following code: 
+#!/usr/bin/python
+
+import sqlite3
+
+conn = sqlite3.connect('javatpoint.db')
+print "opened database successfully";
+
+conn.execute("insert into employees (id,name,age,address,salary) \
+      values (1, 'ajeet', 27, 'delhi', 20000.00 )");
+
+conn.execute("insert into employees (id,name,age,address,salary) \
+      values (2, 'allen', 22, 'london', 25000.00 )");
+
+conn.execute("insert into employees (id,name,age,address,salary) \
+      values (3, 'mark', 29, 'ca', 200000.00 )");
+
+conn.execute("insert into employees (id,name,age,address,salary) \
+      values (4, 'kanchan', 22, 'ghaziabad ', 65000.00 )");
+
+conn.commit()
+print "records inserted successfully";
+conn.close()
+ execute the following statement on command prompt: 
+python connection.py
+ records are inserted successfully. select records now you can fetch and display your records from the table "employees" by using select statement. create a python file "select.py", having the following code: 
+#!/usr/bin/python
+
+import sqlite3
+
+conn = sqlite3.connect('javatpoint.db')
+
+data = conn.execute("select * from employees");
+
+for row in data:
+   print "id = ", row[0]
+   print "name = ", row[1]
+   print "address = ", row[2]
+   print "salary = ", row[3], "\n"
+
+conn.close();
+ execute the following statement on command prompt: 
+python select.py 
+ see all the records you have inserted before. by same procedures, you can update and delete the table in sqlite database usnig python. next topicsqlite interview questions ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

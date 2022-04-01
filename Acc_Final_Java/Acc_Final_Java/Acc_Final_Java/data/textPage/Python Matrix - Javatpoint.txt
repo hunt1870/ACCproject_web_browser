@@ -1,0 +1,220 @@
+https://www.javatpoint.com/python-matrix::python matrix - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev python matrix in this article, we will introduce the matrix with python. we will implement each operation of matrix using the python code. introduction a matrix is a rectangular 2-dimensional array which stores the data in rows and columns. the matrix can store any data type such as number, strings, expressions, etc. we must be familiar with the basic concepts of matrix before using it. the data is arranged in horizontal called rows, and vertical arrangements are columns. the number of elements inside a matrix is (r) x (c), where r is rows and c, columns. python doesn't have a built-in type for matrices so that we will use the multiple lists as matrices. we will learn the following operations which are applied to the matrices. matrix addition matrix subtraction matrix multiplication scalar product cross product many other operations working of matrices the below matrix is 2x2, which means it has two rows and two columns. 
+[[2,4],
+[5,6]]
+ creating a matrix in python we can create matrix in python using the nested list. all elements are enclosed with the square brackets ([]) and separated by the comma. let's see the following examples. 
+matrix = [[ 'arun',  25, 90, 74],
+["sachin", 410, 87.50, 130]
+[56, "abhinay", 253, 471]
+ we have created a 3x3 matrix using the nested list. the first row contains ['arun', 25, 90, 74] in the list form. the second row contains ['sachin', 410, 87.50, 130] in the list form. the third row contains [56, "abhinay", 253, 471] in the list form. we notice that our matrix consists of numbers as well as a string value. read the matrix data in the following example, we will read each row of the defined matrix. example - 
+matrix = [[ 'arun',  25, 90, 74],
+['sachin', 410, 87.50, 130],
+[56, 'abhinay', 253, 471]]
+
+print("the matrix is: ", matrix)
+ output: 
+the matrix is:  [['arun', 25, 90, 74], ['sachin', 410, 87.5, 130], [56, 'abhinay', 253, 471]]
+ read the last element from each row in the following example, we will read the last element of the each row using the python program. example - 
+matrix = [[ 'arun',  25, 90, 74],
+['sachin', 410, 87.50, 130],
+[56, 'abhinay', 253, 471]]
+
+matrix_length = len(matrix)
+
+#to read the last element from each row.
+for i in range(matrix_length):
+    print(matrix[i][-1])
+ output: 74
+130
+471
+ explanation - in the above code, we have created a matrix, and we get the length of the matrix. we iterated each row using for loop and printed the result. we can read any row or column using the above method. let's understand the following operation of the matrix. adding two matrices we will add the two matrices and using the nested for loop through the given matrices. example - 
+mat1 = [[10, 13, 44], 
+      [11, 2, 3], 
+      [5, 3, 1]]
+
+mat2 = [[7, 16, -6],
+           [9, 20, -4], 
+           [-1, 3 , 27]]
+
+mat3  = [[0,0,0],
+       [0,0,0],
+       [0,0,0]]
+matrix_length = len(mat1)
+
+#to add mat1 and mat2 matrices
+for i in range(len(mat1)):
+    for k in range(len(mat2)):
+        mat3[i][k] = mat1[i][k] + mat2[i][k]
+
+#to print the matrix
+print("the sum of matrix mat1 and mat2 = ", mat3)
+ output: the sum of matrix m1 and m2 =  [[17, 29, 38], [20, 22, -1], [4, 6, 28]]
+ explanation - the first and second matrices are 3x3. we initialized another matrix mat3, which will store the resultant matrix. we applied nested for loop to iterate the matrices, the outer loop iterate on the first matrix. the control transfers the inner loop; and it iterated to the second inner loop, here the value of i is zero, and k is also zero. in the first iteration, the first element of the mat1 and mat2 added to each other will continue until all elements are added. multiplication of two matrices multiplication of the two matrices is the same as the above code, and only we need to change the operator + to *. let's understand the following example. example - 
+mat1 = [[10, 13, 44],
+      [11, 2, 3],
+      [5, 3, 1]]
+
+mat2 = [[7, 16, -6],
+           [9, 20, -4],
+           [-1, 3 , 27]]
+
+mat3  = [[0,0,0],
+       [0,0,0],
+       [0,0,0]]
+matrix_length = len(mat1)
+
+#to add mat1 and mat2 matrices
+for i in range(len(mat1)):
+    for k in range(len(mat2)):
+        mat3[i][k] = mat1[i][k]  * mat2[i][k]
+
+#to print the matrix
+print("the sum of matrix mat1 and mat2 = ", mat3)
+ output: the sum of matrix mat1 and mat2 =  [[70, 208, -264], [99, 40, -12], [-5, 9, 27]]
+ transpose of matrix a transpose is an operation where the given matrix's row is converted into a column and vice-versa. let's understand the following example. example - 
+# program to transpose a matrix using a nested loop
+
+mat1 = [[12,7],
+    [4 ,5],
+    [3 ,8]]
+
+res = [[0,0,0],
+         [0,0,0]]
+
+# iterate through rows
+for i in range(len(mat1)):
+   # iterate through columns
+   for j in range(len(mat1[0])):
+       res[j][i] = mat1[i][j]
+
+for r in res:
+   print(r)
+ output: [12, 4, 3]
+[7, 5, 8]
+ explanation in the above code, we have two for loop to iterate through each row and each column. as we can see that in above output, we assigned the mat1[i][j] and res[j][k]. transpose matrix using list comprehension we can use the list comprehension to transpose a matrix with one line of code. let's understand the following example. example - 
+mat1 = [[12,7],
+    [4 ,5],
+    [3 ,8]]
+
+res = [[0,0,0],
+         [0,0,0]]
+
+res = [[mat1[j][i] for j in range(len(mat1))] for i in range(len(mat1[0]))]
+
+for r in res:
+   print(r)
+ output: [12, 4, 3]
+[7, 5, 8]
+ the output is the same as above. the list comprehension reduced the lines of code and transposed the matrix. take matrix input from the user we have discussed the pre-defined matrices so far. but what if user wants to enter their data. so we are defining the following example of a user-defined matrix. example - 
+# a example for matrix input from user 
+row = int(input("enter the number of rows:")) 
+column = int(input("enter the number of columns:")) 
+
+# initialize empty matrix 
+matrix = [] 
+print("enter the entries row wise:") 
+
+# for user input 
+for i in range(row):       # a outer for loop for row entries 
+   a =[] 
+   for j in range(column):     # a inner for loop for column entries 
+      a.append(int(input())) 
+   matrix.append(a) 
+
+# for printing the matrix 
+for i in range(row): 
+   for j in range(column): 
+      print(matrix[i][j], end = " ") 
+   print() 
+ output: enter the number of rows:3
+enter the number of columns:3
+enter the entries row wise:
+5
+6
+7
+8
+9
+2
+4
+3
+1
+5 6 7 
+8 9 2 
+4 3 1
+ explanation - in the above code, we have taken the input from the user to enter number of rows and columns. we have entered the 3 rows and 3 columns; it means the matrix will have 9 elements. in for loop, the elements are inserted to the empty matrix using the append () function. the second for is loop used to print input data in the matrix format. using the numpy and map() function python provides the external library numpy. it is used for scientific computation; we will learn numpy with matrix in below section. we will use it for the user input matrix. example - creating matrix using numpy library the numpy library helps us to work with the array. to work with the numpy, we need to install the numpy using the following command. 
+pip install numpy 
+ after a successful installation, we have to import it into our program. 
+import numpy as np
+ let's understand the following example. example - 
+import numpy as np
+mat1 = np.array([[10, -5, 15], [30, -6, 91], [2, 8, 7]])
+print("the matrix is: ")
+print(mat1)
+ output: the matrix is: 
+[[10 -5 15]
+[30 -6 91]
+[ 2  8  7]]
+ matrix operation using numpy we can perform all matrix operation using the numpy.array() such as addition, subtraction, transpose, slicing the matrix, etc. matrix addition we will create two matrices using the numpy.array() function and add them using the + operator. let's understand the following example. example - 
+import numpy as np
+mat1 = np.array([[7, 8, 9], [3, -1, 17], [15, 10, 21]])
+mat2 = np.array([[9, -18, 27], [11, 22, 33], [13, -26, 39]])
+mat3 = mat1 + mat2  
+print("the matrix addition is: ")
+print(mat3)
+ output: the matrix addition is: 
+[[ 16 -10  36]
+ [ 14  21  50]
+ [ 28 -16  60]]
+ matrix multiplication we will use the mumpy.dot() method to multiply both matrices. it is a dot multiplication of the matrix mat1 and mat2 and handles the 2d array and performs multiplication. let's understand the following example. example - 
+import numpy as np
+mat1 = np.array([[4, 6], [5, 10]])
+mat2 =  np.array([[3, -1], [11, 22]])
+mat3 = mat1.dot(mat2)  
+print("the matrix is:")
+print(mat3)
+ output: the matrix is:
+[[ 78 128]
+ [125 215]]
+ slicing of a matrix we can slice the matrix's element as we do in the python standard list. slicing returns the element based on the start/end index. we can also the negative slicing. the syntax is given below. syntax - 
+arr[start: end] 
+ the arr represents the matrix name. by default the start index is 0, for example - [:3], it means start index is 0. if we do not provide the value to end, it will consider the length of the array. we can pass negative index values to both start and end. in the following example, we will apply slicing in normal array to understand how slicing works. example - 
+import numpy as np
+
+arr = np.array([10,40,61,14,25,12,97])
+print(arr[2:5]) # it will print the elements from 2 to 4
+print(arr[:4]) # it will print the elements from 0 to 3
+print(arr[3:]) # it will print the elements from 3 to length of the array.
+ output: [61 14 25]
+[10 40 61 14]
+[14 25 12 97]
+ now, we will implement slicing on matrix. to perform the slicing on matrix, follow the below syntax. mat1[row_start:row_end, col_start:col_end] in the above syntax - the first start/end represents the rows that mean select the rows of the matrix. the first start/end represents the columns that mean select the column of the matrix. we will perform slicing in the below matrix. 
+mat1 = np.array([[4, 10, 60, 18, 20],
+    [35, 16, 19, -12, 41],
+    [23, 80, 42, 24, -20],
+    [7, -10, 15, 40, 17]])
+ the above matrix consists of four rows. the 0th raw has [4, 10, 60, 18, 20], 1st row has [35, 16, 19, -12, 41] and so on. it has five columns. let's understand the following example. example - 
+import numpy as np 
+mat1 = np.array([[4, 10, 60, 18, 20],
+    [35, 16, 19, -12, 41],
+    [23, 80, 42, 24, -20],
+    [7, -10, 15, 40, 17]])
+print(mat1[1:3, 1:4])
+ output: [[ 16  19 -12]
+ [ 80  42  24]]
+ explanation in the above example, we have printed the first and second rows, and we sliced the first, second, and third columns. according to the slicing syntax, we can get any rows and columns. example - print first row and all columns 
+import numpy as np
+mat1 = np.array([[4, 10, 60, 18, 20],
+    [35, 16, 19, -12, 41],
+    [23, 80, 42, 24, -20],
+    [7, -10, 15, 40, 17]])
+print(mat1[:1, ])
+ output: [ 4 10 60 18 20]]
+ example - print rows of the matrix 
+import numpy as np
+mat1 = np.array([[14, 60, 29], [35, -10, 13], [4,8,12]])
+print(mat1[0])  #first row
+print(mat1[1]) # the second row
+print(mat1[-1]) # -1 will print the last row
+ output: [14 60 29]
+[ 35 -10  13]
+[ 4  8 12]
+ conclusion we have discussed basic matrix using python so far. we have learned to create matrix using a different approaches. python matrix is a specialized two-dimensional rectangular list of data. the matrix can consist of a number, strings, expression, symbols, etc. python doesn't provide a direct way to implement the matrix data type. we can create the matrix using the nested list and numpy library. next topicpython unit testing ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

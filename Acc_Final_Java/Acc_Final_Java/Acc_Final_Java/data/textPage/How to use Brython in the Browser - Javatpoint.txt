@@ -1,0 +1,168 @@
+https://www.javatpoint.com/how-to-use-brython-in-the-browser::how to use brython in the browser - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev how to use brython in the browser in this article, we will discuss how to use brython in the browsers by implementing a base64 calculator for experimenting in the browser with the document object model application program interface and other functionalities which are only available from javascript. the dom application program interface in brython for experimenting with the document object model manipulations, which are available in brython, we will build a form for encoding the string to the base64. the final output form will look like this: let's create an html file, and name it index.html: for example: 
+<!doctype html >
+<html>
+  <head>
+    <meta charset = "utf-8"/>
+    <link
+      rel = "stylesheet"
+      href = "https://cdnjs.cloudflare.com /ajax/libs/pure/2.0.3/pure-min.min.css"
+      integrity = "sha256-jyujp4kf07yduuf9i1mho4anpxukuhxiuxh7crhxdkw="
+      crossorigin = "anonymous" />
+    <script
+      src = "https://cdnjs.cloudflare.com /ajax/libs/brython/3.8.9/brython.min.js"
+      integrity = "sha256-u56d9sn/gtf1mesbxazw81lm1bueyc1jfuoy3cbu6a8="
+      crossorigin = "anonymous">
+    </script>
+    <script
+      src = "https://cdnjs.cloudflare.com /ajax/libs/brython
+/3.8.9/brython_stdlib.min.js"
+      integrity = "sha256 twmholrbopbkpygfexibwojqtpqf76zp8hexoelwyrc="
+      crossorigin = "anonymous"
+      defer>
+    </script>
+    <script src = "main.py" type="text/python" defer>
+</script>
+    <style>
+      body { padding: 30px; }
+    </style>
+  </head>
+  <body onload="brython()">
+    <form class="pure-form" onsubmit="return false;">
+      <fieldset>
+        <legend>base64 calculator</legend>
+        <input type = "text" id = "text-src" placeholder = "text to encode" autocomplete="off"/>
+        <button type = "submit" id = "submit" class = "pure-button pure-button-primary">ok
+</button>
+        <button id = "clear-btn" class = "pure-button">clear
+</button>
+      </fieldset>
+    </form>
+    <div id="b64-display">
+</div>
+  </body>
+</html>
+ the above code of html loads the static resources, which defines the ui layout, and also initiates the compilation of python: line 7: will load the purecss style sheet for improving the defaut html style line 9: will load the minimized version of brython engine. line 12: will load the minimized version of standard library of brython. line 14: will load the main.py, which will handle the dynamic logics of this static html page. line 21: will describe the input fields. this field will take the string for encoding as an argument. line 22 to line 25: will define the default button wich will trigger the main logic of the page. the user can see this logic implemented in the main.py. line 26: will define the button for clearing up the data and elements on the page. this will implement in the main.py. line 29: will declare the div intended to be a placeholder for the table. the python code which is associated, main.py. for example: 
+from browser import document, html, alert
+import base64
+
+b64_map = {}
+
+
+def base64_compute(evt):
+    value = document[" text-src "].value
+    if not value:
+        alert(" you need to enter a value ")
+        return
+    if value in b64_map:
+        alert(
+            f" the base64 value of '{value}' already exists: '{b64_map[value]}' "
+        )
+        return
+    b64data = base64.b64encode(value.encode()).decode()
+    b64_map[value] = b64data
+    display_map()
+
+
+def clear_map(evt):
+    b64_map.clear()
+    document[" b64-display "].clear()
+
+
+def display_map():
+    table = html.table(class = "pure-table")
+    table <= html.thead(html.tr(html.th(" text ") + html.th(" base64 ")))
+    table <= (html.tr(html.td(key) + html.td(b64_map[key])) for key in b64_map)
+    base64_display = document[" b64-display "]
+    base64_display.clear()
+    base64_display <= table
+    document[" text-src "].value = ""
+
+
+document[" submit "].bind("click", base64_compute)
+document[" clear-btn "].bind("click", clear_map)
+ the python program shows the definition of callback function and the mechanism for manipulating the dom: line 1: will import the modules which the user use for interacting with the document object model (dom) and the browser api code in the brython.min.js. line 2: will import the base64, which is available in the standard library of brython, that is brython_stdlib.min.js. line 4: will declare the dictionary which the user will use for storing data during the running time of the html page. line 6 will define the event handler, that is base64_compute(), which will encode the base54 value of the text entered in the input field with id text-src. line 7: will retrieve the value of the dom elements identified with text-src. line 18: will define the event handler, that is clear_map(), which will clear the data and presentation of the data on this page. line 22: will define the display_map(), which will take the data contained in the b64_map, and display it under the form of page. line 26: will retrieve the dom elements with the id text-src. line 29: will clear the value of the dom element with the id text-src. line 31: will bind the onclick event of the submit button to the base64_compute(). line 32: will bind the onclick event of the clear-btn button to clear_map(). for manipulating the dom, brython will use two operators: <= is a new operator, mainly specific to brython. this will add a child to the node. we have used it in display_map(), which is defined in line no. 22. + is the substitute for element.insertadjacementhtml('afterend') and for adding sibling nodes. we can see these two operators in action in the one of the above statement of the display_map(): 
+table <= html.thead(html.tr( html.th(" text ") + html.th(" base64 ")))
+ the above command can be translated as "add to the table element and table head element containing the table row element composed of two adjacent table data cell elements. it is rendering in the browser as the following html program. for example: 
+<table>
+<thead>
+<tr><th>text</th><th>base64</th></tr>
+</thead>
+</table>
+ the above html code shows the nested structure for the header row of the table element. we can also write this code in more readable manner. for example: 
+<table>
+  <thead>
+    <tr>
+      <th>
+text
+      </th>
+      <th>
+base64
+      </th>
+    </tr>
+  </thead>
+</table>
+ for observing the result in the brython console, we can enter the following code block: 
+from browser import html
+table = html.table()
+table <= html.thead(html.tr( html.th(" text ") + html.th(" base64 ")))
+table.outerhtml
+ output: '<table> <thead> <tr> <th> text </th> <th> base64 </th> </tr> </thead> </table>'
+ for executing the whole code, we need to start the website server. as previously, we have started the built-in python website server in the same directory as the two files, main.html and index.html. for example: 
+$ python3 -m http.server
+ output: serving http on :: port 8080 (http://[::]:8080/) ...
+ after starting the website server, point the browser to http://localhost:8080. this page will look like this: image: importing file in the brython the user can use the import for accessing the python or brython modules and libraries to the javascript. python modules and libraries are the files with a .py extension in the root folder of their project or the python package in the subfolder containing the _init_.py file. for importing the python modules in their brython program, they would have to start the website server. if the users want to explore more about how to import python modules into brython code, they can look at the "installation by using pypi" section in the "how to install brython" article. they have to create and activate the python virtual environment, install the brython, and then modify index.html. for example: 
+ <!doctype html>
+<html>
+
+<head>
+<meta charset = " utf-8 ">
+<script type = " text/javascript " src = " brython.js ">
+</script>
+<script type = " text/javascript " src = " brython_stdlib.js ">
+</script>
+</head>
+
+<body onload = " brython() ">
+
+<script type = " text/python ">
+from browser import document, html, window
+import sys
+import functional
+
+selection = functional.take(10, range(10000))
+numbers = ', '.join([ str(x) for x in selection ])
+
+document <= html.p(f"{sys.version=}")
+document <= html.p(f"{numbers=}")
+</script>
+
+</body>
+
+</html>
+ the above html file will expose the modules which are imported from the core engine of the browser, from the standard library of sys, and from the local python module, which is functional. the content of the functional.py is the following: 
+import itertools
+
+def take(n, iterable):
+    "return first n items of the iterable as a list"
+    return list(itertools.islice(iterable, n))
+ this module will implement the take(), which is one of the itertools receipts.take(), which will return the first 'n' elements of the given iterable. it will rely on the itertools.slice(). if the user tries to open the index.html from the file system with their browser, then they will get the following error in the browser console: 
+traceback (most recent call last):
+         file file:///users/user name/brython/code /import/index.html/__main__
+----> 3 in <module>
+    import functional
+modulenotfounderror: functional
+ after importing the python module, which is required for starting the local website server. first, start the local website server and then open the http://localhost:8080 in the browser. the user will see the following html page: if there is a running website server, then the browser would be able to fetch the functional.py module after importing the functional is executed. the results of number and sys.version values are inserted in the html files with the help of the last two python scripts, which are embedded and rendered by the browser. reduce the import size in the directory of the previous example project, for reducing the size of the import javascript libraries and module, the user can use the brython-cli with the option -module. this method can also be used for precompiling the python module to javascript. for example: 
+$ brython-cli -modules
+ output: create brython_modules.js with all the modules used by the application
+searching brython_stdlib.js...
+finding packages...
+script in html index.html
+ this will be used for generating the brython_modules.js, and the user can then modify the head element of the index.html file. for example: 
+<head>
+ <meta charset="utf-8">
+ <script type="text/javascript" src="brython.js">
+</script>
+ <script type="text/javascript" src="brython_modules.js">
+</script>
+ </head>
+ line 5 will change the original form of the script source from the brython_stdlib.js into brython_modules.js. the user can open the index.html with their browser, or they can point the browser to the local server reduced to the same html page. the user can notice these points: they can reduce the html page in their browser, even without running the website server. they would not need to distribute the functional.py file, as the program is now converted into javascript and then bundled in brython_modules.js. the user would not need to load the brython_stdlib.js. the tool of the command-line that is brython-cli -modules will provide the solution for removing the unnecessary code from the standard library. then it will compile the python module into a javascript program. this will help the page of the user's application, and it will result in the reduced size of the resources download. conclusion in this article, we have discussed how the users can use the brython in the browsers with the help of the base64 calculator, which is implemented for experimentation in the browser with the document object model application program interface. we have also explained how the user can import the python files in the brython and how the user can reduce the size of the imported file. next topicarima model in python ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

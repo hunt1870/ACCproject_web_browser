@@ -1,0 +1,146 @@
+https://www.javatpoint.com/merge-sort-in-python::merge sort in python - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev merge sort in python merge sort is similar to the quick sort algorithm as works on the concept of divide and conquer. it is one of the most popular and efficient sorting algorithm. it is the best example for divide and conquer category of algorithms. it divides the given list in the two halves, calls itself for the two halves and then merges the two sorted halves. we define the merge() function used to merging two halves. the sub lists are divided again and again into halves until we get the only one element each. then we combine the pair of one element lists into two element lists, sorting them in the process. the sorted two element pairs is merged into the four element lists, and so on until we get the sorted list. merge sort concept let's see the following merge sort diagram. we have divided the given list in the two halves. the list couldn't be divided in equal parts it doesn't matter at all. merge sort can be implement using the two ways - top-down approach and bottom-up approach. we use the top down approach in the above example, which is merge sort most often used. the bottom-up approach provides the more optimization which we will define later. the main part of the algorithm is that how we combine the two sorted sublists. let's merge the two sorted merge list. a : [2, 4, 7, 8] b : [1, 3, 11] sorted : empty first, we observe the first element of both lists. we find the b's first element is smaller, so we add this in our sorted list and move forward in the b list. a : [2, 4, 7, 8] b : [1, 3, 11] sorted : 1 now we look at the next pair of elements 2 and 3. 2 is smaller so we add it into our sorted list and move forward to the list. a : [2, 4, 7, 8] b : [1, 3, 11] sorted : 1 continue this process and we end up with the sorted list of {1, 2, 3, 4, 7, 8, 11}. there can be two special cases. what if both sublists have same elements - in such case, we can move either one sublist and add the element to the sorted list. technically, we can move forward in both sublist and add the elements to the sorted list. we have no element left in one sublist. when we run out the in a sublist simply add the element of the second one after the other. we should remember that we can sort the element in the any order. we sort the given list in ascending order but we can easily sort in descending order. implementation the merge sort algorithm is implemented by suing the top-down approach. it can be look slightly difficult, so we will elaborate each step in details. here, we will implement this algorithm on two types of collections - integer element's list (typically used to introduce sorting) and a custom objects (a more practical and realistic scenario). sorting array the main concept of algorithm is to divide (sub)list into halves and sort them recursively. we continue the process until we end up lists that have only one element. let's understand the following function for division - 
+def merge_sort(array, left_index, right_index): 
+       if left_index >= right_index: 
+                 return middle = (left_index + right_index)//2 
+       merge_sort(array, left_index, middle) 
+       merge_sort(array, middle + 1, right_index) 
+       merge(array, left_index, right_index, middle) 
+ our primary focus to divide the list into subparts before the sorting happen. we need to get the integer value so we use the // operator for our indices. let's understand the above procedure by following steps. first step is to create copies of lists. the first list contains the lists from [left_index,...,middle] and the second from [middle+1,?,right_index]. we traverse both copies of list by using the pointer, select the smaller value of the two values and add them to the sorted list. once we add the element to the list and we move forward in the sorted list regardless. add the remaining elements in the other copy to the sorted array. let's implement the merge sort in python program. python program 
+# funtion to divide the lists in the two sublists
+def merge_sort(list1, left_index, right_index):
+    if left_index >= right_index:
+        return
+
+    middle = (left_index + right_index)//2
+    merge_sort(list1, left_index, middle)
+    merge_sort(list1, middle + 1, right_index)
+    merge(list1, left_index, right_index, middle)
+
+
+    # defining a function for merge the list
+def merge(list1, left_index, right_index, middle):
+
+
+   # creating subparts of a lists
+    left_sublist = list1[left_index:middle + 1]
+    right_sublist = list1[middle+1:right_index+1]
+
+    # initial values for variables that we use to keep
+    # track of where we are in each list1
+    left_sublist_index = 0
+    right_sublist_index = 0
+    sorted_index = left_index
+
+    # traverse both copies until we get run out one element
+    while left_sublist_index < len(left_sublist) and right_sublist_index < len(right_sublist):
+
+        # if our left_sublist has the smaller element, put it in the sorted
+        # part and then move forward in left_sublist (by increasing the pointer)
+        if left_sublist[left_sublist_index] <= right_sublist[right_sublist_index]:
+            list1[sorted_index] = left_sublist[left_sublist_index]
+            left_sublist_index = left_sublist_index + 1
+        # otherwise add it into the right sublist
+        else:
+            list1[sorted_index] = right_sublist[right_sublist_index]
+            right_sublist_index = right_sublist_index + 1
+
+
+        # move forward in the sorted part
+        sorted_index = sorted_index + 1
+
+     
+    # we will go through the remaining elements and add them
+    while left_sublist_index < len(left_sublist):
+        list1[sorted_index] = left_sublist[left_sublist_index]
+        left_sublist_index = left_sublist_index + 1
+        sorted_index = sorted_index + 1
+
+    while right_sublist_index < len(right_sublist):
+        list1[sorted_index] = right_sublist[right_sublist_index]
+        right_sublist_index = right_sublist_index + 1
+        sorted_index = sorted_index + 1
+
+list1 = [44, 65, 2, 3, 58, 14, 57, 23, 10, 1, 7, 74, 48]
+merge_sort(list1, 0, len(list1) -1)
+print(list1)
+ output: [1, 2, 3, 7, 10, 14, 23, 44, 48, 57, 58, 65, 74]
+ sorting custom objects we can also sort the custom objects by using the python class. this algorithm is almost similar to the above but we need to make it more versatile and pass the comparison function. we will create a custom class, car and add a few fields to it. we make few changes in the below algorithm to make it more versatile. we can do this by using the lambda functions. let's understand the following example. python program 
+class car:
+    def __init__(self, make, model, year):
+        self.make = make
+        self.model = model
+        self.year = year
+
+    def __str__(self):
+        return str.format("make: {}, model: {}, year: {}", self.make, self.model, self.year)
+
+def merge(list1, l, r, m, comp_fun):
+    left_copy = list1[l:m + 1]
+    r_sublist = list1[m+1:r+1]
+
+    left_copy_index = 0
+    r_sublist_index = 0
+    sorted_index = l
+
+    while left_copy_index < len(left_copy) and r_sublist_index < len(r_sublist):
+
+        # we use the comp_fun instead of a simple comparison operator
+        if comp_fun(left_copy[left_copy_index], r_sublist[r_sublist_index]):
+            list1[sorted_index] = left_copy[left_copy_index]
+            left_copy_index = left_copy_index + 1
+        else:
+            list1[sorted_index] = r_sublist[r_sublist_index]
+            r_sublist_index = r_sublist_index + 1
+
+        sorted_index = sorted_index + 1
+
+    while left_copy_index < len(left_copy):
+        list1[sorted_index] = left_copy[left_copy_index]
+        left_copy_index = left_copy_index + 1
+        sorted_index = sorted_index + 1
+
+    while r_sublist_index < len(r_sublist):
+        list1[sorted_index] = r_sublist[r_sublist_index]
+        r_sublist_index = r_sublist_index + 1
+        sorted_index = sorted_index + 1
+
+
+def merge_sort(list1, l, r, comp_fun):
+    if l >= r:
+        return
+
+    m = (l + r)//2
+    merge_sort(list1, l, m, comp_fun)
+    merge_sort(list1, m + 1, r, comp_fun)
+    merge(list1, l, r, m, comp_fun)
+
+car1 = car("renault", "33 duster", 2001)
+car2 = car("maruti", "maruti suzuki dzire", 2015)
+car3 = car("tata motor", "jaguar", 2004)
+car4 = car("cadillac", "seville sedan", 1995)
+
+list1 = [car1, car2, car3, car4]
+
+merge_sort(list1, 0, len(list1) -1, lambda cara, carb: cara.year < carb.year)
+
+print("cars sorted by year:")
+for car in list1:
+    print(car)
+
+print()
+merge_sort(list1, 0, len(list1) -1, lambda cara, carb: cara.make < carb.make)
+print("cars sorted by make:")
+for car in list1:
+    print(car)
+ output: cars sorted by year:
+make: cadillac, model: seville sedan, year: 1995
+make: renault, model: 33 duster, year: 2001
+make: tata motor, model: jaguar, year: 2004
+make: maruti, model: maruti suzuki dzire, year: 2015
+
+cars sorted by make:
+make: cadillac, model: seville sedan, year: 1995
+make: maruti, model: maruti suzuki dzire, year: 2015
+make: renualt, model: 33 duster, year: 2001
+make: tata motor, model: jaguar, year: 2004
+ optimization we can improve the performance of the merge sort algorithm. first let's understand the difference between the top-down and bottom-up merge sort. the bottom-up approach sorts the elements of adjacent lists iteratively where the top-down approach breaks down the lists into the two halves. the given list is [10, 4, 2, 12, 1, 3], instead of breaking it down into [10], [4], [2], [12], [1], [3] - we divides into the sublists which may already sorted: [10, 4], [2], [1, 12], [3] and now are ready to sort them. merge sort is inefficient algorithm in both time and space for the smaller sublists. so insertion sort is more efficient algorithm than the merge sort for the smaller sublists. conclusion merge sort is popular and efficient algorithm. it is more efficient algorithm for the large lists. it doesn't depend on the any unfortunate decisions that lead to bad runtimes. there is one major demerit in the merge sort. it uses the additional memory that is used to store the temporary copies of lists before merging them. however merge sort is widely used in the software. its performance is fast and produces the excellent result. we have discussed the merge sort concept in brief and implement it both on simple integer list and on custom objects via a lambda function used for comparison. next topicpython matrix ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

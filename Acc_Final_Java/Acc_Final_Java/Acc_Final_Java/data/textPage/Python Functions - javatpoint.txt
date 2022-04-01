@@ -1,0 +1,196 @@
+https://www.javatpoint.com/python-functions::python functions - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev python function functions are the most important aspect of an application. a function can be defined as the organized block of reusable code, which can be called whenever required. python allows us to divide a large program into the basic building blocks known as a function. the function contains the set of programming statements enclosed by {}. a function can be called multiple times to provide reusability and modularity to the python program. the function helps to programmer to break the program into the smaller part. it organizes the code very effectively and avoids the repetition of the code. as the program grows, function makes the program more organized. python provide us various inbuilt functions like range() or print(). although, the user can create its functions, which can be called user-defined functions. there are mainly two types of functions. user-define functions - the user-defined functions are those define by the user to perform the specific task. built-in functions - the built-in functions are those functions that are pre-defined in python. in this tutorial, we will discuss the user define functions. advantage of functions in python there are the following advantages of python functions. using functions, we can avoid rewriting the same logic/code again and again in a program. we can call python functions multiple times in a program and anywhere in a program. we can track a large python program easily when it is divided into multiple functions. reusability is the main achievement of python functions. however, function calling is always overhead in a python program. creating a function python provides the def keyword to define the function. the syntax of the define function is given below. syntax: 
+def my_function(parameters):
+      function_block
+return expression
+ let's understand the syntax of functions definition. the def keyword, along with the function name is used to define the function. the identifier rule must follow the function name. a function accepts the parameter (argument), and they can be optional. the function block is started with the colon (:), and block statements must be at the same indentation. the return statement is used to return the value. a function can have only one return function calling in python, after the function is created, we can call it from another function. a function must be defined before the function call; otherwise, the python interpreter gives an error. to call the function, use the function name followed by the parentheses. consider the following example of a simple example that prints the message "hello world". 
+#function definition
+def hello_world():  
+    print("hello world")  
+# function calling
+hello_world()    
+ output: hello world
+ the return statement the return statement is used at the end of the function and returns the result of the function. it terminates the function execution and transfers the result where the function is called. the return statement cannot be used outside of the function. syntax 
+return [expression_list]
+ it can contain the expression which gets evaluated and value is returned to the caller function. if the return statement has no expression or does not exist itself in the function then it returns the none object. consider the following example: example 1 
+# defining function
+def sum():
+    a = 10
+    b = 20
+    c = a+b
+    return c
+# calling sum() function in print statement
+print("the sum is:",sum())
+ output: the sum is: 30
+ in the above code, we have defined the function named sum, and it has a statement c = a+b, which computes the given values, and the result is returned by the return statement to the caller function. example 2 creating function without return statement 
+# defining function
+def sum():
+    a = 10
+    b = 20
+    c = a+b
+# calling sum() function in print statement
+print(sum())
+ output: none
+ in the above code, we have defined the same function without the return statement as we can see that the sum() function returned the none object to the caller function. arguments in function the arguments are types of information which can be passed into the function. the arguments are specified in the parentheses. we can pass any number of arguments, but they must be separate them with a comma. consider the following example, which contains a function that accepts a string as the argument. example 1 
+#defining the function  
+def func (name):  
+    print("hi ",name) 
+#calling the function   
+func("devansh")   
+ output: hi devansh
+ example 2 
+#python function to calculate the sum of two variables   
+#defining the function  
+def sum (a,b):  
+    return a+b;  
+  
+#taking values from the user  
+a = int(input("enter a: "))  
+b = int(input("enter b: "))  
+  
+#printing the sum of a and b  
+print("sum = ",sum(a,b))  
+ output: enter a: 10
+enter b: 20
+sum =  30
+ call by reference in python in python, call by reference means passing the actual value as an argument in the function. all the functions are called by reference, i.e., all the changes made to the reference inside the function revert back to the original value referred by the reference. example 1 passing immutable object (list) 
+#defining the function  
+def change_list(list1):  
+    list1.append(20) 
+    list1.append(30)  
+    print("list inside function = ",list1)  
+  
+#defining the list  
+list1 = [10,30,40,50]  
+  
+#calling the function   
+change_list(list1)
+print("list outside function = ",list1)
+ output: list inside function =  [10, 30, 40, 50, 20, 30]
+list outside function =  [10, 30, 40, 50, 20, 30]
+ example 2 passing mutable object (string) 
+#defining the function  
+def change_string (str):  
+    str = str + " hows you "
+    print("printing the string inside function :",str)
+  
+string1 = "hi i am there"  
+  
+#calling the function  
+change_string(string1)  
+  
+print("printing the string outside function :",string1)  
+ output: printing the string inside function : hi i am there hows you 
+printing the string outside function : hi i am there
+ types of arguments there may be several types of arguments which can be passed at the time of function call. required arguments keyword arguments default arguments variable-length arguments required arguments till now, we have learned about function calling in python. however, we can provide the arguments at the time of the function call. as far as the required arguments are concerned, these are the arguments which are required to be passed at the time of function calling with the exact match of their positions in the function call and function definition. if either of the arguments is not provided in the function call, or the position of the arguments is changed, the python interpreter will show the error. consider the following example. example 1 
+def func(name):  
+    message = "hi "+name
+    return message
+name = input("enter the name:")  
+print(func(name))  
+ output: enter the name: john
+hi john
+ example 2 
+#the function simple_interest accepts three arguments and returns the simple interest accordingly  
+def simple_interest(p,t,r):  
+    return (p*t*r)/100  
+p = float(input("enter the principle amount? "))  
+r = float(input("enter the rate of interest? "))  
+t = float(input("enter the time in years? "))  
+print("simple interest: ",simple_interest(p,r,t))  
+ output: enter the principle amount: 5000
+enter the rate of interest: 5
+enter the time in years: 3
+simple interest:  750.0
+ example 3 
+#the function calculate returns the sum of two arguments a and b  
+def calculate(a,b):  
+    return a+b  
+calculate(10) # this causes an error as we are missing a required arguments b.  
+ output: typeerror: calculate() missing 1 required positional argument: 'b'
+ default arguments python allows us to initialize the arguments at the function definition. if the value of any of the arguments is not provided at the time of function call, then that argument can be initialized with the value given in the definition even if the argument is not specified at the function call. example 1 
+def printme(name,age=22):  
+    print("my name is",name,"and age is",age)  
+printme(name = "john")
+ output: my name is john and age is 22
+ example 2 
+def printme(name,age=22):  
+    print("my name is",name,"and age is",age)  
+printme(name = "john") #the variable age is not passed into the function however the default value of age is considered in the function  
+printme(age = 10,name="david") #the value of age is overwritten here, 10 will be printed as age 
+ output: my name is john and age is 22
+my name is david and age is 10
+ variable-length arguments (*args) in large projects, sometimes we may not know the number of arguments to be passed in advance. in such cases, python provides us the flexibility to offer the comma-separated values which are internally treated as tuples at the function call. by using the variable-length arguments, we can pass any number of arguments. however, at the function definition, we define the variable-length argument using the *args (star) as *<variable - name >. consider the following example. example 
+def printme(*names):  
+    print("type of passed argument is ",type(names))  
+    print("printing the passed arguments...")  
+    for name in names:  
+        print(name)  
+printme("john","david","smith","nick")  
+ output: type of passed argument is  <class 'tuple'>
+printing the passed arguments...
+john
+david
+smith
+nick
+ in the above code, we passed *names as variable-length argument. we called the function and passed values which are treated as tuple internally. the tuple is an iterable sequence the same as the list. to print the given values, we iterated *arg names using for loop. keyword arguments(**kwargs) python allows us to call the function with the keyword arguments. this kind of function call will enable us to pass the arguments in the random order. the name of the arguments is treated as the keywords and matched in the function calling and definition. if the same match is found, the values of the arguments are copied in the function definition. consider the following example. example 1 
+#function func is called with the name and message as the keyword arguments  
+def func(name,message):  
+    print("printing the message with",name,"and ",message)  
+    
+    #name and message is copied with the values john and hello respectively  
+    func(name = "john",message="hello") 
+ output: printing the message with john and  hello
+ example 2 providing the values in different order at the calling 
+#the function simple_interest(p, t, r) is called with the keyword arguments the order of arguments doesn't matter in this case  
+def simple_interest(p,t,r):  
+    return (p*t*r)/100  
+print("simple interest: ",simple_interest(t=10,r=10,p=1900))   
+ output: simple interest:  1900.0
+ if we provide the different name of arguments at the time of function call, an error will be thrown. consider the following example. example 3 
+#the function simple_interest(p, t, r) is called with the keyword arguments.   
+def simple_interest(p,t,r):  
+    return (p*t*r)/100  
+
+# doesn't find the exact match of the name of the arguments (keywords)    
+print("simple interest: ",simple_interest(time=10,rate=10,principle=1900)) 
+ output: typeerror: simple_interest() got an unexpected keyword argument 'time'
+ the python allows us to provide the mix of the required arguments and keyword arguments at the time of function call. however, the required argument must not be given after the keyword argument, i.e., once the keyword argument is encountered in the function call, the following arguments must also be the keyword arguments. consider the following example. example 4 
+def func(name1,message,name2):  
+    print("printing the message with",name1,",",message,",and",name2)  
+#the first argument is not the keyword argument  
+func("john",message="hello",name2="david") 
+ output: printing the message with john , hello ,and david
+ the following example will cause an error due to an in-proper mix of keyword and required arguments being passed in the function call. example 5 
+def func(name1,message,name2): 
+    print("printing the message with",name1,",",message,",and",name2)  
+func("john",message="hello","david")      
+ output: syntaxerror: positional argument follows keyword argument
+ python provides the facility to pass the multiple keyword arguments which can be represented as **kwargs. it is similar as the *args but it stores the argument in the dictionary format. this type of arguments is useful when we do not know the number of arguments in advance. consider the following example: example 6: many arguments using keyword argument 
+def food(**kwargs):
+    print(kwargs)
+food(a="apple")
+food(fruits="orange", vagitables="carrot")
+ output: {'a': 'apple'}
+{'fruits': 'orange', 'vagitables': 'carrot'}
+ scope of variables the scopes of the variables depend upon the location where the variable is being declared. the variable declared in one part of the program may not be accessible to the other parts. in python, the variables are defined with the two types of scopes. global variables local variables the variable defined outside any function is known to have a global scope, whereas the variable defined inside a function is known to have a local scope. consider the following example. example 1 local variable 
+def print_message():  
+    message = "hello !! i am going to print a message." # the variable message is local to the function itself  
+    print(message)  
+print_message()  
+print(message) # this will cause an error since a local variable cannot be accessible here.    
+ output: hello !! i am going to print a message.
+  file "/root/pycharmprojects/pythontest/test1.py", line 5, in 
+    print(message)
+nameerror: name 'message' is not defined
+ example 2 global variable 
+def calculate(*args):  
+    sum=0  
+    for arg in args:  
+        sum = sum +arg  
+    print("the sum is",sum)  
+sum=0  
+calculate(10,20,30) #60 will be printed as the sum  
+print("value of sum outside the function:",sum) # 0 will be printed  output:
+ output: the sum is 60
+value of sum outside the function: 0
+ next topicpython built-in functions ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

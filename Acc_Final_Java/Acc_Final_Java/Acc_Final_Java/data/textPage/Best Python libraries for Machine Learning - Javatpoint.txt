@@ -1,0 +1,327 @@
+https://www.javatpoint.com/best-python-libraries-for-machine-learning::best python libraries for machine learning - javatpoint ? scroll to top home python if else for loop function array string regex list set tuple dictionary programs numpy interview questions python tutorial python tutorial python features python history python applications python install python example python variables python data types python keywords python literals python operators python comments python if else python loops python for loop python while loop python break python continue python pass python strings python lists python tuples python list vs tuple python sets python dictionary python functions python built-in functions python lambda functions python files i/o python modules python exceptions python date python regex python sending email read csv file write csv file read excel file write excel file python assert python list comprehension python collection module python math module python os module python random module python statistics module python sys module python ides python arrays command line arguments python magic method python stack & queue pyspark mllib python decorator python generators web scraping using python python json python itertools python multiprocessing how to calculate distance between two points using geopy gmail api in python how to plot the google map using folium package in python grid search in python python high order function nsetools in python python program to find the nth fibonacci number python opencv object detection python simpleimputer module second largest number in python python oops python oops concepts python object class python constructors python inheritance abstraction in python python mysql environment setup database connection creating new database creating tables insert operation read operation update operation join operation performing transactions python mongodb python mongodb python sqlite python sqlite python questions how to install python in windows how to reverse a string in python how to read csv file in python how to run python program how to take input in python how to convert list to string in python how to append element in the list how to compare two lists in python how to convert int to string in python how to create a dictionary in python how to create a virtual environment in python how to declare a variable in python how to install matplotlib in python how to install opencv in python how to print in same line in python how to read json file in python how to read a text file in python how to use for loop in python is python scripting language how long does it take to learn python how to concatenate two strings in python how to connect database in python how to convert list to dictionary in python how to declare a global variable in python how to reverse a number in python what is an object in python which is the fastest implementation of python how to clear python shell how to create a dataframes in python how to develop a game in python how to install tkinter in python how to plot a graph in python how to print pattern in python how to remove an element from a list in python how to round number in python how to sort a dictionary in python strong number in python how to convert text to speech in python bubble sort in python logging in python insertion sort in python binary search in python linear search in python python vs scala queue in python stack in python heap sort in python palindrome program in python program of cumulative sum in python merge sort in python python matrix python unit testing forensics & virtualization best books to learn python best books to learn django gcd of two number in python python program to generate a random string how to one hot encode sequence data in python how to write square root in python pointer in python python 2d array python memory management python libraries for data visualization how to call a function in python git modules in python top python frameworks for gaming python audio modules wikipedia module in python python random randrange() permutation and combination in python getopt module in python merge two dictionaries in python multithreading in python 3 static in python how to get the current date in python argparse in python python tqdm module caesar cipher in python tokenizer in python how to add two lists in python shallow copy and deep copy in python atom python contains in python label encoding in python django vs. node js python frameworks how to create a vector in python using numpy pickle module of python how to convert bytes to string in python python program to find anagram how to convert list to set python vs javascript python holidays module fuzzywuzzy python library dask python dask python (part 2) mode in python menu-driven programs in python python array vs. list what is duck typing in python pep 8 in python python user groups basic commands in python f string in python how brython works how to use brython in the browser arima model in python python modulus operator matlab vs. python method resolution order in python monkey patching in python python __call__ method python heapq module python substring project ideas for python beginners python faker fizz-buzz program in python tabula python python program to print prime factor of given number python program to print pascal triangle namedtuple in python ordereddict in python t-test in python python return statement getter and setter in python enum class in python destructors in python curve fit in python converting csv to json in python underscore (_) in python set vs list in python locating and executing modules flatten list in python pair plot in python data hiding in python python program to find intersection of two lists how to create requirements.txt file in python tic-tac-toe in python python asynchronous programming - asyncio and await python main() function strftime() function in python verbose flag in python regex python ast module python requests module - http request shutil module in python python epoch to datetime python del statement looping technique in python metaprogramming with metaclasses in python precision handling in python python join list strip() function in python gradient descent algorithm prettytable in python sentiment analysis in python convert python list to numpy arrays traceback in python time clock() method in python deque in python dictionary comprehension in python python data analytics python seek() method ternary operator in python how to calculate the area of the circle using python how to write in text file using python python keyerror python super() function max() function in python fraction module in python popular python framework to build api how to check python version python %s - string formatting python seaborn library countplot in python range() vs. xrange() python wordcloud package in python convert dataframe into list anova test in python python program to find compound interest ansible in python python important tips and tricks python coroutines double underscores in python re.search() vs re.findall() in python regex how to install statsmodels in python cos in python vif in python __add__ method in python ethical hacking with python class variable vs instance perfect number in python eol in python python program to convert hexadecimal string to decimal string different methods in python for swapping two numbers without using third variable how to change plot size in matplotlib how to get the zip code in python eel in python assignment operators in python speech recognition python yield vs return in python graphene python name mangling in python python combination without itertools python comprehensions influxdb in python kafka tutorial in python augmented assignment expressions in python python (x,y) software python event-driven programming python semaphore python sorted reverse automorphic number in python sizeof in python python program for accepting the strings which contains all vowels class-based views vs function-based views how to handle cookies in django agg() function in python amicable numbers in python context manager in python create bmi calculator using python string to binary in python what is script mode in python best python libraries for machine learning python program to display calendar of given year how to open url in python broken pipe error in python code template for creating objects in python python program to calculate the best time to buy and sell stock tuple to string in python kadane's algorithm in python loggers in django weather app in django missing data conundrum: exploration and imputation techniques different methods of array rotation in python what is operator overloading in python defaultdict in python operator module in python spinner widget in the kivy library of python number plate recognition using python obfuscating a python program convert string to dictionary in python convert string to json in python dbscan algorithm in python how to write a code for printing the python exception/error hierarchy principal component analysis (pca) with python python program to find number of days between two given dates object recognition using python python vlc module set to list in python string to int in python internet of things with python python pysftp module amazing hacks of python average of list in python check installed modules in python choice() in python convert list to dataframe in python convert string to float in python decorators with parameters in python dynamic typing in python fabs in python how to remove decimal in python python closure python glob module writing a python module modules vs packages in python snmp module in python average of list in python append vs extend vs insert in python how to remove duplicates from a list in python remove multiple characters from a string in python shuffle in python floor() and ceil() functions in python sqrt(): math function of python python yfinance module difflib module in python convert the column type from string to datetime format in pandas dataframe python wxpython module random uniform python relational operators in python string to list in python chatbot in python how to convert float to int in python multiply all elements in list of python module vs function in python reverse a tuple in python tuple to dictionary in python datetime.timedelta() function of python python bio module python dash module how to select rows in pandas dataframe based on conditions typecasting in python dateutil module in python getpass module in python python wand library generate a qr code using python best python pdf library python cachetools module python cmdparser module python dash module python emoji module python nmap module python pylab module working with pdf files in python pdf handling in python manipulating pdf using python list all functions from a python module python list of dictionaries python shelve module creating interactive pdf forms using python python newspaper module how to connect wi-fi using python best python libraries used for ethical hacking windows system administration management using python indentation error in python python imaplib module python lxml module python mayavi module python os.listdir() method python modules for automation data visualization in python using bokeh library how to plot glyphs over a google map by using bokeh library in python how to plot a pie chart using bokeh library in python how to read contents of pdf using ocr in python grammar and spell checker in python converting html to pdf files using python readlines in python how to plot multiple lines on a graph using bokeh in python bokeh.plotting.figure.circle_x() function in python bokeh.plotting.figure.diamond_cross() function in python how to plot rays on a graph using bokeh in python image steganography using python inconsistent use of tabs and spaces in indentation how to plot multiple plots using bokeh in python how to make an area plot in python using bokeh python chempy module python memory-profiler module python phonenumbers module python platform module typeerror string indices must be an integer time series forecasting with prophet in python python pexpect module python optparse module int object is not iterable. python peewee library some cryptocurrency libraries for python building a blockchain using python huffman coding using python nested dictionary in python collections.userstring in python how to customize legends with matplotlib matplotlib legend in subplot morphological operations in image processing in python role of python in artificial intelligence python instagramy module python pprint module python primepy module android development using python python fbchat library artificial intelligence in cybersecurity: pitting algorithms vs algorithms understanding the recognition pattern of artificial intelligence when and how to leverage lambda architecture in big data why should we learn python for data science how to change the "legend" position in matplotlib how to check if element exists in list in python how to check spellings of given words using enchant in python python program to count the number of matching characters in a pair of string ping pong game using turtle in python python function to display calendar python program for calculating the sum of squares of first n natural numbers python program for how to check if a given number is fibonacci number or not randint() function in python visualize tiff file using matplotlib and gdal in python rarfile module in python stemming words using python python program for word guessing game blockchain in healthcare: innovations & opportunities snake game in python using turtle module how to find armstrong numbers between two given integers celery tutorial using python rsme - root mean square error in python building a twitter bot using python python progressbar module python pronouncing module python pyautogui module python pyperclip module how to generate uuid in python python top 10 libraries to learn in 2022 reading netcdf data using python the reprlib module in python how to take multiple input from user in python python zlib library python queue module python yaml parser effective root searching algorithms in python python bz2 module python ipaddress module python pylint module how to process xml in python bisect algorithm functions in python creating and updating powerpoint presentation using python how to change the size of figure drawn with matplotlib keyboard module in python python pyfiglet module creating an mcq quiz game in python statistic with python what is gil in python basic python for java developers how to download youtube videos using python scripts traffic flow simulation in python how to merge and sort two lists in python metacharacters in python write the python program to print all possible combination of integers modulo string formatting in python counters in python python pyautogui library how to draw the mandelbrot set in python python dbm module webcam motion detector in python graphql implementation in django how to implement protobuf in python pyqt library in python how to prettify data structures with pretty print in python encrypt a password in python using bcrypt pyramid framework in python building a telegram bot using python web2py framework in python python os.chdir() method balancing parentheses in python how to provide multiple constructors in python classes profiling the python code python tkinter (gui) python tkinter tkinter button tkinter canvas tkinter checkbutton tkinter entry tkinter frame tkinter label tkinter listbox tkinter menubutton tkinter menu tkinter message tkinter radiobutton tkinter scale tkinter scrollbar tkinter text tkinter toplevel tkinter spinbox tkinter panedwindow tkinter labelframe tkinter messagebox python web blocker introduction building python script script deployment on linux script deployment on windows python mcq python mcq python mcq part 2 related tutorials numpy tutorial django tutorial flask tutorial pandas tutorial pytorch tutorial pygame tutorial matplotlib tutorial opencv tutorial openpyxl tutorial python cgi python design pattern python programs python programs next ? ? prev best python libraries for machine learning machine learning is a science of programming the computer by which they can learn from different types of data. according to machine learning's definition of arthur samuel - "field of study that gives computers the ability to learn without being explicitly programmed". the concept of machine learning is basically used for solving different types of life problems. in previous days, the users used to perform tasks of machine learning by manually coding all the algorithms and using mathematical and statistical formulas. this process was time-consuming, inefficient, and tiresome compared to python libraries, frameworks, and modules. but in today's world, users can use the python language, which is the most popular and productive language for machine learning. python has replaced many languages as it is a vast collection of libraries, and it makes work easier and simpler. in this tutorial, we will discuss the best libraries of python used for machine learning: numpy scipy scikit-learn theano tensorflow keras pytorch pandas matplotlib numpy numpy is the most popular library in python. this library is used for processing large multi-dimensional array and matrix formation by using a large collection of high-level mathematical functions and formulas. it is mainly used for the computation of fundamental science in machine learning. it is widely used for linear algebra, fourier transformation, and random number capabilities. there are other high-end libraries such as tensorflow, which user numpy as internal functioning for manipulation of tensors. example: 
+import numpy as nup
+ 
+# then, create two arrays of rank 2
+k = nup.array([[2, 4], [6, 8]])
+r = nup.array([[1, 3], [5, 7]])
+ 
+# then, create two arrays of rank 1
+p = nup.array([10, 12])
+s = nup.array([9, 11])
+ 
+# then, we will print the inner product of vectors
+print ("inner product of vectors: ", nup.dot(p, s), "\n")
+ 
+# then, we will print the matrix and vector product
+print ("matrix and vector product: ", nup.dot(k, p), "\n")
+ 
+# now, we will print the matrix and matrix product
+print ("matrix and matrix product: ", nup.dot(k, r))
+ output: inner product of vectors: 222 
+
+matrix and vector product: [ 68 156] 
+
+matrix and matrix product: [[22 34]
+                                                   [46 74]]
+ scipy scipy is a popular library among machine learning developers as it contains numerous modules for performing optimization, linear algebra, integration, and statistics. scipy library is different from scipy stack, as scipy library is one of the core packages which made up the scipy stack. scipy library is used for image manipulation tasks. example 1: 
+from scipy import signal as sg
+import numpy as nup
+k = nup.arange(45).reshape(9, 5)
+domain_1 = nup.identity(3)
+print (k, end = 'kk')
+print (sg.order_filter (k, domain_1, 1))
+ output: r (k, domain_1, 1))
+output:
+[[ 0  1  2  3  4]
+ [ 5  6  7  8  9]
+ [10 11 12 13 14]
+ [15 16 17 18 19]
+ [20 21 22 23 24]
+ [25 26 27 28 29]
+ [30 31 32 33 34]
+ [35 36 37 38 39]
+ [40 41 42 43 44]] kk [[ 0.  1.  2.  3.  0.]
+ [ 5.  6.  7.  8.  3.]
+ [10. 11. 12. 13.  8.]
+ [15. 16. 17. 18. 13.]
+ [20. 21. 22. 23. 18.]
+ [25. 26. 27. 28. 23.]
+ [30. 31. 32. 33. 28.]
+ [35. 36. 37. 38. 33.]
+ [ 0. 35. 36. 37. 38.]]
+ example 2: 
+from scipy.signal import chirp as cp
+from scipy.signal import spectrogram as sp
+import matplotlib.pyplot as plot
+import numpy as nup
+t_t = nup.linspace(3, 10, 300)
+w_w = cp(t_t, f0 = 4, f1 = 2, t1 = 5, method = 'linear')
+plot.plot(t_t, w_w)
+plot.title ("linear chirp")
+plot.xlabel ('time in seconds)')
+plot.show()
+ output: scikit-learn scikit-learn is a python library which is used for classical machine learning algorithms. it is built on the top of two basic libraries of python, that is numpy and scipy. scikit-learn is popular in machine learning developers as it supports supervised and unsupervised learning algorithms. this library can also be used for data-analysis, and data-mining process. example: 
+from sklearn import datasets as ds
+from sklearn import metrics as mt
+from sklearn.tree import decisiontreeclassifier as dtc
+ 
+# load the iris datasets
+dataset_1 = ds.load_iris()
+ 
+# fit a cart model to the data
+model_1 = dtc()
+model_1.fit(dataset_1.data, dataset_1.target)
+print(model)
+ 
+# make predictions
+expected_1 = dataset_1.target
+predicted_1 = model_1.predict(dataset_1.data)
+ 
+# summarize the fit of the model
+print (mt.classification_report(expected_1, predicted_1))
+print(mt.confusion_matrix(expected_1, predicted_1))
+ output: decisiontreeclassifier()
+              precision    recall f1-score   support
+
+           0       1.00      1.00      1.00        50
+           1       1.00      1.00      1.00        50
+           2       1.00      1.00      1.00        50
+
+    accuracy                           1.00       150
+   macro avg       1.00      1.00      1.00       150
+weighted avg       1.00      1.00      1.00       150
+
+[[50  0  0]
+ [ 0 50  0]
+ [ 0  0 50]]
+ theano theano is a famous library of python, which is used for defining, evaluating, and optimizing mathematical expressions, which also efficiently involves multi-dimensional arrays. it is achieved by optimizing the utilization of cpu and gpu. as machine learning is all about mathematics and statistics, theano makes it easy for the users to perform mathematical operations. it is extensively used for unit-testing and self-verification for detecting and diagnosing different types of errors. theano is a powerful library that can be used on a large scale computationally intensive scientific project. it is a simple and approachable library, which an individual can use for their projects. example: 
+import theano as th
+import theano.tensor as tt
+k = tt.dmatrix('k')
+r = 1 / (1 + tt.exp(-k))
+logistic_1 = th.function([k], r)
+logistic_1([[0, 1], [-1, -2]])
+ output: array([[0.5, 0.71135838],
+       [0.26594342, 0.11420192]])
+ tensorflow tensorflow is an open-source library of python which is used for high performance of numerical computation. it is a popular library, which was developed by the brain team in google. tensorflow is a framework that involves defining and running computations involving tensors. tensorflow can be used for training and running deep neural networks, which can be used for developing several artificial intelligence applications. example: 
+import tensorflow as tsf
+ 
+# initialize two constants
+k_1 = tsf.constant([2, 4, 6, 8])
+k_2 = tsf.constant([1, 3, 5, 7])
+ 
+# multiply
+result = tsf.multiply(k_1, k_2)
+ 
+# initialize the session
+sess_1 = tsf.session()
+ 
+# print the result
+print (sess_1.run(result))
+ 
+# close the session
+sess_1.close()
+ output: [ 2 12 30 56]
+ keras keras is a high-level neural networking api, which is capable of running on top of tensorflow, cntk and theano libraries. it is a very famous library of python among machine learning developers. it can run without a glitch on both cpu and gpu. it makes it really easy and simple for machine learning beginners and for designing a neural network. it is also used for fast prototyping. example: 
+import numpy as nup
+from tensorflow import keras as ks
+from tensorflow.keras import layers as ls
+number_classes = 10
+input_shapes = (28, 28, 1)
+
+# here, we will import the data, and split it between train and test sets
+(x_1_train, y_1_train), (x_2_test, y_2_test) = ks.datasets.mnist.load_data()
+
+# now, we will scale images to the [0, 1] range
+x_1_train = x_1_train.astype("float32") / 255
+x_2_test = x_2_test.astype("float32") / 255
+# we have to make sure that the images have shape (28, 28, 1)
+x_1_train = nup.expand_dims(x_1_train, -1)
+x_2_test = nup.expand_dims(x_2_test, -1)
+print ("x_train shape:", x_1_train.shape)
+print (x_1_train.shape[0], "training samples")
+print (x_2_test.shape[0], "testing samples")
+
+
+# then we will convert class vectors to binary class matrices
+y_1_train = ks.utils.to_categorical(y_1_train, number_classes)
+y_2_test = ks.utils.to_categorical(y_2_test, number_classes)
+model_1 = ks.sequential(
+    [
+        ks.input(shape = input_shapes),
+        ls.conv2d(32, kernel_size = (3, 3), activation = "relu"),
+        ls.maxpooling2d(pool_size = (2, 2)),
+        ls.conv2d(64, kernel_size = (3, 3), activation = "relu"),
+        ls.maxpooling2d(pool_size = (2, 2)),
+        ls.flatten(),
+        ls.dropout(0.5),
+        ls.dense(number_classes, activation = "softmax"),
+    ]
+)
+
+model_1.summary()
+ output: x_train shape: (60000, 28, 28, 1)
+60000 training samples
+10000 testing samples
+model: "sequential"
+_________________________________________________________________
+layer (type)                 output shape              param #   
+=================================================================
+conv2d (conv2d)              (none, 26, 26, 32)        320       
+_________________________________________________________________
+max_pooling2d (maxpooling2d) (none, 13, 13, 32)        0         
+_________________________________________________________________
+conv2d_1 (conv2d)            (none, 11, 11, 64)        18496     
+_________________________________________________________________
+max_pooling2d_1 (maxpooling2 (none, 5, 5, 64)          0         
+_________________________________________________________________
+flatten (flatten)            (none, 1600)              0         
+_________________________________________________________________
+dropout (dropout)            (none, 1600)              0         
+_________________________________________________________________
+dense (dense)                (none, 10)                16010     
+=================================================================
+total params: 34,826
+trainable params: 34,826
+non-trainable params: 0
+_________________________________________________________________
+ pytorch pytorch is also an open-source python library for machine learning based on torch, which is implemented in c language and used for machine learning. it has numerous tools and libraries supported on the computer version, natural language processing (nlp) and many other machine learning programs. this library also allows users to perform computational tasks on tensor with gpu acceleration. example: 
+import torch as tch
+d_type = tch.float
+device_1 = tch.device("cpu")
+# use device = tch.device("cuda:0") for gpu
+ 
+# here, n_1 is batch size; d_in_1 is input dimension;
+# h_1 is hidden dimension; d_out_1 is output dimension.
+n_1 = 62
+d_in_1 = 1000
+h_1 = 110
+d_out_1 = 11
+ 
+# now, we will create random input and output data
+k = tch.randn(n_1, d_in_1, device = device_1, dtype = d_type)
+r = tch.randn(n_1, d_out_1, device = device_1, dtype = d_type)
+ 
+# then, we will randomly initialize weights
+k_1 = tch.randn(d_in_1, h_1, device = device_1, dtype = d_type)
+k_2 = tch.randn(h_1, d_out_1, device = device_1, dtype = d_type)
+ 
+learning_rate_1 = 1e-6
+for q in range(500):
+    # now, we will put forward pass: compute predicted y
+    h_1 = k.mm(k_1)
+    h_relu_1 = h_1.clamp(min = 0)
+    y_pred_1 = h_relu_1.mm(k_2)
+ 
+    # compute and print loss
+    loss = (y_pred_1 - r).pow(2).sum().item()
+    print (q, loss)
+ 
+    # then we will backprop to compute gradients of w1 and w2 with respect to loss
+    grad_y_pred = 2.0 * (y_pred_1 - r)
+    grad_k_2 = h_relu_1.t().mm(grad_y_pred)
+    grad_h_relu = grad_y_pred.mm(k_2.t())
+    grad_h = grad_h_relu.clone()
+    grad_h[h_1 < 0] = 0
+    grad_k_1 = k.t().mm(grad_h)
+ 
+    # then we will update the weights by using gradient descent
+    k_1 -= learning_rate_1 * grad_k_1
+    k_2 -= learning_rate_1 * grad_k_2
+ output: 0 35089116.0
+1 33087792.0
+2 42227192.0
+3 56113208.0
+4 61125684.0
+5 45541204.0
+6 21011108.0
+7 6972017.0
+8 2523046.5
+9 1342124.5
+10 950067.5625
+11 753290.25
+12 620475.875
+13 519006.71875
+14 437975.9375
+15 372063.125
+16 317840.8125
+17 272874.46875
+18 235348.421875
+.
+.
+.
+497 7.426088268402964e-05
+498 7.348413055296987e-05
+499 7.258950790856034e-05
+ pandas pandas is a python library that is mainly used for data analysis. the users have to prepare the dataset before using it for training the machine learning. pandas make it easy for the developers as it is developed specifically for data extraction. it has a wide variety of tools for analysing data in detail, providing high-level data structures. example: 
+import pandas as pad
+ 
+data_1 = {"countries": ["bhutan", "cape verde", "chad", "estonia", "guinea", "kenya", "libya", "mexico"],
+       "capital": ["thimphu", "praia", "n'djamena", "tallinn", "conakry", "nairobi", "tripoli", "mexico city"],
+       "currency": ["ngultrum", "cape verdean escudo", "cfa franc", "estonia kroon; euro", "guinean franc", "kenya shilling", "libyan dinar", "mexican peso"],
+       "population": [20.4, 143.5, 12.52, 135.7, 52.98, 76.21, 34.28, 54.32] }
+ 
+data_1_table = pad.dataframe(data_1)
+print(data_1_table)
+ output:     countries      capital             currency  population
+0      bhutan      thimphu             ngultrum       20.40
+1  cape verde        praia  cape verdean escudo      143.50
+2        chad    n'djamena            cfa franc       12.52
+3     estonia      tallinn  estonia kroon; euro      135.70
+4      guinea      conakry        guinean franc       52.98
+5       kenya      nairobi       kenya shilling       76.21
+6       libya      tripoli         libyan dinar       34.28
+7      mexico  mexico city         mexican peso       54.32
+ matplotlib matplotlib is a python library that is used for data visualization. it is used by developers when they want to visualize the data and its patterns. it is a 2-d plotting library that is used to create 2-d graphs and plots. it has a module pyplot which is used for plotting graphs, and it provides different features for control line styles, font properties, formatting axes and many more. matplotlib provides different types of graphs and plots such as histograms, error charts, bar charts and many more. example 1: 
+import matplotlib.pyplot as plot
+import numpy as nup
+ 
+# prepare the data
+k = nup.linspace(2, 4, 8)
+r = nup.linspace(5, 7, 9)
+q = nup.linspace(0, 1, 3)
+ 
+# plot the data
+plot.plot(k, k, label = 'k')
+plot.plot(r, r, label = 'r')
+plot.plot(q, q, label = 'q')
+ 
+# add a legend
+plot.legend()
+ 
+# show the plot
+plot.show()
+ output: example 2: 
+import matplotlib.pyplot as plot
+  
+# creating dataset-1
+k_1 = [8, 4, 6, 3, 5, 10, 
+      13, 16, 12, 21]
+  
+r_1 = [11, 6, 13, 15, 17, 5, 
+      3, 2, 8, 19]
+  
+# creating dataset2
+k_2 = [6, 9, 18, 14, 16, 15,
+      11, 16, 12, 20]
+  
+r_2 = [16, 4, 10, 13, 18, 
+      20, 6, 2, 17, 15]
+  
+plot.scatter(k_1, r_1, c = "black", 
+            linewidths = 2, 
+            marker = "s", 
+            edgecolor = "brown", 
+            s = 50)
+  
+plot.scatter(k_2, r_2, c = "purple",
+            linewidths = 2,
+            marker = "^", 
+            edgecolor = "grey", 
+            s = 200)
+  
+plt.xlabel ("x-axis")
+plt.ylabel ("y-axis")
+print ("scatter plot")
+plt.show()
+ output: conclusion in this tutorial, we have discussed about different libraries of python which are used for performing machine learning tasks. we have also shown different examples of each library. next topicpython program to display calendar of given year ? prev next ? for videos join our youtube channel: join now feedback send your feedback to [email protected] help others, please share learn latest tutorials splunk spss swagger transact-sql tumblr reactjs regex reinforcement learning r programming rxjs react native python design patterns python pillow python turtle keras preparation aptitude reasoning verbal ability interview questions company questions trending technologies artificial intelligence aws selenium cloud computing hadoop reactjs data science angular 7 blockchain git machine learning devops b.tech / mca dbms data structures daa operating system computer network compiler design computer organization discrete mathematics ethical hacking computer graphics software engineering web technology cyber security automata c programming c++ java .net python programs control system data mining data warehouse javatpoint services javatpoint offers too many high quality services. mail us on [email protected], to get more information about given services. website designing website development java development php development wordpress graphic designing logo digital marketing on page and off page seo ppc content development corporate training classroom and online training data entry training for college campus javatpoint offers college campus training on core java, advance java, .net, android, hadoop, php, web technology and python. please mail your requirement at [email protected] duration: 1 week to 2 week like/subscribe us for latest updates or newsletter learn tutorialslearn javalearn data structureslearn c programminglearn c++ tutoriallearn c# tutoriallearn php tutoriallearn html tutoriallearn javascript tutoriallearn jquery tutoriallearn spring tutorial our websitesjavatpoint.comhindi100.comlyricsia.comquoteperson.comjobandplacement.com our services website development android development website designing digital marketing summer training industrial training college campus training contact address: g-13, 2nd floor, sec-3 noida, up, 201301, india contact no: 0120-4256464, 9990449935contact us subscribe us privacy policysitemap about me ? copyright 2011-2021 www.javatpoint.com. all rights reserved. developed by javatpoint.

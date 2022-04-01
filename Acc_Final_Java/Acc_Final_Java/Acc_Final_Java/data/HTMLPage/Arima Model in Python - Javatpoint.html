@@ -1,0 +1,893 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Arima Model in Python - Javatpoint</title>
+  <link rel="SHORTCUT ICON" href="https://static.javatpoint.com/images/favicon2.png"> 
+  <link rel="stylesheet" type="text/css" href="https://static.javatpoint.com/link.css?v=5.0" async>
+  <link rel="dns-prefetch" href="https://clients1.google.com">
+  <link rel="dns-prefetch" href="https://static.javatpoint.com">
+  <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+  <link rel="dns-prefetch" href="https://www.google.com">
+  <link rel="dns-prefetch" href="https://feedify.net">
+  <meta name="theme-color" content="#4CAF50">
+  <meta property="og:title" content="Arima Model in Python - Javatpoint">
+  <meta property="og:description" content="Arima Model in Python with python, tutorial, tkinter, button, overview, entry, checkbutton, canvas, frame, environment set-up, first python program, operators, etc."> 
+  <meta name="keywords" content="python tutorial, tkinter, button, overview, checkbutton, canvas, frame, entry, environment set-up, first python program, python modules, basics, data types, operators, if-else statements, loops, history, features, history, versions, example, operators, variables">
+  <meta name="description" content="Arima Model in Python with python, tutorial, tkinter, button, overview, entry, checkbutton, canvas, frame, environment set-up, first python program, operators, etc.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="canonical" href="https://www.javatpoint.com/arima-model-in-python"> 
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta name="twitter:title" property="og:title" content="Arima Model in Python - Javatpoint">
+  <meta name="twitter:description" property="og:description" content="Arima Model in Python with python, tutorial, tkinter, button, overview, entry, checkbutton, canvas, frame, environment set-up, first python program, operators, etc.">
+  <meta property="og:url" content="https://www.javatpoint.com/arima-model-in-python">
+  <meta property="og:site_name" content="www.javatpoint.com">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@pagejavatpoint">
+  <meta name="twitter:domain" content="www.javatpoint.com">
+  <meta name="twitter:creator" content="@pagejavatpoint"> 
+  <link href="https://www.javatpoint.com/manifest.json" rel="manifest"> 
+  <script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/37784/adRecover.js?ts=1543562646174'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script> 
+  <script data-cfasync="false" type="text/javascript">
+(function (w, d) {
+  var siteId = "37780";
+  var targetElement =
+    d.getElementsByTagName("head")[0] || d.getElementsByTagName("body")[0];
+  var s = d.createElement("script");
+  s.src = "//cdn.adpushup.com/" + siteId + "/adpushup.js";
+  s.crossOrigin = "anonymous";
+  s.type = "text/javascript";
+  s.async = true;
+  targetElement.appendChild(s);
+  function sendErrorLog(log) {
+    var eventName = "script_error";
+    log.siteId = siteId;
+    var data = btoa(JSON.stringify(log));
+    var img = document.createElement("img");
+    img.src =
+      "https://aplogger.adpushup.com/log?event=HC_" + eventName + "&data=" + data;
+  }
+  var searchParams =
+    typeof URLSearchParams === "function" &&
+    new URLSearchParams(window.location.search);
+  if (searchParams) {
+    var isDebugModeOn = searchParams.has("apDebug");
+  }
+  w.addEventListener("error", function (event) {
+    try {
+      var filename = event.filename || "";
+      if (filename.indexOf("/" + siteId + "/adpushup.js") === -1) {
+        return;
+      }
+      var error = event.error;
+      if (error) {
+        var message = error.message;
+        var stack = error.stack;
+      }
+      message = message || event.message;
+      var log = {
+        message: message,
+        stack: stack || "",
+        timestamp: Math.floor(event.timeStamp),
+        type: "uncaughterror",
+      };
+      sendErrorLog(log);
+      !isDebugModeOn && event.preventDefault();
+    } catch (error) {}
+  });
+  w.addEventListener("unhandledrejection", function (event) {
+    var reason = event.reason;
+    if (typeof reason === "object") reason = JSON.stringify(reason);
+    var log = {
+      message: reason || "no reason found",
+      timestamp: Math.floor(event.timeStamp),
+      type: "unhandledrejection",
+    };
+    sendErrorLog(log);
+    !isDebugModeOn && event.preventDefault();
+  });
+  var ga = d.createElement("script");
+  ga.src = "https://www.googletagmanager.com/gtag/js?id=G-Z0TZ7TDHS1";
+  ga.type = "text/javascript";
+  ga.async = true;
+  targetElement.appendChild(ga);
+  w.dataLayer = window.dataLayer || [];
+  w.gtag = function () {
+    window.dataLayer.push(arguments);
+  };
+  w.gtag("js", new Date());
+  w.gtag("config", "G-Z0TZ7TDHS1", {
+    custom_map: { dimension1: "siteid" },
+  });
+  w.gtag("event", "script-call", {
+    send_to: "G-Z0TZ7TDHS1",
+    siteid: siteId,
+  });
+  s.onerror = function (msg) {
+    w.gtag("event", "ad-block", {
+      send_to: "G-Z0TZ7TDHS1",
+      siteid: siteId,
+    });
+  };
+})(window, document);
+</script> 
+ </head> 
+ <body onload="highlightlink()"> <button onclick="topFunction()" id="myBtn">&#x21e7; SCROLL TO TOP</button> 
+  <div id="page" style="margin:-8px;background-color:#f5f5f4;">
+   <div id="container"> 
+    <div class="header">
+     <table style="width:100%;margin-bottom:5px"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div style="clear:both;float:left;width:230px;margin-top:15px;margin-left:20px"> <a href="https://www.javatpoint.com"><img src="https://static.javatpoint.com/images/logo/jtp_logo.png" alt="Javatpoint Logo"></a> 
+         </div> 
+         <div style="float:left;width:60%;">
+          <script> (function() { var cx = '005383125436438536544:y1edweedxwi'; var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true; gcse.src = 'https://cse.google.com/cse.js?cx=' + cx; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s); })();</script><gcse:search></gcse:search> 
+         </div> </td> 
+       </tr>
+      </tbody>
+     </table> 
+    </div> 
+    <div class="headermobile"> 
+     <div style="margin-top:10px;padding:0px;text-align:left;"> <span style="float:left"><input type="image" src="https://www.javatpoint.com/images/menuhome64.png" alt="Go To Top" onclick="showmenu()"></span> <span style="float:left"><a href="https://www.javatpoint.com"><img src="https://www.javatpoint.com/images/logo/jtp_logo.png" alt="Javatpoint Logo"></a></span> 
+     </div> 
+     <div style="margin:0px;padding:0px;clear:both"> 
+      <script>
+  (function() {
+    var cx = '005383125436438536544:y1edweedxwi';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script> <gcse:search></gcse:search> 
+     </div> 
+    </div> 
+    <div id="link" style="clear:both"> 
+     <div class="ddsmoothmenu"> 
+      <ul> 
+       <li><a href="https://www.javatpoint.com"><img src="https://static.javatpoint.com/images/icon/home.png" alt="home"> Home</a></li> 
+       <li><a href="python-tutorial" class="selected"><img src="https://static.javatpoint.com/images/icon/python.png" alt="python"> Python</a></li> 
+       <li><a href="python-if-else"><img src="https://static.javatpoint.com/images/icon/if-else.png" alt="If Else"> If Else</a></li> 
+       <li><a href="python-for-loop"><img src="https://static.javatpoint.com/images/icon/forloop.png" alt="For Loop"> For Loop</a></li> 
+       <li><a href="python-functions"><img src="https://static.javatpoint.com/images/icon/function.png" alt="Function"> Function</a></li> 
+       <li><a href="python-arrays"><img src="https://static.javatpoint.com/images/icon/array.png" alt="Array"> Array</a></li> 
+       <li><a href="python-strings"><img src="https://static.javatpoint.com/images/icon/string.png" alt="String"> String</a></li> 
+       <li><a href="python-regex"><img src="https://static.javatpoint.com/images/icon/regex.png" alt="Regex"> Regex</a></li> 
+       <li><a href="python-lists"><img src="https://static.javatpoint.com/images/icon/list.png" alt="List"> List</a></li> 
+       <li><a href="python-set"><img src="https://static.javatpoint.com/images/icon/set.png" alt="Set"> Set</a></li> 
+       <li><a href="python-tuples"><img src="https://static.javatpoint.com/images/icon/tuple.png" alt="Tuple"> Tuple</a></li> 
+       <li><a href="python-dictionary"><img src="https://static.javatpoint.com/images/icon/dictionary.png" alt="Dictionary"> Dictionary</a></li> 
+       <li><a href="python-programs"><img src="https://static.javatpoint.com/images/icon/programs.png" alt="Programs"> Programs</a></li> 
+       <li><a href="numpy-tutorial"><img src="https://static.javatpoint.com/images/icon/numpy.png" alt="Numpy"> Numpy</a></li> 
+       <li><a href="python-interview-questions"><img src="https://static.javatpoint.com/images/icon/interview.png" alt="interview questions"> Interview Questions</a></li> 
+      </ul> 
+      <br style="clear: left"> 
+     </div>
+    </div> 
+    <div class="mobilemenu" style="clear:both"> 
+     <ins class="adPushupAds" data-adpcontrol="hqdgs" data-ver="2" data-siteid="37780" data-ac="PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4KPCEtLSBDbV8zMDB4MjUwX01vYl8xNC85IC0tPgo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzAwcHg7aGVpZ2h0OjI1MHB4IgogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItNDY5OTg1ODU0OTAyMzM4MiIKICAgICBkYXRhLWFkLXNsb3Q9IjcwMTQyNzI1MTkiPjwvaW5zPgo8c2NyaXB0PgooYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwo8L3NjcmlwdD4="></ins>
+     <script data-cfasync="false" type="text/javascript">(function (w, d) { for (var i = 0, j = d.getElementsByTagName("ins"), k = j[i]; i < j.length; k = j[++i]){ if(k.className == "adPushupAds" && k.getAttribute("data-push") != "1") { ((w.adpushup = w.adpushup || {}).control = (w.adpushup.control || [])).push(k); k.setAttribute("data-push", "1");} } })(window, document);</script> 
+    </div> 
+    <div id="menu"> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python Tutorial</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-tutorial">Python Tutorial</a> <a href="python-features">Python Features</a> <a href="python-history">Python History</a> <a href="python-applications">Python Applications</a> <a href="how-to-install-python">Python Install</a> <a href="python-example">Python Example</a> <a href="python-variables">Python Variables</a> <a href="python-data-types">Python Data Types</a> <a href="python-keywords">Python Keywords</a> <a href="python-literals">Python Literals</a> <a href="python-operators">Python Operators</a> <a href="python-comments">Python Comments</a> <a href="python-if-else">Python If else</a> <a href="python-loops">Python Loops</a> <a href="python-for-loop">Python For Loop</a> <a href="python-while-loop">Python While Loop</a> <a href="python-break">Python Break</a> <a href="python-continue">Python Continue</a> <a href="python-pass">Python Pass</a> <a href="python-strings"><span>Python Strings</span></a> <a href="python-lists"><span>Python Lists</span></a> <a href="python-tuples"><span>Python Tuples</span></a> <a href="python-list-vs-tuple">Python List Vs Tuple</a> <a href="python-set"><span>Python Sets</span></a> <a href="python-dictionary"><span>Python Dictionary</span></a> <a href="python-functions"><span>Python Functions</span></a> <a href="python-built-in-functions"><span>Python Built-in Functions</span></a> <a href="python-lambda-functions"><span>Python Lambda Functions</span></a> <a href="python-files-io"><span>Python Files I/O</span></a> <a href="python-modules"><span>Python Modules</span></a> <a href="python-exception-handling"><span>Python Exceptions</span></a> <a href="python-date"><span>Python Date</span></a> <a href="python-regex">Python Regex</a> <a href="python-sending-email">Python Sending Email</a> <a href="python-read-csv-file">Read CSV File</a> <a href="python-write-csv-file">Write CSV File</a> <a href="python-read-excel-file">Read Excel File</a> <a href="python-write-excel-file">Write Excel File</a> <a href="python-assert-keyword">Python Assert</a> <a href="python-list-comprehension">Python List Comprehension</a> <a href="python-collection-module">Python Collection Module</a> <a href="python-math-module">Python Math Module</a> <a href="python-os-module">Python OS Module</a> <a href="python-random-module">Python Random Module</a> <a href="python-statistics-module">Python Statistics Module</a> <a href="python-sys-module">Python Sys Module</a> <a href="python-ides">Python IDEs</a> <a href="python-arrays">Python Arrays</a> <a href="python-command-line-arguments">Command Line Arguments</a> <a href="python-magic-method">Python Magic Method</a> <a href="python-stack-and-queue">Python Stack &amp; Queue</a> <a href="pyspark-mllib">PySpark MLlib</a> <a href="python-decorator">Python Decorator</a> <a href="python-generators">Python Generators</a> <a href="web-scraping-using-python">Web Scraping Using Python</a> <a href="python-json">Python JSON</a> <a href="python-itertools">Python Itertools</a> <a href="python-multiprocessing">Python Multiprocessing</a> <a href="how-to-calculate-distance-between-two-points-using-geopy">How to Calculate Distance between Two Points using GEOPY</a> <a href="gmail-api-in-python">Gmail API in Python</a> <a href="how-to-plot-the-google-map-using-folium-package-in-python">How to Plot the Google Map using folium package in Python</a> <a href="grid-search-in-python">Grid Search in Python</a> <a href="python-high-order-function">Python High Order Function</a> <a href="nsetools-in-python">nsetools in Python</a> <a href="python-program-to-find-the-nth-fibonacci-number">Python program to find the nth Fibonacci Number</a> <a href="python-opencv-object-detection">Python OpenCV object detection</a> <a href="python-simpleimputer-module">Python SimpleImputer module</a> <a href="second-largest-number-in-python">Second Largest Number in Python</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python OOPs</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-oops-concepts">Python OOPs Concepts</a> <a href="python-objects-classes">Python Object Class</a> <a href="python-constructors">Python Constructors</a> <a href="inheritance-in-python">Python Inheritance</a> <a href="abstraction-in-python">Abstraction in Python</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python MySQL</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-mysql-environment-setup">Environment Setup</a> <a href="python-mysql-database-connection">Database Connection</a> <a href="python-mysql-creating-new-database">Creating New Database</a> <a href="python-mysql-creating-tables">Creating Tables</a> <a href="python-mysql-insert-operation">Insert Operation</a> <a href="python-mysql-read-operation">Read Operation</a> <a href="python-mysql-update-operation">Update Operation</a> <a href="python-mysql-join-operation">Join Operation</a> <a href="python-mysql-performing-transactions">Performing Transactions</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python MongoDB</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-mongodb">Python MongoDB</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python SQLite</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-sqlite">Python SQLite</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python Questions</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="how-to-install-python-in-windows">How to install Python in Windows</a> <a href="how-to-reverse-a-string-in-python">How to reverse a string in Python</a> <a href="how-to-read-csv-file-in-python">How to read CSV file in Python</a> <a href="how-to-run-python-program">How to run Python Program</a> <a href="how-to-take-input-in-python">How to take input in Python</a> <a href="how-to-convert-list-to-string-in-python">How to convert list to string in Python</a> <a href="how-to-append-element-in-the-list">How to append element in the list</a> <a href="how-to-compare-two-lists-in-python">How to compare two lists in Python</a> <a href="how-to-convert-int-to-string-in-python">How to convert int to string in Python</a> <a href="how-to-create-a-dictionary-in-python">How to create a dictionary in Python</a> <a href="how-to-create-a-virtual-environment-in-python">How to create a virtual environment in Python</a> <a href="how-to-declare-a-variable-in-python">How to declare a variable in Python</a> <a href="how-to-install-matplotlib-in-python">How to install matplotlib in Python</a> <a href="how-to-install-opencv-in-python">How to install OpenCV in Python</a> <a href="how-to-print-in-same-line-in-python">How to print in same line in Python</a> <a href="how-to-read-json-file-in-python">How to read JSON file in Python</a> <a href="how-to-read-a-text-file-in-python">How to read a text file in Python</a> <a href="how-to-use-for-loop-in-python">How to use for loop in Python</a> <a href="is-python-scripting-language">Is Python scripting language</a> <a href="how-long-does-it-take-to-learn-python">How long does it take to learn Python</a> <a href="how-to-concatenate-two-strings-in-python">How to concatenate two strings in Python</a> <a href="how-to-connect-database-in-python">How to connect Database in Python</a> <a href="how-to-convert-list-to-dictionary-in-python">How to convert list to dictionary in Python</a> <a href="how-to-declare-a-global-variable-in-python">How to declare a global variable in Python</a> <a href="how-to-reverse-a-number-in-python">How to reverse a number in Python</a> <a href="what-is-an-object-in-python">What is an object in Python</a> <a href="which-is-the-fastest-implementation-of-python">Which is the fastest implementation of Python</a> <a href="how-to-clear-python-shell">How to clear Python shell</a> <a href="how-to-create-a-dataframes-in-python">How to create a DataFrames in Python</a> <a href="how-to-develop-a-game-in-python">How to develop a game in Python</a> <a href="how-to-install-tkinter-in-python">How to install Tkinter in Python</a> <a href="how-to-plot-a-graph-in-python">How to plot a graph in Python</a> <a href="how-to-print-pattern-in-python">How to print pattern in Python</a> <a href="how-to-remove-an-element-from-a-list-in-python">How to remove an element from a list in Python</a> <a href="how-to-round-number-in-python">How to Round number in Python</a> <a href="how-to-sort-a-dictionary-in-python">How to sort a dictionary in Python</a> <a href="strong-number-in-python">Strong Number in Python</a> <a href="how-to-convert-text-to-speech-in-python">How to Convert Text to Speech in Python </a> <a href="bubble-sort-in-python">Bubble Sort in Python</a> <a href="logging-in-python">Logging in Python</a> <a href="insertion-sort-in-python">Insertion Sort in Python</a> <a href="binary-search-in-python">Binary Search in Python</a> <a href="linear-search-in-python">Linear Search in Python</a> <a href="python-vs-scala">Python vs Scala</a> <a href="queue-in-python">Queue in Python</a> <a href="stack-in-python">Stack in Python</a> <a href="heap-sort-in-python">Heap Sort in Python</a> <a href="palindrome-program-in-python">Palindrome program in python</a> <a href="program-of-cumulative-sum-in-python">Program of Cumulative sum in python</a> <a href="merge-sort-in-python">Merge Sort in Python</a> <a href="python-matrix">Python Matrix</a> <a href="python-unit-testing">Python Unit Testing</a> <a href="python-forensics-and-virtualization">Forensics &amp; Virtualization</a> <a href="best-books-to-learn-python">Best Books to Learn Python</a> <a href="best-books-to-learn-django-for-beginners-and-advance-programmers">Best Books to Learn Django</a> <a href="gcd-of-two-number-in-python">GCD of two number in python</a> <a href="python-program-to-generate-a-random-string">Python Program to generate a Random String</a> <a href="how-to-one-hot-encode-sequence-data-in-python">How to One Hot Encode Sequence Data in Python</a> <a href="how-to-write-square-root-in-python">How to write square root in Python</a> <a href="pointer-in-python">Pointer in Python</a> <a href="python-2d-array">Python 2D array</a> <a href="python-memory-management">Python Memory Management</a> <a href="python-libraries-for-data-visualization">Python Libraries for Data Visualization</a> <a href="how-to-call-a-function-in-python">How to call a function in Python</a> <a href="git-modules-in-python">Git Modules in Python</a> <a href="top-python-frameworks-for-gaming">Top Python Frameworks for Gaming</a> <a href="python-audio-modules">Python Audio Modules</a> <a href="wikipedia-module-in-python">Wikipedia Module in Python</a> <a href="python-random-randrange">Python random randrange()</a> <a href="permutation-and-combination-in-python">Permutation and Combination in Python</a> <a href="getopt-module-in-python">Getopt module in Python</a> <a href="merge-two-dictionaries-in-python">Merge two Dictionaries in Python</a> <a href="multithreading-in-python-3">Multithreading in Python 3</a> <a href="static-in-python">Static in Python</a> <a href="how-to-get-the-current-date-in-python">How to get the current date in Python</a> <a href="argparse-in-python">argparse in Python</a> <a href="python-tqdm-module">Python tqdm Module</a> <a href="caesar-cipher-in-python">Caesar Cipher in Python</a> <a href="tokenizer-in-python">Tokenizer in Python</a> <a href="how-to-add-two-lists-in-python">How to add two lists in Python</a> <a href="shallow-copy-and-deep-copy-in-python">Shallow Copy and Deep Copy in Python</a> <a href="atom-python">Atom Python</a> <a href="contains-in-python">Contains in Python</a> <a href="label-encoding-in-python">Label Encoding in Python</a> <a href="django-vs-node-js">Django vs. Node JS</a> <a href="python-frameworks">Python Frameworks</a> <a href="how-to-create-a-vector-in-python-using-numpy">How to create a vector in Python using NumPy</a> <a href="pickle-module-of-python">Pickle Module of Python</a> <a href="how-to-convert-bytes-to-string-in-python">How to convert Bytes to string in Python</a> <a href="python-program-to-find-anagram">Python Program to Find Anagram</a> <a href="how-to-convert-list-to-set">How to convert List to Set</a> <a href="python-vs-javascript">Python vs JavaScript</a> <a href="python-holidays-module">Python Holidays Module</a> <a href="fuzzywuzzy-python-library">FuzzyWuzzy Python Library</a> <a href="dask-python">Dask Python</a> <a href="dask-python-part-2">Dask Python (Part 2)</a> <a href="mode-in-python">Mode in Python</a> <a href="menu-driven-programs-in-python">Menu-Driven Programs in Python</a> <a href="python-array-vs-list">Python Array vs. List</a> <a href="what-is-duck-typing-in-python">What is duck typing in Python</a> <a href="pep-8-in-python">PEP 8 in Python</a> <a href="python-user-groups">Python User Groups</a> <a href="basic-commands-in-python">Basic Commands in Python</a> <a href="f-string-in-python">F String in Python</a> <a href="how-brython-works">How Brython Works</a> <a href="how-to-use-brython-in-the-browser">How to use Brython in the Browser</a> <a href="arima-model-in-python">Arima Model in Python</a> <a href="python-modulus-operator">Python Modulus Operator</a> <a href="matlab-vs-python">MATLAB vs. Python</a> <a href="method-resolution-order-in-python">Method Resolution Order in Python</a> <a href="monkey-patching-in-python">Monkey Patching in Python</a> <a href="python__call__method">Python __call__ method</a> <a href="python-heapq-module">Python heapq module</a> <a href="python-substring">Python Substring</a> <a href="project-ideas-for-python-beginners">Project ideas for Python Beginners</a> <a href="python-faker">Python Faker</a> <a href="fizz-buzz-program-in-python">Fizz-Buzz Program in Python</a> <a href="tabula-python">Tabula Python</a> <a href="python-program-to-print-prime-factor-of-given-number">Python Program to Print Prime Factor of Given Number</a> <a href="python-program-to-print-pascal-triangle">Python Program to Print Pascal Triangle</a> <a href="namedtuple-in-python">NamedTuple in Python</a> <a href="ordereddict-in-python">OrderedDict in Python</a> <a href="t-test-in-python">T-Test in Python</a> <a href="python-return-statement">Python return statement</a> <a href="getter-and-setter-in-python">Getter and Setter in Python</a> <a href="enum-class-in-python">Enum class in Python</a> <a href="destructors-in-python">Destructors in Python</a> <a href="curve-fit-in-python">Curve Fit in Python</a> <a href="converting-csv-to-json-in-python">Converting CSV to JSON in Python</a> <a href="underscore-in-python">Underscore (_) in Python</a> <a href="set-vs-list-in-python">Set vs List in Python</a> <a href="locating-and-executing-modules-in-python">Locating and Executing Modules</a> <a href="flatten-list-in-python">Flatten List in Python</a> <a href="pair-plot-in-python">Pair Plot in Python</a> <a href="data-hiding-in-python">Data Hiding in Python</a> <a href="python-program-to-find-intersection-of-two-lists">Python Program to Find Intersection of Two Lists</a> <a href="how-to-create-requirements-txt-file-in-python">How to Create Requirements.txt File in Python</a> <a href="tic-tac-toe-in-python">Tic-Tac-Toe in Python</a> <a href="python-asynchronous-programming-asyncio-and-await">Python Asynchronous Programming - asyncio and await</a> <a href="python-main-function">Python main() function</a> <a href="strftime-function-in-python">strftime() function in Python</a> <a href="verbose-flag-in-python-regex">Verbose Flag in Python Regex</a> <a href="python-ast-module">Python AST Module</a> <a href="python-requests-module-http-request">Python Requests Module - HTTP Request</a> <a href="shutil-module-in-python">Shutil Module in Python</a> <a href="python-epoch-to-datetime">Python epoch to Datetime</a> <a href="python-del-statement">Python del Statement</a> <a href="looping-technique-in-python">Looping technique in Python</a> <a href="metaprogramming-with-metaclasses-in-python">Metaprogramming with Metaclasses in Python</a> <a href="precision-handling-in-python">Precision Handling in Python</a> <a href="python-join-list">Python Join List</a> <a href="strip-function-in-python">strip() function in Python</a> <a href="gradient-descent-algorithm">Gradient Descent Algorithm</a> <a href="prettytable-in-python">Prettytable in Python</a> <a href="sentiment-analysis-in-python">Sentiment Analysis in Python</a> <a href="convert-python-list-to-numpy-arrays">Convert Python List to NumPy Arrays</a> <a href="traceback-in-python">Traceback in Python</a> <a href="time-clock-method-in-python">Time clock() Method in Python</a> <a href="deque-in-python">Deque in Python</a> <a href="dictionary-comprehension-in-python">Dictionary Comprehension in Python</a> <a href="python-data-analytics">Python Data Analytics</a> <a href="python-seek-method">Python seek() Method</a> <a href="ternary-operator-in-python">Ternary Operator in Python</a> <a href="how-to-calculate-area-of-circle-using-python">How to Calculate the Area of the Circle using Python</a> <a href="how-to-write-in-text-file-using-python">How to Write in Text File using Python</a> <a href="python-keyerror">Python KeyError</a> <a href="python-super-function">Python super() Function</a> <a href="max-function-in-python">max() function in Python</a> <a href="fraction-module-in-python">Fraction Module in Python</a> <a href="popular-python-framework-to-build-api">Popular Python Framework to Build API</a> <a href="how-to-check-python-version">How to Check Python version</a> <a href="python-s-string-formatting">Python %s - String Formatting</a> <a href="python-seaborn-library">Python seaborn Library</a> <a href="countplot-in-python">Countplot in Python</a> <a href="range-vs-xrange-python">range() Vs. Xrange() Python</a> <a href="wordcloud-package-in-python">Wordcloud Package in Python</a> <a href="convert-dataframe-into-list">Convert dataframe into list</a> <a href="anova-test-in-python">ANOVA Test in Python</a> <a href="python-program-to-find-compound-interest">Python program to find compound interest</a> <a href="ansible-in-python">Ansible in Python</a> <a href="python-important-tips-and-tricks">Python Important Tips and Tricks</a> <a href="python-coroutines">Python Coroutines</a> <a href="double-underscores-in-python">Double Underscores in Python</a> <a href="re-search-vs-re-findall-in-python-regex">re.search() VS re.findall() in Python Regex</a> <a href="how-to-install-statsmodels-in-python">How to install statsmodels in Python</a> <a href="cos-in-python">Cos in Python</a> <a href="vif-in-python">vif in Python</a> <a href="__add__-in-python">__add__ Method in Python</a> <a href="ethical-hacking-with-python">Ethical Hacking with Python</a> <a href="class-variable-vs-instance">Class Variable vs Instance</a> <a href="perfect-number-in-python">Perfect Number in Python</a> <a href="eol-in-python">EOL in Python</a> <a href="python-program-to-convert-hexadecimal-string-to-decimal-string">Python Program to convert Hexadecimal String to Decimal String</a> <a href="different-methods-in-python-for-swapping-two-numbers-without-using-third-variable">Different Methods in Python for Swapping Two Numbers without using third variable</a> <a href="how-to-change-plot-size-in-matplotlib">How to Change Plot Size in Matplotlib</a> <a href="how-to-get-zip-code-in-python">How to Get the Zip Code in Python</a> <a href="eel-in-python">Eel in Python</a> <a href="assignment-operators-in-python">Assignment Operators in Python</a> <a href="speech-recognition-python">Speech Recognition python</a> <a href="yield-vs-return-in-python">Yield vs Return in Python</a> <a href="graphene-python">Graphene Python</a> <a href="name-mangling-in-python">Name Mangling in Python</a> <a href="python-combination-without-itertools">Python combination without itertools</a> <a href="python-comprehensions">Python Comprehensions</a> <a href="Influxdb-in-python">InfluxDB in Python</a> <a href="kafka-in-python">Kafka Tutorial in Python</a> <a href="augmented-assignment-expressions-in-python">Augmented Assignment Expressions in Python</a> <a href="python-x-y-software">Python (x,y) Software</a> <a href="python-event-driven-programming">Python Event-Driven programming</a> <a href="python-semaphore">Python Semaphore</a> <a href="python-sorted-reverse">Python sorted reverse</a> <a href="automorphic-number-in-python">Automorphic Number in Python</a> <a href="sizeof-in-python">sizeof in Python</a> <a href="python-program-for-accepting-the-strings-which-contains-all-vowels">Python Program for accepting the strings which contains all vowels</a> <a href="class-based-views-vs-function-based-views">Class-based views vs Function-Based Views</a> <a href="how-to-handle-cookies-in-django">How to handle cookies in Django</a> <a href="agg-function-in-python">agg() function in Python</a> <a href="amicable-numbers-in-python">Amicable Numbers in Python</a> <a href="context-manager-in-python">Context Manager in Python</a> <a href="create-bmi-calculator-using-python">Create BMI Calculator using Python</a> <a href="string-to-binary-in-python">String to Binary in Python</a> <a href="what-is-script-mode-in-python">What is script mode in Python</a> <a href="best-python-libraries-for-machine-learning">Best Python libraries for Machine Learning</a> <a href="python-program-to-display-calendar-of-given-year">Python Program to Display Calendar of Given Year</a> <a href="how-to-open-url-in-python">How to open URL in Python</a> <a href="broken-pipe-error-in-python">Broken Pipe Error in Python</a> <a href="code-template-for-creating-objects-in-python">Code Template for Creating Objects in Python</a> <a href="python-program-to-calculate-the-best-time-to-buy-and-sell-stock">Python program to calculate the best time to buy and sell stock</a> <a href="tuple-to-string-in-python">Tuple to String in Python</a> <a href="kadanes-algorithm-in-python">Kadane's Algorithm in Python</a> <a href="loggers-in-django">Loggers in Django</a> <a href="weather-app-in-django">Weather App in Django</a> <a href="missing-data-conundrum-exploration-and-imputation-techniques">Missing Data Conundrum: Exploration and Imputation Techniques</a> <a href="different-methods-of-array-rotation-in-python">Different Methods of Array Rotation in Python</a> <a href="what-is-operator-overloading-in-python">What is Operator Overloading in Python</a> <a href="defaultdict-in-python">Defaultdict in Python</a> <a href="operator-module-in-python">Operator Module in Python</a> <a href="spinner-widget-in-kivy-library-of-python">Spinner Widget in the kivy Library of Python</a> <a href="number-plate-recognition-using-python">Number Plate Recognition using Python</a> <a href="obfuscating-a-python-program">Obfuscating a Python program</a> <a href="convert-string-to-dictionary-in-python">Convert string to dictionary in Python</a> <a href="convert-string-to-json-in-python">Convert string to JSON in Python</a> <a href="dbscan-algorithm-in-python">DBSCAN algorithm in Python</a> <a href="how-to-write-a-code-for-printing-python-exception-errorhierarchy">How to Write a Code for Printing the Python Exception/Error Hierarchy</a> <a href="principal-component-analysis-with-python">Principal Component Analysis (PCA) with Python</a> <a href="python-program-to-find-number-of-days-between-two-given-dates">Python Program to Find Number of Days Between Two Given Dates</a> <a href="object-recognition-using-python">Object Recognition using Python</a> <a href="python-vlc-module">Python VLC module</a> <a href="set-to-list-in-python">Set to list in Python</a> <a href="string-to-int-in-python">String to int in Python</a> <a href="internet-of-things-with-python">Internet of Things with Python</a> <a href="python-pysftp-module">Python pysftp module</a> <a href="amazing-hacks-of-python">Amazing hacks of Python</a> <a href="average-of-list-in-python">Average of list in Python</a> <a href="check-installed-modules-in-python">Check Installed Modules in Python</a> <a href="choice-in-python">choice() in Python</a> <a href="convert-list-to-dataframe-in-python">Convert List to dataframe in Python</a> <a href="convert-string-to-float-in-python">Convert String to Float in Python</a> <a href="decorators-with-parameters-in-python">Decorators with Parameters in Python</a> <a href="dynamic-typing-in-python">Dynamic Typing in Python</a> <a href="fabs-in-python">Fabs in Python</a> <a href="how-to-remove-decimal-in-python">How to Remove Decimal in Python</a> <a href="python-closure">Python Closure</a> <a href="python-glob-module">Python Glob Module</a> <a href="writing-a-python-module">Writing a Python Module</a> <a href="modules-vs-packages-in-python">Modules vs Packages in Python</a> <a href="snmp-module-in-python">SNMP module in Python</a> <a href="average-of-list-in-python">Average of list in Python</a> <a href="append-vs-extend-vs-insert-in-python">Append vs Extend vs Insert in Python</a> <a href="how-to-remove-duplicates-from-a-list-in-python">How to Remove Duplicates from a list in Python</a> <a href="remove-multiple-characters-from-a-string-in-python">Remove Multiple Characters from a String in Python</a> <a href="shuffle-in-python">Shuffle in Python</a> <a href="floor-and-ceil-functions-in-python">floor() and ceil() Functions in Python</a> <a href="sqrt-math-function-of-python">sqrt(): Math Function of Python</a> <a href="python-yfinance-module">Python yfinance Module</a> <a href="difflib-module-in-python">Difflib module in Python</a> <a href="convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe">Convert the Column Type from String to Datetime Format in Pandas DataFrame</a> <a href="python-wxpython-module">Python wxPython Module</a> <a href="random-uniform-python">Random Uniform Python</a> <a href="relational-operators-in-python">Relational Operators in Python</a> <a href="string-to-list-in-python">String to List in Python</a> <a href="chatbot-in-python">Chatbot in Python</a> <a href="how-to-convert-float-to-int-in-python">How to Convert float to int in Python</a> <a href="multiply-all-elements-in-list-of-python">Multiply All Elements in list of Python</a> <a href="module-vs-function-in-python">module vs function in Python</a> <a href="reverse-a-tuple-in-python">Reverse a tuple in Python</a> <a href="tuple-to-dictionary-in-python">Tuple to Dictionary in Python</a> <a href="datetime-timedelta-function-of-python">datetime.timedelta() Function of Python</a> <a href="python-bio-module">Python Bio Module</a> <a href="python-dash-module">Python Dash Module</a> <a href="how-to-select-rows-in-pandas-dataframe-based-on-conditions">How to Select rows in Pandas DataFrame Based on Conditions</a> <a href="typecasting-in-python">Typecasting in Python</a> <a href="dateutil-module-in-python">Dateutil module in Python</a> <a href="getpass-module-in-python">Getpass module in Python</a> <a href="python-wand-library">Python Wand library</a> <a href="generate-a-qr-code-using-python">Generate a QR Code using Python</a> <a href="best-python-pdf-library">Best Python PDF Library</a> <a href="python-cachetools-module">Python Cachetools Module</a> <a href="python-cmdparser-module">Python Cmdparser Module</a> <a href="python-dash-module">Python Dash module</a> <a href="python-emoji-module">Python Emoji Module</a> <a href="python-nmap-module">Python Nmap Module</a> <a href="python-pylab-module">Python PyLab Module</a> <a href="working-with-pdf-files-in-python">Working with PDF files in Python</a> <a href="pdf-handling-in-python">PDF Handling in Python</a> <a href="manipulating-pdf-using-python">Manipulating PDF using Python</a> <a href="list-all-functions-from-a-python-module">List All Functions from a Python Module</a> <a href="python-list-of-dictionaries">Python list of Dictionaries</a> <a href="python-shelve-module">Python Shelve Module</a> <a href="creating-interactive-pdf-forms-using-python">Creating Interactive PDF forms using Python</a> <a href="python-newspaper-module">Python Newspaper Module</a> <a href="how-to-connect-wi-fi-using-python">How to Connect Wi-Fi using Python</a> <a href="best-python-libraries-used-for-ethical-hacking">Best Python Libraries used for Ethical Hacking</a> <a href="windows-system-administration-management-using-python">Windows System Administration Management using Python</a> <a href="indentation-error-in-python">Indentation Error in Python</a> <a href="python-imaplib-module">Python imaplib Module</a> <a href="python-lxml-module">Python lxml Module</a> <a href="python-mayavi-module">Python MayaVi Module</a> <a href="python-os-listdir-method">Python os.listdir() method</a> <a href="python-modules-for-automation">Python Modules for Automation</a> <a href="data-visualization-in-python-using-bokeh-library">Data Visualization in Python using Bokeh Library</a> <a href="how-to-plot-glyphs-over-a-google-map-by-using-bokeh-library-in-python">How to Plot glyphs over a Google Map by using Bokeh Library in Python</a> <a href="how-to-plot-a-pie-chart-using-bokeh-library-in-python">How to Plot a Pie Chart using Bokeh Library in Python</a> <a href="how-to-read-contents-of-pdf-using-ocr-in-python">How to Read Contents of PDF using OCR in Python</a> <a href="grammar-and-spell-checker-in-python">Grammar and Spell Checker in Python</a> <a href="converting-html-to-pdf-files-using-python">Converting HTML to PDF files using Python</a> <a href="readlines-in-python">Readlines in Python</a> <a href="how-to-plot-multiple-lines-on-a-graph-using-bokeh-in-python">How to Plot Multiple Lines on a Graph Using Bokeh in Python</a> <a href="bokeh-plotting-figure-circle_x-function-in-python">bokeh.plotting.figure.circle_x() Function in Python</a> <a href="bokeh-plotting-figure-diamond_cross-function-in-python">bokeh.plotting.figure.diamond_cross() Function in Python</a> <a href="how-to-plot-rays-on-a-graph-using-bokeh-in-python">How to Plot Rays on a Graph using Bokeh in Python</a> <a href="image-steganography-using-python">Image Steganography using Python</a> <a href="inconsistent-use-of-tabs-and-spaces-in-indentation">Inconsistent use of tabs and spaces in indentation</a> <a href="how-to-plot-multiple-plots-using-bokeh-in-python">How to Plot Multiple Plots using Bokeh in Python</a> <a href="how-to-make-an-area-plot-in-python-using-bokeh">How to Make an Area Plot in Python using Bokeh</a> <a href="python-chempy-module">Python ChemPy Module</a> <a href="python-memory-profiler-module">Python memory-profiler Module</a> <a href="python-phonenumbers-module">Python Phonenumbers Module</a> <a href="python-platform-module">Python Platform Module</a> <a href="typeerror-string-indices-must-be-an-integer">TypeError string indices must be an integer</a> <a href="time-series-forecasting-with-prophet-in-python">Time Series Forecasting with Prophet in Python</a> <a href="python-pexpect-module">Python Pexpect Module</a> <a href="python-optparse-module">Python Optparse Module</a> <a href="int-object-is-not-iterable">int object is not iterable</a>. <a href="python-peewee-library">Python Peewee Library</a> <a href="some-cryptocurrency-libraries-for-python">Some Cryptocurrency Libraries for Python</a> <a href="building-a-blockchain-using-python">Building a Blockchain using Python</a> <a href="huffman-coding-using-python">Huffman Coding using Python</a> <a href="nested-dictionary-in-python">Nested Dictionary in Python</a> <a href="collections-userstring-in-python">Collections.UserString in Python</a> <a href="how-to-customize-legends-with-matplotlib">How to Customize Legends with Matplotlib</a> <a href="matplotlib-legend-in-subplot">Matplotlib legend in subplot</a> <a href="morphological-operations-in-image-processing-in-python">Morphological Operations in Image Processing in Python</a> <a href="role-of-python-in-artificial-intelligence">Role of Python in Artificial Intelligence</a> <a href="python-instagramy-module">Python Instagramy Module</a> <a href="python-pprint-module">Python pprint Module</a> <a href="python-primepy-module">Python PrimePy Module</a> <a href="android-development-using-python">Android Development using Python</a> <a href="python-fbchat-library">Python fbchat library</a> <a href="artificial-intelligence-in-cybersecurity-pitting-algorithms-vs-algorithms">Artificial Intelligence in Cybersecurity: Pitting Algorithms vs Algorithms</a> <a href="understanding-recognition-pattern-of-artificial-intelligence">Understanding The Recognition Pattern of Artificial Intelligence</a> <a href="when-and-how-to-leverage-lambda-architecture-in-big-data">When and How to Leverage Lambda Architecture in Big Data</a> <a href="why-should-we-learn-python-for-data-science">Why Should We Learn Python for Data Science</a> <a href="how-to-change-legend-position-in-matplotlib">How to Change the "legend" Position in Matplotlib</a> <a href="how-to-check-if-element-exists-in-list-in-python">How to Check if Element Exists in List in Python</a> <a href="how-to-check-spellings-of-given-words-using-enchant-in-python">How to Check Spellings of Given Words using Enchant in Python</a> <a href="python-program-to-count-number-of-matching-characters-in-a-pair-of-string">Python Program to Count the Number of Matching Characters in a Pair of String</a> <a href="ping-pong-game-using-turtle-in-python">Ping Pong Game Using Turtle in Python</a> <a href="python-function-to-display-clendar">Python Function to Display Calendar</a> <a href="python-program-for-calculating-sum-of-squares-of-first-n-natural-numbers">Python Program for Calculating the Sum of Squares of First n Natural Numbers</a> <a href="python-program-for-how-to-check-if-a-given-number-is-fibonacci-number-or-not">Python Program for How to Check if a Given Number is Fibonacci Number or Not</a> <a href="randint-function-in-python">randint() Function in Python</a> <a href="visualize-tiff-file-using-matplotlib-and-gdal-in-python">Visualize Tiff File using Matplotlib and GDAL in Python</a> <a href="rarfile-module-in-python">rarfile module in Python</a> <a href="stemming-words-using-python">Stemming Words using Python</a> <a href="python-program-for-word-guessing-game">Python Program for Word Guessing Game</a> <a href="blockchain-in-healthcare-innovations-and-opportunities">Blockchain in Healthcare: Innovations &amp; Opportunities</a> <a href="snake-game-in-python-using-turtle-module">Snake Game in Python using Turtle Module</a> <a href="how-to-find-armstrong-numbers-between-two-given-integers">How to Find Armstrong Numbers between two given Integers</a> <a href="celery-tutorial-using-python">Celery Tutorial Using Python</a> <a href="rsme-root-mean-square-error-in-python">RSME - Root Mean Square Error in Python</a> <a href="building-a-twitter-bot-using-python">Building a Twitter Bot using Python</a> <a href="python-progressbar-module">Python Progressbar Module</a> <a href="python-pronouncing-module">Python Pronouncing Module</a> <a href="python-pyautogui-module">Python PyAutoGUI Module</a> <a href="python-pyperclip-module">Python Pyperclip Module</a> <a href="how-to-generate-uuid-in-python">How to Generate UUID in Python</a> <a href="python-top-10-libraries-to-learn-in-2022">Python Top 10 Libraries to Learn in 2022</a> <a href="reading-netcdf-data-using-python">Reading NetCDF Data using Python</a> <a href="reprlib-module-in-python">The reprlib module in Python</a> <a href="how-to-take-multiple-input-from-user-in-python">How to take Multiple Input from User in Python</a> <a href="python-zlib-library">Python zlib Library</a> <a href="python-queue-module">Python Queue Module</a> <a href="python-yaml-parser">Python YAML Parser</a> <a href="effective-root-searching-algorithms-in-python">Effective Root Searching Algorithms in Python</a> <a href="python-bz2-module">Python Bz2 Module</a> <a href="python-ipaddress-module">Python IPaddress Module</a> <a href="python-pylint-module">Python PyLint Module</a> <a href="how-to-process-xml-in-python">How to Process XML in Python</a> <a href="bisect-algorithm-functions-in-python">Bisect Algorithm Functions in Python</a> <a href="creating-and-updating-powerpoint-presentation-using-python">Creating and Updating PowerPoint Presentation using Python</a> <a href="how-to-change-the-size-of-figure-drawn-with-matplotlib">How to change the size of figure drawn with matplotlib</a> <a href="keyboard-module-in-python">Keyboard Module in Python</a> <a href="python-pyfiglet-module">Python Pyfiglet Module</a> <a href="creating-an-mcq-quiz-game-in-python">Creating an MCQ Quiz Game in Python</a> <a href="statistic-with-python">Statistic with Python</a> <a href="what-is-gil-in-python-global-interpreter-lock">What is GIL in Python</a> <a href="basic-python-for-java-developers">Basic Python for Java Developers</a> <a href="how-to-download-youtube-videos-using-python-scripts">How to Download YouTube Videos Using Python Scripts</a> <a href="traffic-flow-simulation-in-python">Traffic Flow Simulation in Python</a> <a href="how-to-merge-and-sort-two-lists-in-python">How to Merge and Sort Two Lists in Python</a> <a href="metacharacters-in-python">Metacharacters in Python</a> <a href="write-python-program-to-print-all-possible-combination-of-integers">Write the Python Program to Print All Possible Combination of Integers</a> <a href="modulo-string-formatting-in-python">Modulo String Formatting in Python</a> <a href="counters-in-python">Counters in Python</a> <a href="python-pyautogui-library">Python pyautogui Library</a> <a href="how-to-draw-the-mandelbrot-set-in-python">How to Draw the Mandelbrot Set in Python</a> <a href="python-dbm-module">Python Dbm Module</a> <a href="webcam-motion-detector-in-python">Webcam Motion Detector in Python</a> <a href="graphql-implementation-in-django">GraphQL Implementation in Django</a> <a href="how-to-implement-protobuf-in-python">How to Implement Protobuf in Python</a> <a href="pyqt-library-in-python">PyQt library in Python</a> <a href="how-to-prettify-data-structures-with-pretty-print-in-python">How to Prettify Data Structures with Pretty Print in Python</a> <a href="encrypt-a-password-in-python-using-bcrypt">Encrypt a Password in Python Using bcrypt</a> <a href="pyramid-framework-in-python">Pyramid Framework in Python</a> <a href="building-a-telegram-bot-using-python">Building a Telegram bot using Python</a> <a href="web2py-framework-in-python">Web2py Framework in Python</a> <a href="python-os-chdir-method">Python os.chdir() Method</a> <a href="balancing-parentheses-in-python">Balancing Parentheses in Python</a> <a href="how-to-provide-multiple-constructors-in-python-classes">How to Provide Multiple Constructors in Python Classes</a> <a href="profiling-the-python-code">Profiling the Python code</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python Tkinter (GUI)</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-tkinter">Python Tkinter</a> <a href="python-tkinter-button">Tkinter Button</a> <a href="python-tkinter-canvas">Tkinter Canvas</a> <a href="python-tkinter-checkbutton">Tkinter Checkbutton</a> <a href="python-tkinter-entry">Tkinter Entry</a> <a href="python-tkinter-frame">Tkinter Frame</a> <a href="python-tkinter-label">Tkinter Label</a> <a href="python-tkinter-listbox">Tkinter Listbox</a> <a href="python-tkinter-menubutton">Tkinter Menubutton</a> <a href="python-tkinter-menu">Tkinter Menu</a> <a href="python-tkinter-message">Tkinter Message</a> <a href="python-tkinter-radiobutton">Tkinter Radiobutton</a> <a href="python-tkinter-scale">Tkinter Scale</a> <a href="python-tkinter-scrollbar">Tkinter Scrollbar</a> <a href="python-tkinter-text">Tkinter Text</a> <a href="python-tkinter-toplevel">Tkinter Toplevel</a> <a href="python-tkinter-spinbox">Tkinter Spinbox</a> <a href="python-tkinter-panedwindow">Tkinter PanedWindow</a> <a href="python-tkinter-labelframe">Tkinter LabelFrame</a> <a href="python-tkinter-messagebox">Tkinter MessageBox</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python Web Blocker</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-website-blocker">Introduction</a> <a href="python-website-blocker-building-python-script">Building Python Script</a> <a href="python-website-blocker-script-deployment-on-linux">Script Deployment on Linux</a> <a href="python-website-blocker-script-deployment-on-windows">Script Deployment on Windows</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python MCQ</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-mcq">Python MCQ</a> <a href="python-mcq-part-2">Python MCQ Part 2</a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Related Tutorials</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="numpy-tutorial"><span>NumPy Tutorial</span></a> <a href="django-tutorial"><span>Django Tutorial</span></a> <a href="flask-tutorial"><span>Flask Tutorial</span></a> <a href="python-pandas"><span>Pandas Tutorial</span></a> <a href="pytorch"><span>Pytorch Tutorial</span></a> <a href="pygame"><span>Pygame Tutorial</span></a> <a href="matplotlib"><span>Matplotlib Tutorial</span></a> <a href="opencv"><span>OpenCV Tutorial</span></a> <a href="python-openpyxl"><span>Openpyxl Tutorial</span></a> <a href="python-cgi-programming">Python CGI</a> <a href="python-design-pattern"><span>Python Design Pattern</span></a> 
+     </div> 
+     <div class="leftmenu2"> 
+      <h2 class="spanh2"><span class="spanh2">Python Programs</span></h2> 
+     </div> 
+     <div class="leftmenu"> <a href="python-programs"><span>Python Programs</span></a> 
+     </div> 
+     <img src="https://www.javatpoint.com/wh.JPG" alt="JavaTpoint"> 
+     <br> 
+     <div id="leftad" style="margin-left:20px"> 
+      <div id="17c09743-0b89-427c-ba64-e09f6a1745a2" class="_ap_apex_ad"> 
+       <script>
+		var adpushup = window.adpushup = window.adpushup || {};
+		adpushup.que = adpushup.que || [];
+		adpushup.que.push(function() {
+			adpushup.triggerAd("17c09743-0b89-427c-ba64-e09f6a1745a2");
+		});
+	</script> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="onlycontent"> 
+     <div class="onlycontentad"> 
+      <div id="9bbcb75d-b5e2-40e1-a811-e7680d1f59a4" class="_ap_apex_ad"> 
+       <script>
+		var adpushup = window.adpushup = window.adpushup || {};
+		adpushup.que = adpushup.que || [];
+		adpushup.que.push(function() {
+			adpushup.triggerAd("9bbcb75d-b5e2-40e1-a811-e7680d1f59a4");
+		});
+	</script> 
+      </div> 
+     </div> 
+     <div class="onlycontentinner"> 
+      <div id="city"> 
+       <table> 
+        <tbody>
+         <tr>
+          <td> 
+           <div id="bottomnextup"> <a class="next" href="python-modulus-operator">next &#x2192;</a> <a class="next" href="how-to-use-brython-in-the-browser">&#x2190; prev</a> 
+           </div> <h1 class="h1">Arima Model in Python</h1> <h3 class="h3">An Introduction to Time Series Forecasting</h3> <p>A Sequence of recording a metric over the constant time intervals is known as <strong>Time Series</strong>.</p> <p><strong>Based on the frequency, a Time Series can be classified into the following categories:</strong></p> 
+           <ol class="points"> 
+            <li>Yearly (For example, Annual Budget)</li> 
+            <li>Quarterly (For example, Expenses)</li> 
+            <li>Monthly (For example, Air Traffic)</li> 
+            <li>Weekly (For example, Sale Quantity)</li> 
+            <li>Daily (For instance, Weather)</li> 
+            <li>Hourly (For example, Stocks Price)</li> 
+            <li>Minutes wise (For example, Inbound Calls in a Call Centre)</li> 
+            <li>Seconds wise (For example, Web Traffic)</li> 
+           </ol> <p>Once we are done with Time Series Analysis, we have to forecast it in order to predict the future values that the series will be going to take.</p> <p><strong>However, what is the need for forecasting?</strong></p> <p>Since forecasting a Time Series, such as Sales and Demand, is often of incredible commercial value, which increases the need for forecasting.</p> <p><strong>Time Series Forecasting</strong> is generally used in many manufacturing companies as it drives the primary business planning, procurement, and production activities. Any forecasts' errors will undulate throughout the chain of the supply or any business framework, for that stuff. Thus, it is significant in order to get accurate predictions saving the costs, and is critical to success.</p> <p>The Concepts and Techniques behind Time Series forecasting can also be applied in any business, including manufacturing.</p> <p><strong>The Time Series forecasting can be broadly classified into two categories:</strong></p> 
+           <ol class="points"> 
+            <li><strong>Univariate Time Series Forecasting:</strong> The Univariate Time Series Forecasting is a forecasting of time series where we utilize the former values of the time series only in order to guess the forthcoming values.</li> 
+            <li><strong>Multi-Variate Time Series Forecasting:</strong> The Multi-Variate Time Series Forecasting is a forecasting of time series where we utilize the predictors other than the series, also known as exogenous variables, in order to forecast.</li> 
+           </ol> <p>In the following tutorial, we will understand the specific type of method known as <strong>ARIMA modeling</strong>.</p> <p><strong>Auto Regressive Integrated Moving Average</strong>, abbreviated as <strong>ARIMA</strong>, is an Algorithm for forecasting that is centered on the concept that the data in the previous values of the time series can alone be utilized in order to predict the future values.</p> <p>Let us understand the ARIMA Models in detail.</p> <h3 class="h3">An Introduction to ARIMA Models</h3> <p><strong>ARIMA</strong>, abbreviated for <strong>'Auto Regressive Integrated Moving Average'</strong>, is a class of models that 'demonstrates' a given time series based on its previous values: its lags and the lagged errors in forecasting, so that equation can be utilized in order to forecast future values.</p> <p>We can model any Time Series that are non-seasons exhibiting patterns and not a random white noise with <strong>ARIMA models</strong>.</p> <p><strong>There are three terms characterizing An ARIMA model:</strong></p> <p><strong>p, q, and d</strong></p> <p><strong>where,</strong></p> 
+           <ul class="points"> 
+            <li><strong>p</strong> = the order of the AR term</li> 
+            <li><strong>q</strong> = the order of the MA term</li> 
+            <li><strong>d</strong> = the number of differences required to make the time series stationary</li> 
+           </ul> <p>If a Time Series has seasonal patterns, we have to insert seasonal periods, and it becomes <strong>SARIMA</strong>, short for <strong>'Seasonal ARIMA'</strong>.</p> <p>Now, before understanding "<strong>the order of AR term</strong>", let us discuss 'd' term.</p> <h3 class="h3">What are 'p', 'q', and 'd' in the ARIMA model?</h3> <p>The primary step is <strong>to make the time series stationary</strong> in order to build an ARIMA model. This is because the term <strong>'Auto Regressive'</strong> in ARIMA implies a Linear Regression Model using its lags as predictors. And as we already know, Linear Regression Models work well for independent and non-correlated predictors.</p> <p>In order to make a series stationary, we will utilize the most common approach that is to subtract the past value from the present value. Sometimes, depending on the series complexity, multiple subtractions may be required.</p> <p>Therefore, the value of d is the minimum number of subtractions required to make the series stationary. And if the time series is already stationary, thus d becomes 0.</p> <p>Now, let us understand the terms '<strong>p</strong>' and '<strong>q</strong>'.</p> <p>The '<strong>p</strong>' is the order of the <strong>'AR' (Auto-Regressive) term</strong>, which means that the number of lags of Y to be utilized as predictors. At the same time, '<strong>q</strong>' is the order of the <strong>'MA' (Moving Average) term</strong>, which means that the number of lagged forecast errors should be used in the ARIMA Model.</p> <p>Now, let us understand what 'AR' and 'MA' models are in detail.</p> <h3 class="h3">Understanding Auto-Regressive (AR) and Moving Average (MA) Models</h3> <p>In the following section, we will discuss the AR and MA models and the actual mathematical formula for these models.</p> <p>A Pure AR (Auto-Regressive only) Model is a model which relies only on its own lags. Hence, we can also conclude that it is a function of the 'lags of Y<sub>t</sub>'</p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python.png" alt="Arima Model in Python"> <p>where, Y<sub>t-1</sub> is the lag1 of the series. &#x3b2;<sub>1</sub> is the coefficient of lag1 and is the term of intercept that is calculated by the model.</p> <p>Similarly, a Pure MA (Moving Average only) model is a model where Y<sub>t</sub> relies only on the lagged predicted errors.</p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python2.png" alt="Arima Model in Python"> <p>Where, the error terms are the AR models errors of the corresponding lags. The errors &#x3f5;<sub>t</sub> and &#x3f5;<sub>t-1</sub> are the errors from the equations given below:</p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python3.png" alt="Arima Model in Python"> <p>Thus, we have concluded Auto-Regressive (AR) and Moving Average (MA) models, respectively.</p> <p>Let us now understand the equation of an ARIMA Model.</p> <p>An ARIMA model is a model where the series of time was subtracted at least once in order to make it stationary, and we combine the Auto-Regressive (AR) and the Moving Average (MA) terms. Hence, we got the following equation:</p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python4.png" alt="Arima Model in Python"> <p><strong>ARIMA Model in words:</strong></p> <p><strong>Forecasted Y<sub>t</sub> = Constant + Linear Combination Lags of Y (up to p lags) + Linear Combination of Lagged Predicted Errors (up to q lags)</strong></p> <p>Thus, the objective of this model is to find the values of <strong>p, q</strong>, and <strong>d</strong>. However, how can we find one?</p> <p>Let us begin with finding the <strong>'d'</strong> in the ARIMA Model.</p> <h3 class="h3">Finding the order of differencing 'd' in the ARIMA Model</h3> <p>The primary purpose of differencing in the ARIMA model is to make the Time Series stationary.</p> <p>However, we have to take care of not over-differencing the series as an over-differenced series may also be stationary, which will affect the parameter of the model later.</p> <p>Now, let us understand the appropriate differencing order.</p> <p>The most appropriate differencing order is the minimum differencing needed in order to achieve an almost stationary series roaming around a defined mean and the ACF plat reaching Zero relatively faster.</p> <p>In case the autocorrelations are positive for multiple lags (generally, ten or more), the series requires further differencing. In contrast, if lag 1 autocorrelated itself pretty negatively, then the series is possibly over-differenced.</p> <p>In cases where we cannot actually decide between two differencing orders, then we have to choose the order providing the minor standard deviation in the differenced series.</p> <p>Let us consider an example to check if the series is stationary. We will use the <strong>Augmented Dickey-Fuller Test (adfuller())</strong> from the <strong>statsmodels</strong> package of <a href="https://www.javatpoint.com/python-tutorial">Python Programming Language</a>.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+from statsmodels.tsa.stattools import adfuller
+from numpy import log
+import pandas as pd
+
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+res = adfuller( mydata.value.dropna())
+print('Augmented Dickey-Fuller Statistic: %f' % res[0])
+print('p-value: %f' % res[1])
+</textarea>
+           </div> <p><strong>Output:</strong></p> 
+           <div class="codeblock3">
+            <pre>Augmented Dickey-Fuller Statistic: -2.464240
+p-value: 0.124419
+</pre>
+           </div> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the <strong>adfuller</strong> module along with the <strong>numpy</strong>'s log module and <strong>pandas</strong>. We have then used the <strong>pandas</strong> library to read the CSV file. We have then used the <strong>adfuller</strong> method and printed the values to the user.</p> <p>It is necessary to check whether the series is stationary or not. If not, we have to use difference; else, <strong>d</strong> becomes <strong>zero</strong>.</p> <p>The <strong>Augmented Dickey-Fuller (ADF)</strong> test's null hypothesis is that the time series is not stationary. Thus, if the ADF test's p-value is less than the significance level (0.05), then we will reject the null hypothesis and infer that the time series is definitely stationary. As we can observe, the p-value is more significant than the level of significance. Therefore, we can difference the series and check the plot of autocorrelation as shown below.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({'figure.figsize' : (9,7), 'figure.dpi' : 120})
+
+# Importing data
+df = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+# The Genuine Series
+fig, axes = plt.subplots(3, 2, sharex = True)
+axes[0, 0].plot(df.value); axes[0, 0].set_title('The Genuine Series')
+plot_acf(df.value, ax = axes[0, 1])
+
+# Order of Differencing: First
+axes[1, 0].plot(df.value.diff()); axes[1, 0].set_title('Order of Differencing: First')
+plot_acf(df.value.diff().dropna(), ax = axes[1, 1])
+
+# Order of Differencing: Second
+axes[2, 0].plot(df.value.diff().diff()); axes[2, 0].set_title('Order of Differencing: Second')
+plot_acf(df.value.diff().diff().dropna(), ax = axes[2, 1])
+
+plt.show()
+</textarea>
+           </div> <p><strong>Output:</strong></p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python5.png" alt="Arima Model in Python"> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the required libraries and modules. We have then imported the data and plot different graphs. We have plotted the original series graph, first-order differencing, and second-order differencing along with their autocorrelation graphs. As we can observe, the time series has reached stationarity with two differencing orders. However, when we have a look at the plot of autocorrelation for the Second order of differencing, the lag going into the far negative zone pretty faster, indicating the series might have been over differenced.</p> <p>Hence, we will tentatively be fixing the differencing order because the series is not properly stationary, or we can say that the series has weak stationarity.</p> <p>This can be done as shown below.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+from pmdarima.arima.utils import ndiffs
+import pandas as pd
+
+df = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+X = df.value
+
+# Augmented Dickey Fuller Test
+adftest = ndiffs(X, test = 'adf')
+
+# KPSS Test
+kpsstest = ndiffs(X, test = 'kpss')
+
+# PP Test
+pptest = ndiffs(X, test = 'pp')
+
+print("ADF Test =", adftest)
+print("KPSS Test =", kpsstest)
+print("PP Test =", pptest)
+</textarea>
+           </div> <p><strong>Output:</strong></p> 
+           <div class="codeblock3">
+            <pre>ADF Test = 2
+KPSS Test = 0
+PP Test = 2
+</pre>
+           </div> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the <strong>ndiffs</strong> method of the <strong>pmdarima</strong> module. We have then imported the dataset and defined 'X' as the object containing the values from the dataset. We used the <strong>ndiffs</strong> method to perform ADF, KPSS, and PP Tests and printed their results to the users.</p> <h3 class="h3">Finding the order of the Auto-Regressive (AR) term (p)</h3> <p>In the following section, we will discuss the steps to check whether the model requires any <strong>Auto-Regressive (AR) terms</strong>. The number of AR terms needed can be found by studying the <strong>Partial Autocorrelation (PACF) plot</strong>.</p> <p>We can consider <strong>Partial Autocorrelation</strong> as the correlation between the series and its lag once we exclude the contributions from the intermediate lags. Thus, <strong>PACF</strong> tends to convey the pure correlation between the series and its lag. Hence, we can identify whether that lag is required in the Auto-Regressive (AR) term or not.</p> <p>Partial Autocorrelation of lag(k) of a series is the coefficient of that lag in the Auto-Regression Equation of Y.</p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python6.png" alt="Arima Model in Python"> <p><strong>Now, let us understand how to find the number of AR terms?</strong></p> <p>As we know, any Autocorrelation in a stationary series can be rectified by inserting enough AR terms. Thus, we can initially take the order of the Auto-Regressive (AR) term equivalent to as many lags that cross the limit of significance in the PACF Plot.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({'figure.figsize':(9,3), 'figure.dpi':120})
+
+# importing data
+df = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+fig, axes = plt.subplots(1, 2, sharex = True)
+axes[0].plot(df.value.diff()); axes[0].set_title('Order of Differencing: First')
+axes[1].set(ylim = (0,5))
+plot_pacf(df.value.diff().dropna(), ax = axes[1])
+
+plt.show()
+</textarea>
+           </div> <p><strong>Output:</strong></p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python7.png" alt="Arima Model in Python"> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the required libraries, modules, and datasets. We have then plotted the graphs to represent the First Order Differencing and its partial autocorrelation.</p> <p>As a result, we can observe that the PACF lag 1 is pretty significant above the line of significance. Lag 2 also appears to be substantial, entirely maintaining to cross the limit of significance (blue region). However, we will be conservative and fix the p as one tentatively.</p> <h3 class="h3">Finding the Order of the Moving Average (MA) term (q)</h3> <p>Similar to what we have looked at earlier at the PACF plot for the number of Auto-Regressive (AR) Terms, we can use the ACF plot to find the number of Moving Average (MA) Terms. A Moving Average (MA) term is, theoretically, the lagged forecast's error.</p> <p>The ACF plot expresses the number of Moving Average (MA) terms needed to remove the autocorrelation in the stationary series.</p> <p>Let us consider the following example to understanding the autocorrelation plot of the differenced series.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({'figure.figsize' : (9,3), 'figure.dpi' : 120})
+
+# importing data
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+fig, axes = plt.subplots(1, 2, sharex = True)
+axes[0].plot(mydata.value.diff()); axes[0].set_title('Order of Differencing: First')
+axes[1].set(ylim = (0, 1.2))
+plot_acf(mydata.value.diff().dropna(), ax = axes[1])
+
+plt.show()
+</textarea>
+           </div> <p><strong>Output:</strong></p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python8.png" alt="Arima Model in Python"> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the required libraries, modules, and datasets. We have then plotted the graphs to represent the First Order Differencing and its Autocorrelation. As a result, we can observe that some lags are pretty above the line of significance. So, let us fix q as 2, tentatively. We can also use the simpler model in case of any doubt that adequately demonstrates the Y.</p> <h3 class="h3">Handling the A Slightly Under or Over-Differenced Time Series</h3> <p>Sometimes, a situation may occur where the series is slightly under-differenced, and differencing it one time extra makes the series somewhat over-differenced. In such cases, we have to add one or multiple additional Auto-Regressive (AR) Terms for the slightly under-differenced Time Series and add an extra Moving Average (MA) Term for the slightly over-differenced Time Series.</p> <p>Once we have discussed most of the topics, let us begin creating an ARIMA Model for Time Series Forecasting.</p> <h3 class="h3">Building the ARIMA Model</h3> <p>Once we have determined the values of p, q, and d, we will try creating the ARIMA model. The implementation of the <strong>ARIMA()</strong> module is shown below:</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.tsa.arima_model import ARIMA
+
+# importing data
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+# Creating ARIMA model
+mymodel = ARIMA(mydata.value, order = (1, 1, 2))
+modelfit = mymodel.fit(disp = 0)
+print(modelfit.summary())
+</textarea>
+           </div> <p><strong>Output:</strong></p> 
+           <div class="codeblock3">
+            <pre>ARIMA Model Results
+==============================================================================
+Dep. Variable:                D.value   No. Observations:                   99
+Model:                 ARIMA(1, 1, 2)   Log Likelihood                -253.790
+Method:                       css-mle   S.D. of innovations              3.119
+Date:                Thu, 15 Apr 2021   AIC                            517.579
+Time:                        21:10:37   BIC                            530.555
+Sample:                             1   HQIC                           522.829
+
+=================================================================================
+                    coef    std err          z      P&gt;|z|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const             1.1202      1.290      0.868      0.385      -1.409       3.649
+ar.L1.D.value     0.6351      0.257      2.469      0.014       0.131       1.139
+ma.L1.D.value     0.5287      0.355      1.489      0.136      -0.167       1.224
+ma.L2.D.value    -0.0010      0.321     -0.003      0.998      -0.631       0.629
+                                    Roots
+=============================================================================
+                  Real          Imaginary           Modulus         Frequency
+-----------------------------------------------------------------------------
+AR.1            1.5746           +0.0000j            1.5746            0.0000
+MA.1           -1.8850           +0.0000j            1.8850            0.5000
+MA.2          545.5472           +0.0000j          545.5472            0.0000
+-----------------------------------------------------------------------------
+</pre>
+           </div> <p><strong>Explanation:</strong></p> <p>In the above example, we have imported the new module called <strong>ARIMA</strong> from the <strong>statsmodels</strong> class and create the ARIMA model of the order 1, 1, and 2. We have then printed the summary of the model to the user. As we can observe, the overview of the model reveals a lot of details. The middle table is the table of coefficients where the <strong>'coef'</strong> values act as the related terms' weights.</p> <p>We can also notice that the MA2 term's coefficient tends to zero, and the P-Value in the <strong>'P &gt; |z|'</strong> column is exceedingly insignificant. The P-Value should be less than 0.05, ideally for the corresponding X to be significant.</p> <p>Now, let us try rebuilding the model without the MA2 term.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.tsa.arima_model import ARIMA
+
+# importing data
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+# Creating ARIMA model
+mymodel = ARIMA(mydata.value, order = (1, 1, 1))
+modelfit = mymodel.fit(disp = 0)
+print(modelfit.summary())
+</textarea>
+           </div> <p><strong>Output:</strong></p> 
+           <div class="codeblock3">
+            <pre>ARIMA Model Results
+==============================================================================
+Dep. Variable:                D.value   No. Observations:                   99
+Model:                 ARIMA(1, 1, 1)   Log Likelihood                -253.790
+Method:                       css-mle   S.D. of innovations              3.119
+Date:                Thu, 15 Apr 2021   AIC                            515.579
+Time:                        21:34:00   BIC                            525.960
+Sample:                             1   HQIC                           519.779
+
+=================================================================================
+                    coef    std err          z      P&gt;|z|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const             1.1205      1.286      0.871      0.384      -1.400       3.641
+ar.L1.D.value     0.6344      0.087      7.317      0.000       0.464       0.804
+ma.L1.D.value     0.5297      0.089      5.932      0.000       0.355       0.705
+                                    Roots
+=============================================================================
+                  Real          Imaginary           Modulus         Frequency
+-----------------------------------------------------------------------------
+AR.1            1.5764           +0.0000j            1.5764            0.0000
+MA.1           -1.8879           +0.0000j            1.8879            0.5000
+-----------------------------------------------------------------------------
+</pre>
+           </div> <p><strong>Explanation:</strong></p> <p>In the above example, we have reduced the AIC of the model, which is actually good. We can also observe that the AR1 and MA1 terms' P-Values' have been improved and are highly significant (&lt;&lt; 0.05).</p> <p>Now, let us plot the residuals in order to ensure that there are no patterns such as constant mean and variance.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.tsa.arima_model import ARIMA
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({'figure.figsize' : (9,3), 'figure.dpi' : 120})
+
+# importing data
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+# Creating ARIMA model
+mymodel = ARIMA(mydata.value, order = (1, 1, 1))
+modelfit = mymodel.fit(disp = 0)
+
+# Plotting Residual Errors
+myresiduals = pd.DataFrame(modelfit.resid)
+fig, ax = plt.subplots(1,2)
+myresiduals.plot(title = "Residuals", ax = ax[0])
+myresiduals.plot(kind = 'kde', title = 'Density', ax = ax[1])
+plt.show()
+</textarea>
+           </div> <p><strong>Output:</strong></p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python9.png" alt="Arima Model in Python"> <p><strong>Explanation:</strong></p> <p>In the above example, we have plotted the residual errors and density graphs. We can observe that the residual errors look fair with around zero mean and uniform variance. Let us plot the graph representing the actuals vs. fitted values with the help of the <strong>plot_predict()</strong> function.</p> <p><strong>Example:</strong></p> 
+           <div class="codeblock">
+            <textarea name="code" class="java">
+import numpy as np, pandas as pd
+from statsmodels.tsa.arima_model import ARIMA
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({'figure.figsize' : (9,3), 'figure.dpi' : 120})
+
+# importing data
+mydata = pd.read_csv('mydataset.csv', names = ['value'], header = 0)
+
+# Creating ARIMA model
+mymodel = ARIMA(mydata.value, order = (1, 1, 1))
+modelfit = mymodel.fit(disp = 0)
+
+# Actual vs Fitted
+modelfit.plot_predict(dynamic = False)
+plt.show()
+</textarea>
+           </div> <p><strong>Output:</strong></p> <img src="https://static.javatpoint.com/python/images/arima-model-in-python10.png" alt="Arima Model in Python"> <p><strong>Explanation:</strong></p> <p>In the above example, we have now plotted the 'actuals vs fitted' graph and set <strong>dynamic = False</strong>. As a result, the in-sample lagged values are utilized for forecasting.</p> <p>Thus, the model gets trained up until the past value makes the following forecast. Therefore, it can create the fitted forecast, and actuals appear preciously delicate.</p> 
+           <hr> 
+           <div class="nexttopicdiv"> <span class="nexttopictext">Next Topic</span><span class="nexttopiclink"><a href="python-modulus-operator">Python Modulus Operator</a></span> 
+           </div> <br><br> 
+           <div id="bottomnext"> <a style="float:left" class="next" href="how-to-use-brython-in-the-browser">&#x2190; prev</a> <a style="float:right" class="next" href="python-modulus-operator">next &#x2192;</a> 
+           </div> <br><br> </td>
+         </tr> 
+        </tbody>
+       </table> 
+      </div> 
+      <hr class="hrhomebox"> 
+      <div>
+       <img class="lazyload" data-src="https://static.javatpoint.com/images/youtube-32.png" style="vertical-align:middle;" alt="Youtube"> <span class="h3" style="vertical-align:middle;font-size:22px"> For Videos Join Our Youtube Channel: <a href="https://bit.ly/2FOeX6S" target="_blank"> Join Now</a></span> 
+      </div> 
+      <hr class="hrhomebox"> 
+      <h3 class="h3">Feedback</h3> 
+      <ul class="points"> 
+       <li>Send your Feedback to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="57313232333536343c173d3621362327383e39237934383a">[email&nbsp;protected]</a></li> 
+      </ul> 
+      <hr class="hrhomebox"> 
+      <h2 class="h2">Help Others, Please Share</h2> <a rel="nofollow" title="Facebook" target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.javatpoint.com/arima-model-in-python"><img src="https://www.javatpoint.com/images/facebook32.png" alt="facebook"></a> <a rel="nofollow" title="Twitter" target="_blank" href="https://twitter.com/share?url=https://www.javatpoint.com/arima-model-in-python"><img src="https://www.javatpoint.com/images/twitter32.png" alt="twitter"></a> <a rel="nofollow" title="Pinterest" target="_blank" href="https://www.pinterest.com/pin/create/button/?url=https://www.javatpoint.com/arima-model-in-python"><img src="https://www.javatpoint.com/images/pinterest32.png" alt="pinterest"></a> 
+      <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4699858549023382" data-ad-slot="5022809933" data-ad-format="auto" data-full-width-responsive="true"></ins> 
+      <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      <hr class="hrhomebox"> 
+      <fieldset class="gra1"> 
+       <h2 class="h3">Learn Latest Tutorials</h2> 
+       <div class="firsthomecontent"> <a href="https://www.javatpoint.com/splunk"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/splunk.png" alt="Splunk tutorial"> 
+          <p>Splunk</p> 
+         </div> </a> <a href="https://www.javatpoint.com/spss"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/spss.png" alt="SPSS tutorial"> 
+          <p>SPSS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/swagger"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/swagger.png" alt="Swagger tutorial"> 
+          <p>Swagger</p> 
+         </div> </a> <a href="https://www.javatpoint.com/t-sql"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/transact-sql.png" alt="T-SQL tutorial"> 
+          <p>Transact-SQL</p> 
+         </div> </a> <a href="https://www.javatpoint.com/tumblr"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/tumblr.png" alt="Tumblr tutorial"> 
+          <p>Tumblr</p> 
+         </div> </a> <a href="https://www.javatpoint.com/reactjs-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/react.png" alt="React tutorial"> 
+          <p>ReactJS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/regex"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/regex.png" alt="Regex tutorial"> 
+          <p>Regex</p> 
+         </div> </a> <a href="https://www.javatpoint.com/reinforcement-learning"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/react.png" alt="Reinforcement learning tutorial"> 
+          <p>Reinforcement Learning</p> 
+         </div> </a> <a href="https://www.javatpoint.com/r-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/r-programming.png" alt="R Programming tutorial"> 
+          <p>R Programming</p> 
+         </div> </a> <a href="https://www.javatpoint.com/rxjs"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/rxjs.png" alt="RxJS tutorial"> 
+          <p>RxJS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/react-native-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/react-native.png" alt="React Native tutorial"> 
+          <p>React Native</p> 
+         </div> </a> <a href="https://www.javatpoint.com/python-design-pattern"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/python-design-patterns.png" alt="Python Design Patterns"> 
+          <p>Python Design Patterns</p> 
+         </div> </a> <a href="https://www.javatpoint.com/python-pillow"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/python-pillow.png" alt="Python Pillow tutorial"> 
+          <p>Python Pillow</p> 
+         </div> </a> <a href="https://www.javatpoint.com/python-turtle-programming"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/python-turtle.png" alt="Python Turtle tutorial"> 
+          <p>Python Turtle</p> 
+         </div> </a> <a href="https://www.javatpoint.com/keras"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/keras.png" alt="Keras tutorial"> 
+          <p>Keras</p> 
+         </div> </a> 
+       </div> 
+      </fieldset> 
+      <hr class="hrhomebox"> 
+      <fieldset class="gra1"> 
+       <h2 class="h3">Preparation</h2> 
+       <div class="firsthomecontent"> <a href="https://www.javatpoint.com/aptitude/quantitative"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/aptitude/images/quantitative-aptitude-home.png" alt="Aptitude"> 
+          <p>Aptitude</p> 
+         </div> </a> <a href="https://www.javatpoint.com/reasoning"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/reasoning/images/reasoning-home.png" alt="Logical Reasoning"> 
+          <p>Reasoning</p> 
+         </div> </a> <a href="https://www.javatpoint.com/verbal-ability"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/verbal-ability/images/verbal-ability-home.png" alt="Verbal Ability"> 
+          <p>Verbal Ability</p> 
+         </div> </a> <a href="https://www.javatpoint.com/interview-questions-and-answers"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/logo/interviewhome.png" alt="Interview Questions"> 
+          <p>Interview Questions</p> 
+         </div> </a> <a href="https://www.javatpoint.com/company-interview-questions-and-recruitment-process"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/interview/images/company-home.jpeg" alt="Company Interview Questions"> 
+          <p>Company Questions</p> 
+         </div> </a> 
+       </div> 
+      </fieldset> 
+      <hr class="hrhomebox"> 
+      <fieldset class="gra1"> 
+       <h2 class="h3">Trending Technologies</h2> 
+       <div class="firsthomecontent"> <a href="https://www.javatpoint.com/artificial-intelligence-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/artificial-intelligence.png" alt="Artificial Intelligence Tutorial"> 
+          <p>Artificial Intelligence</p> 
+         </div> </a> <a href="https://www.javatpoint.com/aws-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/amazon-web-services.png" alt="AWS Tutorial"> 
+          <p>AWS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/selenium-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/selenium.png" alt="Selenium tutorial"> 
+          <p>Selenium</p> 
+         </div> </a> <a href="https://www.javatpoint.com/cloud-computing-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/cloud-computing.png" alt="Cloud Computing tutorial"> 
+          <p>Cloud Computing</p> 
+         </div> </a> <a href="https://www.javatpoint.com/hadoop-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/hadoop.png" alt="Hadoop tutorial"> 
+          <p>Hadoop</p> 
+         </div> </a> <a href="https://www.javatpoint.com/reactjs-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/reactjs.png" alt="ReactJS Tutorial"> 
+          <p>ReactJS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/data-science"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/data-science.png" alt="Data Science Tutorial"> 
+          <p>Data Science</p> 
+         </div> </a> <a href="https://www.javatpoint.com/angular-7-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/angular7.png" alt="Angular 7 Tutorial"> 
+          <p>Angular 7</p> 
+         </div> </a> <a href="https://www.javatpoint.com/blockchain-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/blockchain.png" alt="Blockchain Tutorial"> 
+          <p>Blockchain</p> 
+         </div> </a> <a href="https://www.javatpoint.com/git"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/git.png" alt="Git Tutorial"> 
+          <p>Git</p> 
+         </div> </a> <a href="https://www.javatpoint.com/machine-learning"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/machine-learning.png" alt="Machine Learning Tutorial"> 
+          <p>Machine Learning</p> 
+         </div> </a> <a href="https://www.javatpoint.com/devops"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/devops.png" alt="DevOps Tutorial"> 
+          <p>DevOps</p> 
+         </div> </a> 
+       </div> 
+      </fieldset> 
+      <hr class="hrhomebox"> 
+      <fieldset class="gra1"> 
+       <h2 class="h3">B.Tech / MCA</h2> 
+       <div class="firsthomecontent"> <a href="https://www.javatpoint.com/dbms-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/dbms.png" alt="DBMS tutorial"> 
+          <p>DBMS</p> 
+         </div> </a> <a href="https://www.javatpoint.com/data-structure-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/data-structures.png" alt="Data Structures tutorial"> 
+          <p>Data Structures</p> 
+         </div> </a> <a href="https://www.javatpoint.com/daa-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/daa.png" alt="DAA tutorial"> 
+          <p>DAA</p> 
+         </div> </a> <a href="https://www.javatpoint.com/os-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/operating-system.png" alt="Operating System tutorial"> 
+          <p>Operating System</p> 
+         </div> </a> <a href="https://www.javatpoint.com/computer-network-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/computer-network.png" alt="Computer Network tutorial"> 
+          <p>Computer Network</p> 
+         </div> </a> <a href="https://www.javatpoint.com/compiler-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/compiler-design.png" alt="Compiler Design tutorial"> 
+          <p>Compiler Design</p> 
+         </div> </a> <a href="https://www.javatpoint.com/computer-organization-and-architecture-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/computer-organization.png" alt="Computer Organization and Architecture"> 
+          <p>Computer Organization</p> 
+         </div> </a> <a href="https://www.javatpoint.com/discrete-mathematics-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/discrete-mathematics.png" alt="Discrete Mathematics Tutorial"> 
+          <p>Discrete Mathematics</p> 
+         </div> </a> <a href="https://www.javatpoint.com/ethical-hacking-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/ethical-hacking.png" alt="Ethical Hacking Tutorial"> 
+          <p>Ethical Hacking</p> 
+         </div> </a> <a href="https://www.javatpoint.com/computer-graphics-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/computer-graphics.png" alt="Computer Graphics Tutorial"> 
+          <p>Computer Graphics</p> 
+         </div> </a> <a href="https://www.javatpoint.com/software-engineering-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/software-engineering.png" alt="Software Engineering Tutorial"> 
+          <p>Software Engineering</p> 
+         </div> </a> <a href="https://www.javatpoint.com/html-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/web-technology.png" alt="html tutorial"> 
+          <p>Web Technology</p> 
+         </div> </a> <a href="https://www.javatpoint.com/cyber-security-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/cyber-security.png" alt="Cyber Security tutorial"> 
+          <p>Cyber Security</p> 
+         </div> </a> <a href="https://www.javatpoint.com/automata-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/automata.png" alt="Automata Tutorial"> 
+          <p>Automata</p> 
+         </div> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/c-programming.png" alt="C Language tutorial"> 
+          <p>C Programming</p> 
+         </div> </a> <a href="https://www.javatpoint.com/cpp-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/cpp.png" alt="C++ tutorial"> 
+          <p>C++</p> 
+         </div> </a> <a href="https://www.javatpoint.com/java-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/java.png" alt="Java tutorial"> 
+          <p>Java</p> 
+         </div> </a> <a href="https://www.javatpoint.com/net-framework"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/dot-net.png" alt=".Net Framework tutorial"> 
+          <p>.Net</p> 
+         </div> </a> <a href="https://www.javatpoint.com/python-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/python.png" alt="Python tutorial"> 
+          <p>Python</p> 
+         </div> </a> <a href="https://www.javatpoint.com/programs-list"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/programs.png" alt="List of Programs"> 
+          <p>Programs</p> 
+         </div> </a> <a href="https://www.javatpoint.com/control-system-tutorial"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/control-system.png" alt="Control Systems tutorial"> 
+          <p>Control System</p> 
+         </div> </a> <a href="https://www.javatpoint.com/data-mining"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/data-mining.png" alt="Data Mining Tutorial"> 
+          <p>Data Mining</p> 
+         </div> </a> <a href="https://www.javatpoint.com/data-warehouse"> 
+         <div class="homecontent">
+          <img class="lazyload" data-src="https://static.javatpoint.com/images/homeicon/data-warehouse.png" alt="Data Warehouse Tutorial"> 
+          <p>Data Warehouse</p> 
+         </div> </a> 
+       </div> 
+      </fieldset> 
+     </div> 
+     <br>
+     <br>
+     <div class="mobilemenu" style="clear:both"> 
+      <ins class="adPushupAds" data-adpcontrol="jrfe7" data-ver="2" data-siteid="37780" data-ac="PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4KPCEtLSByZXNwb25zaXZlbW9iaWxlZm9vdGVyIC0tPgo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICBzdHlsZT0iZGlzcGxheTpibG9jayIKICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTQ2OTk4NTg1NDkwMjMzODIiCiAgICAgZGF0YS1hZC1zbG90PSI4MjIyODY2MzE4IgogICAgIGRhdGEtYWQtZm9ybWF0PSJhdXRvIgogICAgIGRhdGEtZnVsbC13aWR0aC1yZXNwb25zaXZlPSJ0cnVlIj48L2lucz4KPHNjcmlwdD4KKGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTsKPC9zY3JpcHQ+"></ins>
+      <script data-cfasync="false" type="text/javascript">(function (w, d) { for (var i = 0, j = d.getElementsByTagName("ins"), k = j[i]; i < j.length; k = j[++i]){ if(k.className == "adPushupAds" && k.getAttribute("data-push") != "1") { ((w.adpushup = w.adpushup || {}).control = (w.adpushup.control || [])).push(k); k.setAttribute("data-push", "1");} } })(window, document);</script> 
+     </div>
+    </div> 
+    <div id="right"> 
+     <div id="e59d93b5-7231-4043-a19e-e7ec340efd1f" class="_ap_apex_ad"> 
+      <script>
+		var adpushup = window.adpushup = window.adpushup || {};
+		adpushup.que = adpushup.que || [];
+		adpushup.que.push(function() {
+			adpushup.triggerAd("e59d93b5-7231-4043-a19e-e7ec340efd1f");
+		});
+	</script> 
+     </div> 
+     <br>
+     <br> 
+    </div> 
+    <div class="right1024" style="float:left;margin-left:10px;margin-top:120px;"> 
+     <ins class="adPushupAds" data-adpcontrol="6d5qg" data-ver="2" data-siteid="37780" data-ac="PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4KPCEtLSByaWdodDEwMjRvbmx5IC0tPgo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MTIwcHg7aGVpZ2h0OjYwMHB4IgogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItNDY5OTg1ODU0OTAyMzM4MiIKICAgICBkYXRhLWFkLXNsb3Q9IjIxODAxMTg3MTYiPjwvaW5zPgo8c2NyaXB0PgooYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwo8L3NjcmlwdD4K"></ins>
+     <script data-cfasync="false" type="text/javascript">(function (w, d) { for (var i = 0, j = d.getElementsByTagName("ins"), k = j[i]; i < j.length; k = j[++i]){ if(k.className == "adPushupAds" && k.getAttribute("data-push") != "1") { ((w.adpushup = w.adpushup || {}).control = (w.adpushup.control || [])).push(k); k.setAttribute("data-push", "1");} } })(window, document);</script> 
+     <br>
+     <br> 
+     <ins class="adPushupAds" data-adpcontrol="6d5qg" data-ver="2" data-siteid="37780" data-ac="PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4KPCEtLSByaWdodDEwMjRvbmx5IC0tPgo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MTIwcHg7aGVpZ2h0OjYwMHB4IgogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItNDY5OTg1ODU0OTAyMzM4MiIKICAgICBkYXRhLWFkLXNsb3Q9IjIxODAxMTg3MTYiPjwvaW5zPgo8c2NyaXB0PgooYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwo8L3NjcmlwdD4K"></ins>
+     <script data-cfasync="false" type="text/javascript">(function (w, d) { for (var i = 0, j = d.getElementsByTagName("ins"), k = j[i]; i < j.length; k = j[++i]){ if(k.className == "adPushupAds" && k.getAttribute("data-push") != "1") { ((w.adpushup = w.adpushup || {}).control = (w.adpushup.control || [])).push(k); k.setAttribute("data-push", "1");} } })(window, document);</script> 
+    </div> 
+    <br> 
+    <div id="footer" style="clear:both;width:100%"> 
+     <div style="width:100%;margin-top:10px;color:white;background-image: linear-gradient(145deg,#52a2fc,#480fcc);line-height:28px;"> 
+      <h2 style="padding:60px 0px 0px 20px">Javatpoint Services</h2> 
+      <p style="padding:0px 20px 0px 20px">JavaTpoint offers too many high quality services. Mail us on <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3e564c7e545f485f4a4e5157504a105d5153">[email&nbsp;protected]</a>, to get more information about given services. </p>
+      <ul class="points"> 
+       <li>Website Designing</li>
+       <li>Website Development</li>
+       <li>Java Development</li>
+       <li>PHP Development</li>
+       <li>WordPress</li>
+       <li>Graphic Designing</li>
+       <li>Logo</li>
+       <li>Digital Marketing</li>
+       <li>On Page and Off Page SEO</li>
+       <li>PPC</li>
+       <li>Content Development</li>
+       <li>Corporate Training</li>
+       <li>Classroom and Online Training</li>
+       <li>Data Entry</li>
+      </ul> 
+      <p style="padding-bottom:60px"></p>
+     </div>
+     <div style="width:100%;margin-top:-20px;color:white;background-image: linear-gradient(145deg,#dc8140,#b16b15);line-height:28px;"> 
+      <h2 style="padding:60px 0px 0px 20px">Training For College Campus</h2> 
+      <p style="padding:0px 20px 60px 20px">JavaTpoint offers college campus training on Core Java, Advance Java, .Net, Android, Hadoop, PHP, Web Technology and Python. Please mail your requirement at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="aec6dceec4cfd8cfdadec1c7c0da80cdc1c380">[email&nbsp;protected]</a> <br>Duration: 1 week to 2 week<br></p>
+     </div>
+     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+     <script>var _gaq=_gaq || []; _gaq.push(['_setAccount', 'UA-24880427-1']); _gaq.push(['_trackPageview']); (function(){var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true; ga.src=('https:'==document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js'; var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+     <div style="margin-top:5px;text-align:center"> <sup style="font:16px arial;">Like/Subscribe us for latest updates or newsletter </sup> <a target="_blank" rel="nofollow noopener" href="https://feeds.feedburner.com/javatpointsonoo"><img src="https://static.javatpoint.com/images/social/rss1.png" alt="RSS Feed"></a> <a target="_blank" rel="nofollow noopener" href="https://feedburner.google.com/fb/a/mailverify?uri=javatpointsonoo"><img src="https://static.javatpoint.com/images/social/mail1.png" alt="Subscribe to Get Email Alerts"></a> <a rel="nofollow noopener" target="_blank" href="https://www.facebook.com/javatpoint"><img src="https://static.javatpoint.com/images/social/facebook1.jpg" alt="Facebook Page"></a> <a target="_blank noopener" rel="nofollow" href="https://twitter.com/pagejavatpoint"><img src="https://static.javatpoint.com/images/social/twitter1.png" alt="Twitter Page"></a> <a target="_blank" rel="nofollow noopener" href="https://www.youtube.com/channel/UCUnYvQVCrJoFWZhKK3O2xLg"><img src="https://static.javatpoint.com/images/youtube32.png" alt="YouTube"></a> <a target="_blank" rel="nofollow noopener" href="https://javatpoint.blogspot.com"><img src="https://static.javatpoint.com/images/social/blog.png" alt="Blog Page"></a> 
+     </div>
+     <footer class="footer1">
+      <div class="column4">
+       <h3>Learn Tutorials</h3><a href="https://www.javatpoint.com/java-tutorial">Learn Java</a><a href="https://www.javatpoint.com/data-structure-tutorial">Learn Data Structures</a><a href="https://www.javatpoint.com/c-programming-language-tutorial">Learn C Programming</a><a href="https://www.javatpoint.com/cpp-tutorial">Learn C++ Tutorial</a><a href="https://www.javatpoint.com/c-sharp-tutorial">Learn C# Tutorial</a><a href="https://www.javatpoint.com/php-tutorial">Learn PHP Tutorial</a><a href="https://www.javatpoint.com/html-tutorial">Learn HTML Tutorial</a><a href="https://www.javatpoint.com/javascript-tutorial">Learn JavaScript Tutorial</a><a href="https://www.javatpoint.com/jquery-tutorial">Learn jQuery Tutorial</a><a href="https://www.javatpoint.com/spring-tutorial">Learn Spring Tutorial</a>
+      </div>
+      <div class="column4">
+       <h3>Our Websites</h3><a href="https://www.javatpoint.com">Javatpoint.com</a><a rel="dofollow noopener" target="_blank" href="https://www.hindi100.com">Hindi100.com</a><a rel="dofollow noopener" target="_blank" href="https://www.lyricsia.com">Lyricsia.com</a><a rel="nofollow noopener" target="_blank" href="https://www.quoteperson.com">Quoteperson.com</a><a rel="nofollow noopener" target="_blank" href="https://www.jobandplacement.com">Jobandplacement.com</a>
+      </div>
+      <div class="column4">
+       <h3>Our Services</h3>
+       <p>Website Development</p>
+       <p>Android Development</p>
+       <p>Website Designing</p>
+       <p>Digital Marketing</p>
+       <p>Summer Training</p>
+       <p>Industrial Training</p>
+       <p>College Campus Training</p>
+      </div>
+      <div class="column4">
+       <h3>Contact</h3>
+       <p>Address: G-13, 2nd Floor, Sec-3</p>
+       <p>Noida, UP, 201301, India</p>
+       <p>Contact No: 0120-4256464, 9990449935</p><a href="https://www.javatpoint.com/contact-us">Contact Us</a> <a href="https://www.javatpoint.com/subscribe.jsp">Subscribe Us</a> <a href="https://www.javatpoint.com/privacy-policy">Privacy Policy</a><a href="https://www.javatpoint.com/sitemap.xml">Sitemap</a>
+       <br><a href="https://www.javatpoint.com/sonoo-jaiswal">About Me</a>
+      </div>
+     </footer>
+     <footer class="footer2">
+      <p>© Copyright 2011-2021 www.javatpoint.com. All rights reserved. Developed by JavaTpoint.</p>
+     </footer> 
+     <div id="bot-root"></div> 
+     <script> 
+ (function() {
+ var e = document.createElement('script');
+ e.src = 'https://app.pushbrothers.com/js/notification-bot.js?cnfg=a3cc04a1-8471-450e-b01e-c9d752b16eb0';
+ document.getElementById('bot-root').appendChild(e);}());
+</script> 
+    </div> 
+   </div>
+  </div> 
+  <script src="https://static.javatpoint.com/js/shcoreandbrush.js"></script>
+  <script> dp.SyntaxHighlighter.HighlightAll('code'); </script> 
+  <script src="https://static.javatpoint.com/lazysizes.min.js" async></script>  
+ </body>
+</html>
